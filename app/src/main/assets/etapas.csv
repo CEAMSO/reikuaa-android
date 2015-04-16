@@ -1,0 +1,11 @@
+codigo,nombre
+PLAN,Planificada
+CONV,Abierta - En Convocatoria
+EVAL,Cerrada - En Evaluación
+CAN,Anulada o Cancelada
+ADJ,Adjudicada
+DES,Desierta
+SUS,Suspendida
+RP,Subasta en Recepción de Propuestas
+SC,Subasta en Competencia
+TOD,(Todas las etapas)

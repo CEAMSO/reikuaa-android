@@ -1,0 +1,37 @@
+id,codigo,nombre
+1,CD,Contratación Directa
+2,CE,Contratación por Excepción
+3,CO,Concurso de Ofertas
+4,LPI,Licitación Pública Internacional
+5,LPN,Licitación Pública Nacional
+7,LC,Locación de Inmuebles
+9,AN,Acuerdo Nacional
+14,SBCC,BM - Selección basada en la calidad y el costo - SBCC
+24,CD,BM - Contratación Directa - CD
+26,CD,BID - Contratación Directa (CD/SD)
+31,CD,Contratación Directa
+33,CO,Concurso de Ofertas 
+35,LPN,Licitación Pública Nacional
+36,LPI,BID - Licitación Internacional
+37,LPN,BID - Licitación Pública Nacional
+38,CD,Contratación Directa
+39,CE,Contratación por Excepción
+40,CO,Concurso de Ofertas
+41,LPI,Licitación Internacional
+42,LPN,Licitación Pública Nacional
+43,LC,Locación de Inmuebles
+44,CO,BID - Concurso de Ofertas (CO/CP)
+45,LC,Locación de Inmuebles
+48,SBMC,BM - Selección basada en el menor costo - SBMC
+50,LPN,BM - Licitación Pública Nacional - LPN
+51,LPI,BM - Licitación Pública Internacional - LPI
+52,SBCC,Selección basada en la calidad y el costo - SBCC
+53,SBC,Selección basada en la calidad - SBC
+54,SBPF,Selección cuando el presupuesto es fijo - SBPF
+55,SBMC,Selección basada en el menor costo - SBMC 
+56,SCC,Selección basada en las calificaciones de los consultores - SCC
+58,3CV,Selección sobre la base la comparación de las calificaciones - 3CV
+60,CO,BM - Concurso de Ofertas - CO
+61,CE,BM - Contratación por Excepción - CE
+62,3CV,Selección sobre la base la comparación de las calificaciones - 3CV
+63,TOD,(Todos los tipos)

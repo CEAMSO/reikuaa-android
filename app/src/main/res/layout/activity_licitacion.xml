@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="py.gov.contrataciones.reikuaa.view.LicitacionActivity"
+    android:visibility="visible">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"
+        />
+
+    <include
+        layout="@layout/progress_item"
+        android:id="@+id/linlaHeaderProgress"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        android:visibility="gone"
+        />
+
+    <include
+        layout="@layout/datos_licitacion"
+        android:id="@+id/cuerpoLicitacion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        />
+
+    <net.i2p.android.ext.floatingactionbutton.FloatingActionsMenu
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/actionsMenu"
+        app:fab_addButtonColorNormal="@color/ColorPrimary"
+        app:fab_addButtonColorPressed="@color/ColorPrimaryDark"
+        app:fab_addButtonPlusIconColor="#fff"
+        app:fab_labelStyle="@style/menu_labels_style"
+        app:fab_labelsPosition="left">
+
+    <net.i2p.android.ext.floatingactionbutton.FloatingActionButton
+        android:id="@+id/suscribirse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fab_colorNormal="@color/ColorPrimary"
+        app:fab_title="@string/suscribrise"
+        app:fab_colorPressed="@color/ColorPrimaryDark"/>
+
+    <net.i2p.android.ext.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="irAdjudicacion"
+        app:fab_colorNormal="@color/ColorPrimary"
+        app:fab_icon="@drawable/ic_veradj"
+        app:fab_title="@string/ver_adjudicacion"
+        app:fab_colorPressed="@color/ColorPrimaryDark"/>
+    </net.i2p.android.ext.floatingactionbutton.FloatingActionsMenu>
+
+    <RelativeLayout
+        android:id="@+id/errorMessage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/ic_action_refresher"
+            android:onClick="tryAgainFetch" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/network_error"
+            android:id="@+id/textView"
+            android:layout_below="@+id/imageButton"
+            android:layout_centerHorizontal="true"
+            android:textColor="#000" />
+    </RelativeLayout>
+
+    <include
+        layout="@layout/error404"
+        android:id="@+id/error404"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>

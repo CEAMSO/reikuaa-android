@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#f57215</color>
+    <color name="ColorPrimaryDark">#d25900</color>
+    <color name="ColorControlNormal">#adb8ba</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="bg_swipe_item_neutral">#ffffffff</color>
+    <color name="bg_swipe_item_left">#fff9930d</color>
+</resources>

@@ -1,0 +1,3575 @@
+[
+  {
+    "codigo": 167,
+    "nombre": "ADMINISTRACIÓN NACIONAL DE ELECTRICIDAD (ANDE)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS PÚBLICAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 169,
+    "nombre": "ADMINISTRACIÓN NACIONAL DE NAVEGACIÓN Y PUERTOS (ANNP)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS PÚBLICAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 316,
+    "nombre": "AGENCIA FINANCIERA DE DESARROLLO (AFD)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES FINANCIERAS OFICIALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 358,
+    "nombre": "AGENCIA NAC. DE EVAL. Y ACREDITACIÓN DE LA EDUCACIÓN SUP.",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 359,
+    "nombre": "AGENCIA NACIONAL DE TRANSITO Y SEGURIDAD VIAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1887,
+    "nombre": "Ampliación y Reposicion de espacios escolares en 111 establecimientos educativos del MEC en Asunción y los departamentos geográficos del pais",
+    "tipo": "PROYECTO",
+    "dependiente_de": "MINISTERIO DE EDUCACIÓN Y CULTURA",
+    "dependiente_de_codigo": 1,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1888,
+    "nombre": "Ampliación y Reposicion de espacios escolares en 822 establecimientos educativos del MEC en Asunción y los 17 departamentos geográficos del pais",
+    "tipo": "PROYECTO",
+    "dependiente_de": "MINISTERIO DE EDUCACIÓN Y CULTURA",
+    "dependiente_de_codigo": 1,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1019,
+    "nombre": "AUDITORIA DEL PODER EJECUTIVO",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 39,
+    "nombre": "BANCO CENTRAL DEL PARAGUAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "BANCA CENTRAL DEL ESTADO",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 202,
+    "nombre": "BANCO NACIONAL DE AHORRO Y PRESTAMO PARA LA VIVIENDA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES FINANCIERAS OFICIALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 191,
+    "nombre": "BANCO NACIONAL DE FOMENTO (BNF)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES FINANCIERAS OFICIALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 162,
+    "nombre": "CAJA DE JUBILACIONES Y PENSIONES DE EMPL. DE BANCOS Y AFINES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES PÚBLICAS DE SEGURIDAD SOCIAL",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 159,
+    "nombre": "CAJA DE JUBILACIONES Y PENSIONES DEL PERSONAL DE LA ANDE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES PÚBLICAS DE SEGURIDAD SOCIAL",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 163,
+    "nombre": "CAJA DE JUBILACIONES Y PENSIONES DEL PERSONAL MUNICIPAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES PÚBLICAS DE SEGURIDAD SOCIAL",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 222,
+    "nombre": "CAJA DE PRÉSTAMOS DEL MINISTERIO DE DEFENSA NACIONAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES FINANCIERAS OFICIALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 158,
+    "nombre": "CAJA DE SEGURIDAD SOCIAL DE EMPLEADOS Y OBREROS FERROVIARIOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES PÚBLICAS DE SEGURIDAD SOCIAL",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 300,
+    "nombre": "CÁMARA DE DIPUTADOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER LEGISLATIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 297,
+    "nombre": "CÁMARA DE SENADORES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER LEGISLATIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 43,
+    "nombre": "CAÑAS PARAGUAYAS S.A. (CAPASA)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS MIXTAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1597,
+    "nombre": "CENTRO CULTURAL DE LA REPUBLICA (EL CABILDO)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "CONGRESO NACIONAL",
+    "dependiente_de_codigo": 298,
+    "nivel_entidad": "PODER LEGISLATIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1519,
+    "nombre": "COLEGIO EXPERIMENTAL PARAGUAY - BRASIL",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1389,
+    "nombre": "COMANDO LOGISTICO",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE DEFENSA NACIONAL",
+    "dependiente_de_codigo": 304,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 348,
+    "nombre": "COMISIÓN NAC. DE PREVENCIÓN CONTRA LA TORTURA Y OTROS TRATOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "DEFENSORÍA DEL PUEBLO",
+    "tipo_entidad": "NO CLASIFICADO"
+  },
+  {
+    "codigo": 137,
+    "nombre": "COMISIÓN NACIONAL DE TELECOMUNICACIONES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 136,
+    "nombre": "COMISIÓN NACIONAL DE VALORES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 309,
+    "nombre": "COMPAÑÍA PARAGUAYA DE COMUNICACIONES (COPACO)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS MIXTAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1014,
+    "nombre": "CONACYT",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 298,
+    "nombre": "CONGRESO NACIONAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER LEGISLATIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 30,
+    "nombre": "CONSEJO DE LA MAGISTRATURA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER JUDICIAL",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 31,
+    "nombre": "CONTRALORÍA GENERAL DE LA REPÚBLICA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "CONTRALORÍA GENERAL DE LA REPÚBLICA",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 21,
+    "nombre": "CORTE SUPREMA DE JUSTICIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER JUDICIAL",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 220,
+    "nombre": "CRÉDITO AGRÍCOLA DE HABILITACIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES FINANCIERAS OFICIALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 32,
+    "nombre": "DEFENSORÍA DEL PUEBLO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "DEFENSORÍA DEL PUEBLO",
+    "tipo_entidad": "NO CLASIFICADO"
+  },
+  {
+    "codigo": 342,
+    "nombre": "DEFENSORIA PUBLICA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER JUDICIAL",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1722,
+    "nombre": "DIRECCION GENERAL DE INFORMACION ESTRATEGICA DE SALUD DIGIES-SINAIS",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1382,
+    "nombre": "DIRECCION GENERAL DE MIGRACIONES",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DEL INTERIOR",
+    "dependiente_de_codigo": 299,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1600,
+    "nombre": "DIRECCION GENERAL DE SALUD AMBIENTAL-(DIGESA)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 308,
+    "nombre": "DIRECCION NACIONAL DE ADUANAS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 178,
+    "nombre": "DIRECCIÓN NACIONAL DE AERONAÚTICA CIVIL (DINAC)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS PÚBLICAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 107,
+    "nombre": "DIRECCIÓN NACIONAL DE BENEFICENCIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 326,
+    "nombre": "DIRECCIÓN NACIONAL DE CONTRATACIONES PÚBLICAS (DNCP)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 338,
+    "nombre": "DIRECCIÓN NACIONAL DE CORREOS DEL PARAGUAY (DINACOPA)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 352,
+    "nombre": "DIRECCION NACIONAL DE PROPIEDAD INTELECTUAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 138,
+    "nombre": "DIRECCION NACIONAL DE TRANSPORTE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1007,
+    "nombre": "DIR. GENERAL DE ESTADISTICAS ENCUESTAS Y CENSO",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 18,
+    "nombre": "EMPRESA DE SERVICIOS SANITARIOS DEL PARAGUAY (ESSAP)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS MIXTAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 144,
+    "nombre": "ENTE REGULADOR DE SERVICIOS SANITARIOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1367,
+    "nombre": "FACULTAD DE ARQUITECTURA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1365,
+    "nombre": "FACULTAD DE CIENCIAS AGRARIAS",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1362,
+    "nombre": "FACULTAD DE CIENCIAS ECONOMICAS",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1368,
+    "nombre": "FACULTAD DE CIENCIAS EXACTAS Y NATURALES",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1360,
+    "nombre": "FACULTAD DE CIENCIAS MEDICAS",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1373,
+    "nombre": "FACULTAD DE CIENCIAS QUIMICAS",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1366,
+    "nombre": "FACULTAD DE CIENCIAS VETERINARIAS",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1359,
+    "nombre": "FACULTAD DE DERECHO Y CIENCIAS SOCIALES",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1364,
+    "nombre": "FACULTAD DE FILOSOFIA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1361,
+    "nombre": "FACULTAD DE INGENIERIA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1363,
+    "nombre": "FACULTAD DE ODONTOLOGIA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1369,
+    "nombre": "FACULTAD POLITECNICA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "dependiente_de_codigo": 226,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 19,
+    "nombre": "FERROCARRILES DEL PARAGUAY S.A.",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS MIXTAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 225,
+    "nombre": "FONDO DE DESARROLLO CAMPESINO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES FINANCIERAS OFICIALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 221,
+    "nombre": "FONDO GANADERO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES FINANCIERAS OFICIALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 125,
+    "nombre": "FONDO NACIONAL DE LA CULTURA Y LAS ARTES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 92,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE ALTO PARAGUAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 80,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE ALTO PARANÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 87,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE AMAMBAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 98,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE BOQUERÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 62,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE CAAGUAZÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 68,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE CAAZAPÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 90,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE CANINDEYÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 81,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE CENTRAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 40,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE CONCEPCIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 51,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE CORDILLERA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 61,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE GUAIRÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 69,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE ITAPUA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 77,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE MISIONES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 82,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE ÑEEMBUCÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 78,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE PARAGUARÍ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 91,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE PRESIDENTE HAYES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 50,
+    "nombre": "GOBIERNO DEPARTAMENTAL DE SAN PEDRO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "GOBIERNOS DEPARTAMENTALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1445,
+    "nombre": "HOSPITAL GENERAL BARRIO OBRERO",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1485,
+    "nombre": "HOSPITAL GENERAL PEDIATRICO NIÑOS DE ACOSTA ÑU",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1684,
+    "nombre": "HOSPITAL NACIONAL - CENTRO MEDICO NACIONAL",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1717,
+    "nombre": "INAN",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 189,
+    "nombre": "INDUSTRIA NACIONAL DEL CEMENTO (INC)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS PÚBLICAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 157,
+    "nombre": "INSTITUTO DE PREVISIÓN SOCIAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTIDADES PÚBLICAS DE SEGURIDAD SOCIAL",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 335,
+    "nombre": "INSTITUTO FORESTAL NACIONAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 145,
+    "nombre": "INSTITUTO NACIONAL DE COOPERATIVISMO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 106,
+    "nombre": "INSTITUTO NACIONAL DE DESARROLLO RURAL Y DE LA TIERRA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1431,
+    "nombre": "INSTITUTO NACIONAL DEL CANCER",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 104,
+    "nombre": "INSTITUTO NACIONAL DE TECNOLOGÍA, NORMALIZACIÓN Y METROLOGIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 311,
+    "nombre": "INSTITUTO PARAGUAYO DE ARTESANIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 123,
+    "nombre": "INSTITUTO PARAGUAYO DEL INDÍGENA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 337,
+    "nombre": "INSTITUTO PARAGUAYO DE TECNOLOGIA AGRARIA (IPTA)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 332,
+    "nombre": "JURADO DE ENJUICIAMIENTO DE MAGISTRADOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER JUDICIAL",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 24,
+    "nombre": "JUSTICIA ELECTORAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER JUDICIAL",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 321,
+    "nombre": "LOMA PLATA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 12,
+    "nombre": "MINISTERIO DE AGRICULTURA Y GANADERÍA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 304,
+    "nombre": "MINISTERIO DE DEFENSA NACIONAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1,
+    "nombre": "MINISTERIO DE EDUCACIÓN Y CULTURA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 305,
+    "nombre": "MINISTERIO DE HACIENDA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 13,
+    "nombre": "MINISTERIO DE INDUSTRIA Y COMERCIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 11,
+    "nombre": "MINISTERIO DE JUSTICIA Y TRABAJO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 347,
+    "nombre": "MINISTERIO DE LA MUJER",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 299,
+    "nombre": "MINISTERIO DEL INTERIOR",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 20,
+    "nombre": "MINISTERIO DE OBRAS PÚBLICAS Y COMUNICACIONES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 303,
+    "nombre": "MINISTERIO DE RELACIONES EXTERIORES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 306,
+    "nombre": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 355,
+    "nombre": "MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 25,
+    "nombre": "MINISTERIO PÚBLICO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER JUDICIAL",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 246,
+    "nombre": "MUNICIPALIDAD DE 25 DE DICIEMBRE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 52,
+    "nombre": "MUNICIPALIDAD DE 3 DE FEBRERO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 349,
+    "nombre": "MUNICIPALIDAD DE 3 DE MAYO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 228,
+    "nombre": "MUNICIPALIDAD DE ACAHAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 103,
+    "nombre": "MUNICIPALIDAD DE ALBERDI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 266,
+    "nombre": "MUNICIPALIDAD DE ALTOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 127,
+    "nombre": "MUNICIPALIDAD DE ALTO VERÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 247,
+    "nombre": "MUNICIPALIDAD DE ANTEQUERA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 64,
+    "nombre": "MUNICIPALIDAD DE AREGUA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 267,
+    "nombre": "MUNICIPALIDAD DE ARROYOS Y ESTEROS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 108,
+    "nombre": "MUNICIPALIDAD DE ASUNCIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 268,
+    "nombre": "MUNICIPALIDAD DE ATYRA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 93,
+    "nombre": "MUNICIPALIDAD DE AVAÍ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 211,
+    "nombre": "MUNICIPALIDAD DE AYOLAS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 341,
+    "nombre": "MUNICIPALIDAD DE AZOTEY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 319,
+    "nombre": "MUNICIPALIDAD DE BAHIA NEGRA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 240,
+    "nombre": "MUNICIPALIDAD DE BELÉN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 180,
+    "nombre": "MUNICIPALIDAD DE BELLA VISTA - AMAMBAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 128,
+    "nombre": "MUNICIPALIDAD DE BELLA VISTA - ITAPÚA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 7,
+    "nombre": "MUNICIPALIDAD DE BENJAMÍN ACEVAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 286,
+    "nombre": "MUNICIPALIDAD DE BORJA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 94,
+    "nombre": "MUNICIPALIDAD DE BUENA VISTA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 269,
+    "nombre": "MUNICIPALIDAD DE CAACUPÉ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 53,
+    "nombre": "MUNICIPALIDAD DE CAAGUAZÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 229,
+    "nombre": "MUNICIPALIDAD DE CAAPUCÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 96,
+    "nombre": "MUNICIPALIDAD DE CAAZAPÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 129,
+    "nombre": "MUNICIPALIDAD DE CAMBYRETÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 65,
+    "nombre": "MUNICIPALIDAD DE CAPIATÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 248,
+    "nombre": "MUNICIPALIDAD DE CAPIIBARY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 182,
+    "nombre": "MUNICIPALIDAD DE CAPITÁN BADO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 130,
+    "nombre": "MUNICIPALIDAD DE CAPITÁN MEZA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 131,
+    "nombre": "MUNICIPALIDAD DE CAPITÁN MIRANDA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 270,
+    "nombre": "MUNICIPALIDAD DE CARAGUATAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 244,
+    "nombre": "MUNICIPALIDAD DE CARAPEGUÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 54,
+    "nombre": "MUNICIPALIDAD DE CARAYAÓ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 132,
+    "nombre": "MUNICIPALIDAD DE CÁRLOS ANTONIO LÓPEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 331,
+    "nombre": "MUNICIPALIDAD DE CARMELO PERALTA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 133,
+    "nombre": "MUNICIPALIDAD DE CARMEN DEL PARANÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 146,
+    "nombre": "MUNICIPALIDAD DE CERRITO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 249,
+    "nombre": "MUNICIPALIDAD DE CHORÉ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 196,
+    "nombre": "MUNICIPALIDAD DE CIUDAD DEL ESTE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 241,
+    "nombre": "MUNICIPALIDAD DE CONCEPCIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 134,
+    "nombre": "MUNICIPALIDAD DE CORONEL BOGADO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 288,
+    "nombre": "MUNICIPALIDAD DE CORONEL MARTÍNEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 55,
+    "nombre": "MUNICIPALIDAD DE CORONEL OVIEDO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 184,
+    "nombre": "MUNICIPALIDAD DE CORPUS CHRISTI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 147,
+    "nombre": "MUNICIPALIDAD DE DESMOCHADOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 197,
+    "nombre": "MUNICIPALIDAD DE DOMINGO MARTÍNEZ DE IRALA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 289,
+    "nombre": "MUNICIPALIDAD DE DR. BOTTRELL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 56,
+    "nombre": "MUNICIPALIDAD DE DR. CECILIO BÁEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 351,
+    "nombre": "MUNICIPALIDAD DE DR. RAUL PEÑA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 135,
+    "nombre": "MUNICIPALIDAD DE EDELIRA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 271,
+    "nombre": "MUNICIPALIDAD DE EMBOSCADA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 140,
+    "nombre": "MUNICIPALIDAD DE ENCARNACIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 257,
+    "nombre": "MUNICIPALIDAD DE ESCOBAR",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 272,
+    "nombre": "MUNICIPALIDAD DE EUSEBIO AYALA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 290,
+    "nombre": "MUNICIPALIDAD DE FÉLIX PÉREZ CARDOZO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 66,
+    "nombre": "MUNICIPALIDAD DE FERNANDO DE LA MORA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 320,
+    "nombre": "MUNICIPALIDAD DE FILADELFIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 141,
+    "nombre": "MUNICIPALIDAD DE FRAM",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 15,
+    "nombre": "MUNICIPALIDAD DE FUERTE OLIMPO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 114,
+    "nombre": "MUNICIPALIDAD DE FULGENCIO YEGROS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 142,
+    "nombre": "MUNICIPALIDAD DE GENERAL ARTIGAS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 143,
+    "nombre": "MUNICIPALIDAD DE GENERAL DELGADO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 238,
+    "nombre": "MUNICIPALIDAD DE GRAL. BERNARDINO CABALLERO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 250,
+    "nombre": "MUNICIPALIDAD DE GRAL. ELIZARDO AQUINO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 291,
+    "nombre": "MUNICIPALIDAD DE GRAL. EUGENIO A. GARAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 185,
+    "nombre": "MUNICIPALIDAD DE GRAL. FRANCISCO CABALLERO ALVAREZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 251,
+    "nombre": "MUNICIPALIDAD DE GRAL. FRANCISCO I. RESQUIN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 110,
+    "nombre": "MUNICIPALIDAD DE GRAL. HIGINIO MORÍNIGO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 148,
+    "nombre": "MUNICIPALIDAD DE GRAL. JOSÉ EDUVIGIS DÍAZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 339,
+    "nombre": "MUNICIPALIDAD DE GRAL JOSE M. BRUGUEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 252,
+    "nombre": "MUNICIPALIDAD DE GUAJAYVI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 67,
+    "nombre": "MUNICIPALIDAD DE GUARAMBARÉ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 149,
+    "nombre": "MUNICIPALIDAD DE GUAZU CUÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 199,
+    "nombre": "MUNICIPALIDAD DE HERNANDARIAS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 160,
+    "nombre": "MUNICIPALIDAD DE HOHENAU",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 242,
+    "nombre": "MUNICIPALIDAD DE HORQUETA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 150,
+    "nombre": "MUNICIPALIDAD DE HUMAITÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 292,
+    "nombre": "MUNICIPALIDAD DE INDEPENDENCIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 200,
+    "nombre": "MUNICIPALIDAD DE IRUÑA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 273,
+    "nombre": "MUNICIPALIDAD DE ISLA PUCÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 151,
+    "nombre": "MUNICIPALIDAD DE ISLA UMBÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 79,
+    "nombre": "MUNICIPALIDAD DE ITÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 274,
+    "nombre": "MUNICIPALIDAD DE ITACURUBÍ DE LAS CORDILLERAS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 253,
+    "nombre": "MUNICIPALIDAD DE ITACURUBÍ DEL ROSARIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 201,
+    "nombre": "MUNICIPALIDAD DE ITAKYRY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 186,
+    "nombre": "MUNICIPALIDAD DE ITANARÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 293,
+    "nombre": "MUNICIPALIDAD DE ITAPÉ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 161,
+    "nombre": "MUNICIPALIDAD DE ITAPÚA POTY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 88,
+    "nombre": "MUNICIPALIDAD DE ITAUGUA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 294,
+    "nombre": "MUNICIPALIDAD DE ITURBE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 89,
+    "nombre": "MUNICIPALIDAD DE J. AUGUSTO SALDIVAR",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 170,
+    "nombre": "MUNICIPALIDAD DE JESÚS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 57,
+    "nombre": "MUNICIPALIDAD DE J. EULOGIO ESTIGARRIBIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 59,
+    "nombre": "MUNICIPALIDAD DE JOSÉ DOMINGO OCAMPOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 9,
+    "nombre": "MUNICIPALIDAD DE JOSÉ FALCÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 295,
+    "nombre": "MUNICIPALIDAD DE JOSÉ FASSARDI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 171,
+    "nombre": "MUNICIPALIDAD DE JOSÉ LEANDRO OVIEDO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 275,
+    "nombre": "MUNICIPALIDAD DE JUAN DE MENA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 223,
+    "nombre": "MUNICIPALIDAD DE JUAN E. O'LEARY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 198,
+    "nombre": "MUNICIPALIDAD DE JUAN LEÓN MALLORQUÍN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 58,
+    "nombre": "MUNICIPALIDAD DE JUAN MANUEL FRUTOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 187,
+    "nombre": "MUNICIPALIDAD DE KATUETE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 75,
+    "nombre": "MUNICIPALIDAD DE LA COLMENA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 99,
+    "nombre": "MUNICIPALIDAD DE LAMBARÉ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 188,
+    "nombre": "MUNICIPALIDAD DE LA PALOMA DEL ESPIRITU SANTO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 60,
+    "nombre": "MUNICIPALIDAD DE LA PASTORA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 172,
+    "nombre": "MUNICIPALIDAD DE LA PAZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 152,
+    "nombre": "MUNICIPALIDAD DE LAURELES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 343,
+    "nombre": "MUNICIPALIDAD DE LIBERACION",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 254,
+    "nombre": "MUNICIPALIDAD DE LIMA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 100,
+    "nombre": "MUNICIPALIDAD DE LIMPIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 276,
+    "nombre": "MUNICIPALIDAD DE LOMA GRANDE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 243,
+    "nombre": "MUNICIPALIDAD DE LORETO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 224,
+    "nombre": "MUNICIPALIDAD DE LOS CEDRALES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 101,
+    "nombre": "MUNICIPALIDAD DE LUQUE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 111,
+    "nombre": "MUNICIPALIDAD DE MACIEL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 102,
+    "nombre": "MUNICIPALIDAD DE MARIANO ROQUE ALONSO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 287,
+    "nombre": "MUNICIPALIDAD DE MAURICIO JOSÉ TROCHE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 153,
+    "nombre": "MUNICIPALIDAD DE MAYOR JOSÉ D. MARTINEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 173,
+    "nombre": "MUNICIPALIDAD DE MAYOR OTAÑO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 232,
+    "nombre": "MUNICIPALIDAD DE MBARACAYÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 296,
+    "nombre": "MUNICIPALIDAD DE MBOCAYATY DEL GUAIRÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 277,
+    "nombre": "MUNICIPALIDAD DE MBOCAYATY DEL YHAGUY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 95,
+    "nombre": "MUNICIPALIDAD DE MBUYAPEY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 70,
+    "nombre": "MUNICIPALIDAD DE MCAL. FRANCISCO SOLANO LÓPEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 17,
+    "nombre": "MUNICIPALIDAD DE MCAL JOSE F. ESTIGARRIBIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 233,
+    "nombre": "MUNICIPALIDAD DE MINGA GUAZÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 234,
+    "nombre": "MUNICIPALIDAD DE MINGA PORÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 109,
+    "nombre": "MUNICIPALIDAD DE MOISÉS BERTONI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 236,
+    "nombre": "MUNICIPALIDAD DE ÑACUNDAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 8,
+    "nombre": "MUNICIPALIDAD DE NANAWA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 235,
+    "nombre": "MUNICIPALIDAD DE NARANJAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 33,
+    "nombre": "MUNICIPALIDAD DE NATALICIO TALAVERA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 174,
+    "nombre": "MUNICIPALIDAD DE NATALIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 41,
+    "nombre": "MUNICIPALIDAD DE ÑEMBY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 175,
+    "nombre": "MUNICIPALIDAD DE NUEVA ALBORADA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 278,
+    "nombre": "MUNICIPALIDAD DE NUEVA COLOMBIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 190,
+    "nombre": "MUNICIPALIDAD DE NUEVA ESPERANZA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 255,
+    "nombre": "MUNICIPALIDAD DE NUEVA GERMANIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 116,
+    "nombre": "MUNICIPALIDAD DE NUEVA ITALIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 71,
+    "nombre": "MUNICIPALIDAD DE NUEVA LONDRES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 346,
+    "nombre": "MUNICIPALIDAD DE NUEVA TOLEDO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 34,
+    "nombre": "MUNICIPALIDAD DE ÑUMI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 176,
+    "nombre": "MUNICIPALIDAD DE OBLIGADO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 26,
+    "nombre": "MUNICIPALIDAD DE PARAGUARÍ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 354,
+    "nombre": "MUNICIPALIDAD DE PASO BARRETO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 154,
+    "nombre": "MUNICIPALIDAD DE PASO DE PATRIA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 35,
+    "nombre": "MUNICIPALIDAD DE PASO YOBAI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 183,
+    "nombre": "MUNICIPALIDAD DE PEDRO JUAN CABALLERO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 155,
+    "nombre": "MUNICIPALIDAD DE PILAR",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 203,
+    "nombre": "MUNICIPALIDAD DE PIRAPÓ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 27,
+    "nombre": "MUNICIPALIDAD DE PIRAYÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 279,
+    "nombre": "MUNICIPALIDAD DE PIRIBEBUY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 44,
+    "nombre": "MUNICIPALIDAD DE PRESIDENTE FRANCO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 280,
+    "nombre": "MUNICIPALIDAD DE PRIMERO DE MARZO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 16,
+    "nombre": "MUNICIPALIDAD DE PUERTO CASADO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 10,
+    "nombre": "MUNICIPALIDAD DE PUERTO PINASCO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 28,
+    "nombre": "MUNICIPALIDAD DE QUIINDY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 29,
+    "nombre": "MUNICIPALIDAD DE QUYQUYHO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 73,
+    "nombre": "MUNICIPALIDAD DE RAÚL ARSENIO OVIEDO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 74,
+    "nombre": "MUNICIPALIDAD DE REPATRIACIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 72,
+    "nombre": "MUNICIPALIDAD DE R.I. 3 CORRALES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 2,
+    "nombre": "MUNICIPALIDAD DE SALTO DEL GUAIRÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 45,
+    "nombre": "MUNICIPALIDAD DE SAN ALBERTO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 357,
+    "nombre": "MUNICIPALIDAD DE SAN ALFREDO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 117,
+    "nombre": "MUNICIPALIDAD DE SAN ANTONIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 281,
+    "nombre": "MUNICIPALIDAD DE SAN BERNARDINO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 329,
+    "nombre": "MUNICIPALIDAD DE SAN CARLOS DEL APA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 204,
+    "nombre": "MUNICIPALIDAD DE SAN COSME Y DAMIÁN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 46,
+    "nombre": "MUNICIPALIDAD DE SAN CRISTOBAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 256,
+    "nombre": "MUNICIPALIDAD DE SAN ESTANISLAO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 212,
+    "nombre": "MUNICIPALIDAD DE SAN IGNACIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 97,
+    "nombre": "MUNICIPALIDAD DE SAN JOAQUÍN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 76,
+    "nombre": "MUNICIPALIDAD DE SAN JOSÉ DE LOS ARROYOS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 282,
+    "nombre": "MUNICIPALIDAD DE SAN JOSÉ OBRERO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 213,
+    "nombre": "MUNICIPALIDAD DE SAN JUAN BAUTISTA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 156,
+    "nombre": "MUNICIPALIDAD DE SAN JUAN BAUTISTA ÑEEMBUCU",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 205,
+    "nombre": "MUNICIPALIDAD DE SAN JUAN DEL PARANÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 112,
+    "nombre": "MUNICIPALIDAD DE SAN JUAN NEPOMUCENO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 239,
+    "nombre": "MUNICIPALIDAD DE SAN LÁZARO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 118,
+    "nombre": "MUNICIPALIDAD DE SAN LORENZO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 214,
+    "nombre": "MUNICIPALIDAD DE SAN MIGUEL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 258,
+    "nombre": "MUNICIPALIDAD DE SAN PABLO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 215,
+    "nombre": "MUNICIPALIDAD DE SAN PATRICIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 206,
+    "nombre": "MUNICIPALIDAD DE SAN PEDRO DEL PARANÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 259,
+    "nombre": "MUNICIPALIDAD DE SAN PEDRO DEL YCUAMANDIYÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 207,
+    "nombre": "MUNICIPALIDAD DE SAN RAFAEL DEL PARANÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 310,
+    "nombre": "MUNICIPALIDAD DE SAN ROQUE GONZÁLEZ DE SANTA CRUZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 36,
+    "nombre": "MUNICIPALIDAD DE SAN SALVADOR",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 283,
+    "nombre": "MUNICIPALIDAD DE SANTA ELENA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 47,
+    "nombre": "MUNICIPALIDAD DE SANTA FÉ DEL PARANÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 216,
+    "nombre": "MUNICIPALIDAD DE SANTA MARÍA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 48,
+    "nombre": "MUNICIPALIDAD DE SANTA RITA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 260,
+    "nombre": "MUNICIPALIDAD DE SANTA ROSA DEL AGUARAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 83,
+    "nombre": "MUNICIPALIDAD DE SANTA ROSA DEL MBUTUY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 49,
+    "nombre": "MUNICIPALIDAD DE SANTA ROSA DEL MONDAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 217,
+    "nombre": "MUNICIPALIDAD DE SANTA ROSA MISIONES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 218,
+    "nombre": "MUNICIPALIDAD DE SANTIAGO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 177,
+    "nombre": "MUNICIPALIDAD DE SAPUCAI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 84,
+    "nombre": "MUNICIPALIDAD DE SIMÓN BOLIVAR",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 164,
+    "nombre": "MUNICIPALIDAD DE TACUARAS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 261,
+    "nombre": "MUNICIPALIDAD DE TACUATÍ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 113,
+    "nombre": "MUNICIPALIDAD DE TAVAÍ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 345,
+    "nombre": "MUNICIPALIDAD DE TAVAPY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 327,
+    "nombre": "MUNICIPALIDAD DE TEBICUARY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 192,
+    "nombre": "MUNICIPALIDAD DE TEBICUARYMI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 328,
+    "nombre": "MUNICIPALIDAD DE TEMBIAPORA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 284,
+    "nombre": "MUNICIPALIDAD DE TOBATÍ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 208,
+    "nombre": "MUNICIPALIDAD DE TOMÁS ROMERO PEREIRA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 209,
+    "nombre": "MUNICIPALIDAD DE TRINIDAD",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 330,
+    "nombre": "MUNICIPALIDAD DE TTE ESTEBAN MARTINEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 262,
+    "nombre": "MUNICIPALIDAD DE UNIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 285,
+    "nombre": "MUNICIPALIDAD DE VALENZUELA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 85,
+    "nombre": "MUNICIPALIDAD DE VAQUERÍA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 3,
+    "nombre": "MUNICIPALIDAD DE VILLA CURUGUATY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 263,
+    "nombre": "MUNICIPALIDAD DE VILLA DEL ROSARIO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 119,
+    "nombre": "MUNICIPALIDAD DE VILLA ELISA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 219,
+    "nombre": "MUNICIPALIDAD DE VILLA FLORIDA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 165,
+    "nombre": "MUNICIPALIDAD DE VILLA FRANCA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 14,
+    "nombre": "MUNICIPALIDAD DE VILLA HAYES",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 168,
+    "nombre": "MUNICIPALIDAD DE VILLALBÍN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 166,
+    "nombre": "MUNICIPALIDAD DE VILLA OLIVA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 37,
+    "nombre": "MUNICIPALIDAD DE VILLARRICA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 4,
+    "nombre": "MUNICIPALIDAD DE VILLA YGATIMÍ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 120,
+    "nombre": "MUNICIPALIDAD DE VILLETA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 227,
+    "nombre": "MUNICIPALIDAD DE YABEBYRY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 193,
+    "nombre": "MUNICIPALIDAD DE YAGUARON",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 5,
+    "nombre": "MUNICIPALIDAD DE YASY CAÑY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 38,
+    "nombre": "MUNICIPALIDAD DE YATAITY DEL GUAIRÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 264,
+    "nombre": "MUNICIPALIDAD DE YATAITY DEL NORTE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 210,
+    "nombre": "MUNICIPALIDAD DE YATYTAY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 194,
+    "nombre": "MUNICIPALIDAD DE YBYCUI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 356,
+    "nombre": "MUNICIPALIDAD DE YBY PYTA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 350,
+    "nombre": "MUNICIPALIDAD DE YBYRAROBANA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 195,
+    "nombre": "MUNICIPALIDAD DE YBYTIMI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 245,
+    "nombre": "MUNICIPALIDAD DE YBY YAÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 63,
+    "nombre": "MUNICIPALIDAD DE YGUAZÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 86,
+    "nombre": "MUNICIPALIDAD DE YHÚ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 121,
+    "nombre": "MUNICIPALIDAD DE YPACARAI",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 122,
+    "nombre": "MUNICIPALIDAD DE YPANÉ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 6,
+    "nombre": "MUNICIPALIDAD DE YPEJHU",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 265,
+    "nombre": "MUNICIPALIDAD DE YRYBUCUÁ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 126,
+    "nombre": "MUNICIPALIDAD DE YUTY",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 344,
+    "nombre": "MUNICIPALIDAD DE ZANJA PYTA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 179,
+    "nombre": "PETRÓLEOS PARAGUAYOS (PETROPAR)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "EMPRESAS PÚBLICAS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1050,
+    "nombre": "POLICIA NACIONAL",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DEL INTERIOR",
+    "dependiente_de_codigo": 299,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 301,
+    "nombre": "PRESIDENCIA DE LA REPÚBLICA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1011,
+    "nombre": "PROCURADURIA GENERAL DE LA REPUBLICA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1438,
+    "nombre": "PROGRAMA AMPLIADO DE INMUNIZACIONES (PAI)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1013,
+    "nombre": "SECRETARIA DE ACCION SOCIAL",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1868,
+    "nombre": "SECRETARIA DE DEFENSA DEL CONSUMIDOR Y EL USUARIO (SEDECO)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "SECRETARIA DE DEFENSA DEL CONSUMIDOR Y EL USUARIO (SEDECO)",
+    "dependiente_de_codigo": 353,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 353,
+    "nombre": "SECRETARIA DE DEFENSA DEL CONSUMIDOR Y EL USUARIO (SEDECO)",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1573,
+    "nombre": "SECRETARIA DE EMERGENCIA NACIONAL(S.E.N)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1681,
+    "nombre": "SECRETARIA DE INFOR. Y COMU. PARA EL DESARROLLO",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1005,
+    "nombre": "SECRETARIA DE LA FUNCION PUBLICA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1357,
+    "nombre": "SECRETARIA DEL AMBIENTE",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "SECRETARÍA DEL AMBIENTE",
+    "dependiente_de_codigo": 336,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 336,
+    "nombre": "SECRETARÍA DEL AMBIENTE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 139,
+    "nombre": "SECRETARÍA DE TRANSPORTE ÁREA METROPOLITANA DE ASUNCION",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1856,
+    "nombre": "Secretaria Nacional Anticorrupcion(SENAC)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1641,
+    "nombre": "SECRETARIA NACIONAL DE CULTURA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1869,
+    "nombre": "Secretaria Nacional de la Juventud ",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1374,
+    "nombre": "SECRETARIA NACIONAL DE LA NIÑEZ Y LA ADOLESCENCIA",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 105,
+    "nombre": "SECRETARIA NACIONAL DE LA VIVIENDA Y EL HABITAT",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1832,
+    "nombre": "Secretaria Nacional de Tecnologias de la Informacion y Comunicacion (SENATICS)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1017,
+    "nombre": "SECRETARIA NACIONAL DE TURISMO",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1834,
+    "nombre": "Secretaria Nacional por los Derechos Humanos de las Personas con Discapacidad",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1004,
+    "nombre": "SECRETARIA TECNICA DE PLANIFICACION",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1008,
+    "nombre": "SENAD",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1018,
+    "nombre": "SEPRELAD",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "PRESIDENCIA DE LA REPÚBLICA",
+    "dependiente_de_codigo": 301,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 307,
+    "nombre": "SERVICIO NACIONAL DE CALIDAD Y SALUD ANIMAL",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 317,
+    "nombre": "SERVICIO NACIONAL DE CALIDAD Y SANIDAD VEGETAL Y DE SEMILLAS",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "ENTES AUTÓNOMOS Y AUTÁRQUICOS",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1343,
+    "nombre": "SERVICIO NACIONAL DE PROMOCION PROFESIONAL SNNPP",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL",
+    "dependiente_de_codigo": 355,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 318,
+    "nombre": "TTE IRALA FERNANDEZ",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "MUNICIPALIDADES",
+    "tipo_entidad": "Municipalidades"
+  },
+  {
+    "codigo": 226,
+    "nombre": "UNIVERSIDAD NACIONAL DE ASUNCIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 334,
+    "nombre": "UNIVERSIDAD NACIONAL DE CAAGUAZU",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 340,
+    "nombre": "UNIVERSIDAD NACIONAL DE CANINDEYU",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 322,
+    "nombre": "UNIVERSIDAD NACIONAL DE CONCEPCIÓN",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 237,
+    "nombre": "UNIVERSIDAD NACIONAL DE ITAPÚA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 230,
+    "nombre": "UNIVERSIDAD NACIONAL DEL ESTE",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 231,
+    "nombre": "UNIVERSIDAD NACIONAL DE PILAR",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 325,
+    "nombre": "UNIVERSIDAD NACIONAL DE VILLARRICA DEL ESPIRITU SANTO",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "UNIVERSIDADES NACIONALES",
+    "tipo_entidad": "Entidades Descentralizadas"
+  },
+  {
+    "codigo": 1805,
+    "nombre": "UOC Nro 2 - SET",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE HACIENDA",
+    "dependiente_de_codigo": 305,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1353,
+    "nombre": "UOC SERVICIO NACIONAL DE SALUD AMBIENTAL (SENASA)",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL",
+    "dependiente_de_codigo": 306,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 1344,
+    "nombre": "UOC SINAFOCAL",
+    "tipo": "UNIDAD OPERATIVA",
+    "dependiente_de": "MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL",
+    "dependiente_de_codigo": 355,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  },
+  {
+    "codigo": 302,
+    "nombre": "VICEPRESIDENCIA DE LA REPÚBLICA",
+    "tipo": "ENTIDAD",
+    "dependiente_de": "",
+    "dependiente_de_codigo": null,
+    "nivel_entidad": "PODER EJECUTIVO",
+    "tipo_entidad": "Organismos de la Administración Central"
+  }
+]

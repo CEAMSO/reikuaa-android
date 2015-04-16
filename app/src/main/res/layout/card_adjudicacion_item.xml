@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="20dp"
+
+    app:cardBackgroundColor="#fff"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="3dp">
+    <RelativeLayout
+        android:paddingTop="5dp"
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/proveedor"
+        android:id="@+id/proveedorLabel"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="-"
+        android:id="@+id/proveedor"
+        android:textColor="#000"
+        android:layout_below="@+id/proveedorLabel"
+        android:layout_alignLeft="@+id/proveedorLabel"
+        android:layout_alignStart="@+id/proveedorLabel" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/ruc"
+        android:id="@+id/rucLabel"
+        android:layout_below="@+id/proveedor"
+        android:layout_alignLeft="@+id/proveedor"
+        android:layout_alignStart="@+id/proveedor" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="-"
+        android:id="@+id/ruc"
+        android:textColor="#000"
+        android:layout_below="@+id/rucLabel"
+        android:layout_alignLeft="@+id/rucLabel"
+        android:layout_alignStart="@+id/rucLabel" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/monto_adjudicado"
+        android:id="@+id/montoAdjudicadoLabel"
+        android:layout_below="@+id/ruc"
+        android:layout_alignLeft="@+id/monedaLabel"
+        android:layout_alignStart="@+id/monedaLabel" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="-"
+        android:id="@+id/montoAdjudicado"
+        android:textColor="#000"
+        android:layout_below="@+id/montoAdjudicadoLabel"
+        android:layout_alignLeft="@+id/montoAdjudicadoLabel"
+        android:layout_alignStart="@+id/montoAdjudicadoLabel" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/moneda"
+        android:id="@+id/monedaLabel"
+        android:layout_below="@+id/montoAdjudicado"
+        android:layout_alignLeft="@+id/moneda"
+        android:layout_alignStart="@+id/moneda" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="-"
+        android:id="@+id/moneda"
+        android:textColor="#000"
+        android:layout_below="@+id/monedaLabel"
+        android:layout_alignLeft="@+id/ruc" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:paddingBottom="100dp">
+
+            <LinearLayout
+                android:id="@+id/listTitular"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="30dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/iconoCatDetalle"
+                    android:src="@drawable/ic_mias" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/nombreLicitacion"
+                    android:singleLine="false" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/datosBasicos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/listTitular"
+                android:layout_alignLeft="@+id/listTitular"
+                android:layout_alignStart="@+id/listTitular"
+                android:layout_marginLeft="32dp"
+                android:layout_marginStart="32dp">
+
+                <!--ID de llamado-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="ID de llamado:"
+                    android:id="@+id/idLlamadoLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/idLlamado"
+                    android:paddingBottom="10dp"
+                    android:textColor="#000"
+                    android:layout_below="@+id/idLlamadoLabel"
+                    />
+
+
+                <!--Categoría-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Categoría:"
+                    android:layout_below="@id/idLlamado"
+                    android:id="@+id/categoriaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/categoria"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/idLlamado"
+                    android:layout_below="@id/categoriaLabel"
+                    />
+
+
+                <!--Entidad-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Entidad:"
+                    android:layout_below="@id/categoria"
+                    android:id="@+id/entidadLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/entidad"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/categoria"
+                    android:layout_below="@id/entidadLabel"
+                    />
+
+
+                <!--Nivel de Entidad-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:paddingBottom="10dp"
+                    android:text="Nivel de Entidad:"
+                    android:id="@+id/nivelEntidadLabel"
+                    android:layout_below="@+id/entidad"
+
+                    android:layout_alignLeft="@id/entidadLabel"
+                    android:layout_alignStart="@id/entidadLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/nivelEntidad"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/entidad"
+                    android:layout_below="@id/nivelEntidadLabel"
+                    />
+
+                <!--Modalidad-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Tipo de Procedimiento:"
+                    android:layout_below="@id/nivelEntidad"
+                    android:id="@+id/modalidadLabel"
+                     />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/modalidad"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/nivelEntidad"
+                    android:layout_below="@id/modalidadLabel"
+                   />
+
+
+                <!--Estado-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Estado:"
+                    android:id="@+id/estadoLabel"
+                    android:layout_below="@id/modalidad"
+                    android:layout_alignLeft="@id/modalidadLabel"
+                    android:layout_alignStart="@id/modalidadLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/estado"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/modalidad"
+                    android:layout_below="@id/estadoLabel"
+                   />
+
+                <!--Forma de Pago-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Forma de Pago:"
+                    android:id="@+id/formaPagoLabel"
+                    android:layout_below="@+id/estado"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/formaPago"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/estado"
+                    android:layout_below="@id/formaPagoLabel"
+                    />
+
+                <!--Moneda-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Moneda:"
+                    android:id="@+id/monedaLabel"
+                    android:layout_below="@+id/formaPago"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/moneda"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/formaPago"
+                    android:layout_below="@id/monedaLabel"
+                    />
+
+                <!--Sistema de Adjudicación-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Sistema de Adjudicación:"
+                    android:id="@+id/sistemaAdjudicacionLabel"
+                    android:layout_below="@+id/moneda"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                     />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/sistemaAdjudicacion"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/moneda"
+                    android:layout_below="@id/sistemaAdjudicacionLabel"
+                    />
+
+                <!--Tipo de Garantía de Oferta-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Tipo de Garantía de Oferta:"
+                    android:id="@+id/tipoGarantiaOfertaLabel"
+                    android:layout_below="@+id/sistemaAdjudicacion"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/tipoGarantiaOferta"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/sistemaAdjudicacion"
+                    android:layout_below="@id/tipoGarantiaOfertaLabel"
+                    />
+
+                <!--Observaciones-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Observaciones:"
+                    android:id="@+id/observacionesLabel"
+                    android:layout_below="@+id/tipoGarantiaOferta"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/observaciones"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/tipoGarantiaOferta"
+                    android:layout_below="@id/observacionesLabel"
+                    />
+
+
+                <!--Restricciones-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Restricciones:"
+                    android:id="@+id/restriccionesLabel"
+                    android:layout_below="@+id/observaciones"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                     />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/restricciones"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/observaciones"
+                    android:layout_below="@id/restriccionesLabel"
+                    />
+            </RelativeLayout>
+
+            <!--Datos de Contacto-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/datosContactoFrame"
+                android:layout_below="@id/datosBasicos"
+                android:background="#fad505"
+                android:layout_marginLeft="30dp"
+                android:layout_marginBottom="15dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Datos del Contacto"
+                    android:id="@+id/textView2"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="10dp" />
+            </FrameLayout>
+
+            <RelativeLayout
+                android:id="@+id/datosContacto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/datosContactoFrame"
+                android:layout_alignLeft="@+id/listTitular"
+                android:layout_alignStart="@+id/listTitular"
+                android:layout_marginLeft="32dp"
+                android:layout_marginStart="32dp">
+
+
+                <!--Nombre del contacto-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Nombre:"
+                    android:id="@+id/nombreContactoLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/nombreContacto"
+                    android:paddingBottom="10dp"
+                    android:textColor="#000"
+                    android:layout_below="@+id/nombreContactoLabel"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+
+                <!--Cargo-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Cargo:"
+                    android:layout_below="@id/nombreContacto"
+                    android:id="@+id/cargoLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/cargo"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/nombreContacto"
+                    android:layout_below="@id/cargoLabel"
+                    />
+
+
+                <!--Teléfono-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Teléfono:"
+                    android:layout_below="@id/cargo"
+                    android:id="@+id/telefonoLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/telefono"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/cargo"
+                    android:layout_below="@id/telefonoLabel"
+                    />
+
+
+                <!--E-mail-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="E-mail:"
+                    android:layout_below="@id/telefono"
+                    android:id="@+id/emailLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/email"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/telefono"
+                    android:layout_below="@id/emailLabel"
+                    />
+            </RelativeLayout>
+
+            <!--Etapas y Plazos-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etapasFrame"
+                android:layout_below="@id/datosContacto"
+                android:background="#fad505"
+                android:layout_marginLeft="30dp"
+                android:layout_marginBottom="15dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Etapas y Plazos"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="10dp" />
+            </FrameLayout>
+
+            <RelativeLayout
+                android:id="@+id/etapas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/etapasFrame"
+                android:layout_alignLeft="@+id/listTitular"
+                android:layout_alignStart="@+id/listTitular"
+                android:layout_marginLeft="32dp"
+                android:layout_marginStart="32dp">
+
+
+                <!--Consultas-->
+                <TextView
+                    android:id="@+id/consultasLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:textColor="#000"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Consultas" />
+
+
+                <!--Fecha tope-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Fecha tope:"
+                    android:layout_below="@id/consultasLabel"
+                    android:id="@+id/fechaTopeConsultaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/fechaTopeConsulta"
+                    android:paddingBottom="10dp"
+                    android:textColor="#000"
+                    android:layout_below="@+id/fechaTopeConsultaLabel"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+
+                <!--Hora-->
+                <!--
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Hora:"
+                    android:layout_below="@id/fechaTopeConsulta"
+                    android:id="@+id/horaConsultaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/horaConsulta"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/fechaTopeConsulta"
+                    android:layout_below="@id/horaConsultaLabel"
+                    />
+
+                -->
+                <!--Lugar-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Lugar:"
+                    android:layout_below="@id/fechaTopeConsulta"
+                    android:id="@+id/lugarConsultaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/lugarConsulta"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/fechaTopeConsulta"
+                    android:layout_below="@id/lugarConsultaLabel"
+                    />
+
+
+                <!--Entrega de Ofertas-->
+                <TextView
+                    android:id="@+id/entregaLabel"
+                    android:layout_below="@id/lugarConsulta"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:textColor="#000"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Entrega de Ofertas" />
+
+
+                <!--Fecha tope-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Fecha:"
+                    android:layout_below="@id/entregaLabel"
+                    android:id="@+id/fechaEntregaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/fechaEntrega"
+                    android:paddingBottom="10dp"
+                    android:textColor="#000"
+                    android:layout_below="@+id/fechaEntregaLabel"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+
+                <!--Hora-->
+                <!--
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Hora:"
+                    android:layout_below="@id/fechaEntrega"
+                    android:id="@+id/horaEntregaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/horaEntrega"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/fechaEntrega"
+                    android:layout_below="@id/horaEntregaLabel"
+                    />
+                -->
+
+                <!--Lugar-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Lugar:"
+                    android:layout_below="@id/fechaEntrega"
+                    android:id="@+id/lugarEntregaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/lugarEntrega"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/fechaEntrega"
+                    android:layout_below="@id/lugarEntregaLabel"
+                    />
+
+
+                <!--Apertura de Ofertas-->
+                <TextView
+                    android:id="@+id/aperturaLabel"
+                    android:layout_below="@id/lugarEntrega"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:textColor="#000"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Apertura de Ofertas" />
+
+
+                <!--Fecha tope-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Fecha:"
+                    android:layout_below="@id/aperturaLabel"
+                    android:id="@+id/fechaAperturaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/fechaApertura"
+                    android:paddingBottom="10dp"
+                    android:textColor="#000"
+                    android:layout_below="@+id/fechaAperturaLabel"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+
+                <!--Hora-->
+                <!--
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Hora:"
+                    android:layout_below="@id/fechaApertura"
+                    android:id="@+id/horaAperturaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:freezesText="true"
+                    android:id="@+id/horaApertura"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/fechaApertura"
+                    android:layout_below="@id/horaAperturaLabel"
+                    />
+                -->
+
+                <!--Lugar-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Lugar:"
+                    android:layout_below="@id/fechaApertura"
+                    android:id="@+id/lugarAperturaLabel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="-"
+                    android:id="@+id/lugarApertura"
+                    android:textColor="#000"
+                    android:layout_alignLeft="@id/fechaApertura"
+                    android:layout_below="@id/lugarAperturaLabel"
+                    />
+            </RelativeLayout>
+        </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,13 @@
+codigo,nombre
+ADJ,Adjudicado
+ANU,Anulado
+CAN,Cancelado
+CD,Contratación Directa
+CIMP,Impugnado Totalmente sin Suspensión
+DES,Desierto
+IM_PAR_SUS,Impugnado Parcialmente con Suspensión
+IMP_PAR,Impugnado Parcialmente sin suspensión
+IMP_SUS,Impugnado con Suspensión
+PUB,Publicado
+SUS,Suspendido
+TOD,(Todos los estados)

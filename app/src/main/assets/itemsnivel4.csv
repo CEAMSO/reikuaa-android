@@ -1,0 +1,4987 @@
+Código,Descripción
+10101502,Perros
+10101506,Caballos
+10101507,Ovejas
+10101508,Cabras
+10101511,Cerdos
+10101512,Conejos
+10101516,Vacas
+10101601,Pollos vivos
+10101602,Patos vivos
+10101702,Peces varios
+10111304,Equipo o cuencos de comida de los animales domesticos
+10111306,Equipos de Captura / Adiestramiento de animales domesticos
+10121502,Avena para pienso
+10121503,Maiz para pienso
+10121505,Heno o Forraje
+10121602,Alpiste
+10121604,Alimentos y Suplementos para aves
+10121702,Alimento granulado para peces
+10121801,Alimento seco para perros y gatos
+10121901,Alimento granulado para roedores
+10122101,Comida para cerdos
+10122102,Comida para animales varios
+10122103,Comida para monos
+10131506,Establos para ganado
+10131601,Jaulas o accesorios
+10141501,Sillas de montar y accesorios
+10141601,Bridas
+10141603,Bocados para caballos
+10141604,Riendas
+10141605,Estribos
+10141606,Correas o traillas
+10141607,Collares para animales
+10141608,Arneses o accesorios
+10141609,Sujeciones
+10141610,Bozales
+10151502,Semillas o plantulas de zanahoria
+10151503,Semillas o plantulas de apio
+10151504,Semillas o plantulas de chile
+10151506,Semillas o plantulas de guisante
+10151507,Semillas o plantulas de pepino
+10151508,Semillas o plantulas de berenjena
+10151510,Semillas o plantulas de ajo
+10151512,Semillas o plantulas de lechuga
+10151513,Semillas o plantulas de maiz
+10151514,Semillas o plantulas de melon
+10151515,Semillas o plantulas de cebolla
+10151516,Semillas o plantulas de soja
+10151517,Semillas o plantulas de espinaca
+10151518,Semillas o plantulas de tomate
+10151519,Semillas o plantulas de nabo
+10151520,Semillas o plantulas de acelga
+10151522,Semillas o plantas de remolacha
+10151523,Semillas o plantas de coliflor
+10151524,Semillas o plantas de perejil
+10151525,Semillas o plantulas de brócoli
+10151526,Semillas o plantulas de repollo
+10151527,Semillas o plantulas de patata
+10151528,Semillas o plantulas de locote
+10151529,Semillas o plantulas de calabaza
+10151530,Semillas o plantulas de rabano
+10151532,Semillas o plantulas de sandía
+10151535,Semillas o plantulas de cacahuete
+10151595,Plantines de menta
+10151596,Plantines de ruda
+10151597,Plantines medicinales
+10151598,Plantines de ajenjo
+10151599,Plantines de toronjil
+10151604,Semillas de mijo
+10151605,Semillas de avena
+10151606,Semillas de sesamo
+10151607,Semillas de lino
+10151608,Semillas de tártago - aceite de ricino
+10151609,Semillas de maiz
+10151611,Semillas de sorgo
+10151701,Semillas o plantulas de arroz
+10151703,Semillas o plantulas de alfalfa
+10151704,Semillas o plantulas de hierba y pasto
+10151706,Semillas o plantulas varios
+10151801,Semillas o plantulas de pimienta
+10151805,Semillas o plantulas de culantro
+10151807,Semillas o plantulas de azafran
+10151904,Semillas de girasol
+10151905,Semillas de flores varias
+10151906,Bulbos de lirios
+10152001,Semillas o esquejes de arboles frutales
+10152002,Semillas o esquejes de coniferas o arboles varios sin frutos
+10152003,Semillas o esquejes de arboles de frutos secos
+10152201,Semillas o plantas de algodon
+10161507,Arbustos Ornamentales
+10161513,Palmeras
+10161603,Plantas Perennes
+10161705,Rosas cortadas
+10161707,Plantas-flores ornamentales
+10161801,Helechos
+10161802,Hiedra
+10171502,Hormonas para plantas
+10171504,Abonos
+10171604,Abono y fertilizante
+10171605,Mezclas NPK (nitrogeno
+10171701,Herbicidas
+10171702,Fungicidas
+10191506,Raticidas
+10191507,Repelentes para pajaros
+10191508,Veneno para termitas
+10191509,Insecticidas
+10191701,Trampas para control de animales
+10191703,Interceptor de control para insectos volantes
+10191704,Matamoscas
+11101505,Azufre
+11101506,Yeso
+11101507,Grafito
+11101510,Amianto o asbesto
+11101512,Borato
+11101518,Talco
+11101522,Carbon activado
+11101601,Mineral de hierro
+11101707,Magnesio
+11101713,Hierro
+11101714,Plomo
+11101716,Estano
+11101719,Cinc
+11111501,Tierra y piedra
+11111601,Yeso
+11111604,Granito
+11111605,Marmol
+11111608,Piedra caliza
+11111610,Piedra pomez
+11111803,Caolin u otras arcillas caolinicas
+11111804,Bentonita
+11121608,Bambu
+11121702,Astillas de madera o lena
+11121705,Corteza
+11121802,Algodon
+11131504,Cuero
+11131602,Semen
+11131607,Embriones
+11151512,Fibras de vidrio
+11151608,Hebra de nylon
+11151701,Hilo de lana
+11151702,Hilo de algodon
+11151703,Hilo de poliester
+11151705,Hilo de seda
+11151709,Tejido sintetico
+11151710,Tejidos varios
+11151713,Tejido de canamo
+11151715,Tejido de lino
+11161501,Tejido tafetan
+11161503,Tejidos de seda de punto
+11161701,Tejidos de algodon en tafetan
+11161804,Tejidos de punto sinteticos
+11162003,Arpillera o canamo o tela de yute
+11162108,Tejido o tela de malla metalica
+11162109,Encaje
+11162111,Malla
+11162121,Telas varias
+11162127,Tela de camuflaje
+11162130,Dosel
+11162307,Cuero sintetico o de imitacion
+11191599,Cuerpos solidos de metal
+12131501,Dinamita
+12131502,Cartuchos explosivos
+12131503,Explosivos propulsores
+12131504,Cargas explosivas
+12131505,Explosivos plasticos
+12131506,Explosivos aluminados
+12131507,Explosivos de nitrato de amonio
+12131508,Productos para explosivos varios
+12131601,Fuegos artificiales
+12131604,Bengalas
+12131605,Materiales pirotecnicos para teatro y television
+12131701,Capsulas de voladura
+12131702,Detonadores
+12131703,Fusibles para explosivos
+12131704,Iniciadores de explosivos
+12131706,Cerillas
+12131707,Encendedores
+12131708,Caja de fulminante
+12131801,Propulsores en polvo
+12141502,Magnesio Mg
+12141721,Hierro Fe
+12141726,Mercurio Hg
+12141734,Platino Pt
+12141750,Cinc Zn
+12141804,Potasio K
+12141806,Sodio Na
+12141901,Cloro Cl
+12141902,Hidrogeno H
+12141903,Nitrogeno 
+12141904,Oxigeno 
+12141907,Boro B
+12141908,Carbono C
+12141910,Selenio Se
+12141911,Silicio Si
+12141912,Azufre S
+12141915,Bromo Br
+12141916,Yodo 
+12142004,Gas argon y gases especiales
+12142005,Gas Helio He
+12142101,Gases compuestos de hidrogeno
+12142102,Gases mezclados 
+12142103,Amoniaco
+12142104,Gas dioxido de carbono CO2
+12161601,Catalizadores de acido
+12161704,Tampones acidos
+12161801,Geles
+12161802,Suspensiones
+12161804,Emulsiones
+12161901,Agentes anti-espumosos
+12161902,Detergentes surfactantes
+12161904,Agentes de dispersar
+12162201,Acido ascorbico
+12162204,Hidroxitolueno butilado
+12163201,Aditivos varios
+12164001,Bactericidas
+12164102,Aditivos acidos
+12164201,Retardadores
+12164501,Conservantes
+12164502,Esencias o extractos
+12164503,Aditivos de Alimentos
+12164504,Edulcorantes
+12171503,Tintes rosanilinas
+12171504,Colorantes FDC seguros para alimentos
+12171604,Dioxido de titanio
+12171703,Tintas
+12181502,Ceras naturales
+12181503,Parafinas
+12181601,Aceites sinteticas
+12181602,Aceites naturales
+12191501,Solventes aromaticos
+12191503,Fenoles o sus sustitutos o derivados
+12191601,Solventes de alcohol
+12191602,Solventes activos
+12352005,Compuestos aromaticos o heterociclicos
+12352101,Compuestos organicos halogenados
+12352102,Compuestos organicos nitrados o nitrosados
+12352104,Alcoholes o sus sustitutos
+12352106,acidos organicos o sus sustitutos
+12352107,Sales organicas o sus sustitutas
+12352108,esteres o sus sustitutos
+12352111,Amidas o imidas
+12352112,Eteres o sus sustitutos
+12352114,Aldehidos o sus sustitutos
+12352115,Cetonas o quininas o sus sustitutos
+12352116,Aminas o iminas o sus sustitutos
+12352117,Cianuros o isocianuros
+12352129,Amidinas o imidinas
+12352201,Carbohidratos o sus derivados
+12352202,Proteinas
+12352204,Enzimas
+12352209,Aminoacidos o sus derivados
+12352211,Grasas o lipidos
+12352301,acidos inorganicos
+12352302,Sales metalicas inorganicas
+12352303,oxidos inorganicos
+12352304,Peroxidos inorganicos
+12352305,Hidroxidos inorganicos
+12352308,Silicatos
+12352309,Silice
+12352310,Siliconas
+12352311,Alumina y otros compuestos de aluminio
+12352312,Permanganato potasico
+12352401,Mezclas quimicas organicas
+12352402,Mezclas quimicas inorganicas
+13101607,Compuesto de caucho
+13101723,Termoplastico
+13102009,Etileno vinil acetato (EVA)
+13102026,Poliestireno (PS)
+13111034,Compuesto del cloruro de polivinilo
+13111037,Resinas varias
+13111042,Alcohol de polivinilo
+13111059,Resinas plasticas
+13111302,Espuma de poliuretano o poliester
+13111305,Espuma del neopreno
+14111503,Papel pergamino
+14111507,Papel para fotocopia o impresora
+14111508,Papel para fax
+14111509,Articulos de papeleria
+14111510,Papeles especiales
+14111511,Papel de hilo
+14111512,Papel con raya y cuadriculado
+14111514,Bloques para mensajes
+14111515,Papel para calculadoras o cajas registradoras
+14111516,Papel de recambio para cuadernos
+14111518,Fichas
+14111519,Papeles de acetato (transparencia)
+14111525,Papel madera
+14111526,Blocs para notas
+14111529,Rollos para telex
+14111530,Notas de papel autoadhesivo
+14111531,Libros de escritura o registros
+14111537,Papel de etiquetas
+14111601,Papel
+14111606,Papel artistico 
+14111609,Papel para forrar
+14111610,Cartulina
+14111611,Tarjetas de invitacion o anuncio
+14111701,Papel facial
+14111703,Toallas de papel
+14111704,Papel higienico
+14111705,Servilletas y panuelos de papel
+14111801,Tickets o rollos de tickets
+14111802,Recibos o libros de recibos
+14111804,Facturas o libros de facturas
+14111806,Formularios o cuestionarios varios
+14111808,Formularios de contabilidad o libros de contabilidad
+14121501,Carton blanqueado
+14121504,Papel para embalaje
+14121802,Papeles de polietileno
+14121810,Papeles carbon
+14121811,Papeles de copia sensibilizados
+14121812,Papel fotografico
+14122201,Papeles para germinar semillas
+15101502,Queroseno
+15101503,Nafta
+15101504,Combustible de aviacion
+15101505,Gasoil-Diesel
+15101506,Gasolina
+15101507,Benceno
+15101508,Petroleo crudo
+15101509,Biocombustible
+15101601,Carbon
+15101606,Alcoholes carburantes gelificados
+15111506,Acetileno
+15111508,Gas de gasogeno
+15111510,Gas licuado de Petroleo
+15121501,Aceite de motor
+15121503,Aceite de engranajes
+15121504,Aceite hidraulico
+15121505,Aceite para transformadores
+15121508,Aceite para transmisiones
+15121509,Aceite y fluidos
+15121511,Pasta para montaje
+15121515,Componentes antiagarrotamiento o antimanchas
+15121518,Liquidos de amortiguacion
+15121520,Lubricantes varios
+15121521,Aceites lubricantes para bombas
+15121527,Aceite de turbina
+15121801,Hidrofugos
+15121802,Lubricantes Anticorrosivos Desincrustantes
+15121804,Preparados antioxidantes
+15121806,Aceites desoxidantes
+15121901,Grasa de silicon
+15121902,Grasa
+20101709,Molino de cemento y accesorios
+20101712,Amoladores de tierra
+20102101,Perforadoras rotativas neumaticas y accesorios
+20102102,Perforadoras rotativas hidraulicas y accesorios
+20111504,Equipo de perforacion de pozos de agua
+20111614,Brocas para perforadoras industriales
+20121302,Flotadores
+20121404,Tapon macho de terminacion
+20121409,Juntas de dilatacion de la terminacion
+20121418,Herramientas para arranque tapador
+20121427,Valvulas de seguridad subsuperficie
+20122801,Agitadores de lodo
+20131006,Fluidos centradores
+20141601,Bombas neumaticas de exportacion
+20142801,Separadores de agua petroleo
+20143001,Vastagos de succion de aleacion de acero
+21101501,Arados
+21101502,Pulverizadores
+21101504,Escardillas
+21101506,Maquinas explanadoras o niveladoras y accesorios
+21101510,Canerias o tuberias de riego y accesorios
+21101512,Aspersores / Microaspersores
+21101513,Piezas para rastra aradora
+21101514,Arados de subsuelo
+21101516,Plantadores
+21101601,Plantadoras
+21101603,Sembradoras y separadoras de granos
+21101604,Sembradoras de semillas
+21101701,Segadores Agrícola
+21101702,Segadoras
+21101703,Cosechadoras
+21101704,Cosechadoras trilladoras o mixtas
+21101705,Trilladoras
+21101706,Separadores de cultivos
+21101707,Piezas de cosechadora o accesorios
+21101708,Piezas de segadora o cortadora
+21101802,Pulverizadores
+21101901,Ordeñadoras
+21101902,Equipo para cria de ganado
+21101903,Equipos para cria de aves de corral
+21101905,Equipo para identificacion de ganado
+21101906,Equipo de inspeccion o recogida de huevos
+21101908,Tanques refrigeradores de leche
+21101909,Equipo para el esquileo o tijeretada de animales
+21102002,Maquinas seleccionadoras de Hortalizas
+21102003,Clasificadoras agricolas (de semillas
+21102004,Equipo para limpieza y descascarillado de arroz
+21102006,Trituradoras de martillo
+21102301,Equipo de riego 
+21102401,Equipo para apicultura
+22101502,Niveladoras
+22101509,Retroexcavadoras y accesorios
+22101516,Excavadoras para fosos
+22101522,Topadoras y accesorios
+22101525,Excavadoras de ruedas
+22101526,Excavadoras de cadenas
+22101602,Equipo de apisonamiento
+22101605,Acabadoras de asfalto
+22101609,Mezcladoras de material de pavimentacion
+22101615,Trituradoras de pavimento y repuestos
+22101618,Equipos de pavimentación varios
+22101619,Maquinas niveladoras y accesorios
+22101620,Maquinas de limpieza o acabado de juntas
+22101701,Palas excavadoras
+22101702,Cucharas de movimiento de tierra o sus piezas o accesorios
+22101703,Cuchillas o dientes u otros filos cortantes para maquinas pesadas
+22101705,Eslabones o zapatas o sus piezas
+22101708,Escarificadores
+22101709,Cucharones para máquinas pesadas y accesorios
+22101711,Herramientas de trituracion de pavimento o accesorios
+22101714,Kits de reparacion o piezas de apisonadora
+22101801,Elevadores
+22101804,Elevador telescopico
+22102001,Equipamiento de demolicion
+23101501,Copiadoras
+23101502,Perforadoras
+23101505,Taladradoras
+23101506,Trituradoras
+23101507,Moldeadoras
+23101508,Cortadoras
+23101509,Lijadoras
+23101510,Pulidoras
+23101514,Cepilladoras
+23101519,Maquinas robotes
+23101521,Maquina de descarga de electrodo de catodo de alambre
+23121505,Maquinas para ligar los puntos
+23121602,Maquinas cosedoras de botones
+23121603,Maquinas de hacer ojales
+23121604,Maquinas cortadoras de telas
+23121608,Maquinas plegadoras de telas
+23121612,Accesorios para maquina de coser
+23121614,Maquinas de coser
+23121615,Mesas y/o accesorios para cortar telas
+23131503,Ruedas de esmerilado
+23131504,Compuestos para pulido
+23131507,Tela para lijar
+23131509,Tambores o pulidoras
+23141701,Maquinas cortadoras de cuero
+23151503,Prensa o molinos de extrusion y accesorios
+23151506,Prensas y planchas de caucho o plastico
+23151601,Sopladores o secadores
+23151602,Trituradoras
+23151603,Maquina / Equipo / Suministros para industria del cemento
+23151604,Amoladuras o pulidoras
+23151606,Maquinas moldeadoras de cemento o ceramica o vidrio o similar
+23151607,Prensas
+23151608,Tamices
+23151803,Maquinas encapsuladoras
+23151804,Reactores
+23151806,Filtros y suministros de la industria farmaceutica
+23151808,Granuladores
+23151811,Maquinas para hacer ensayos de tabletas o capsulas y accesorios
+23151813,Maquinas de hacer tabletas
+23151820,Manometro
+23151904,Bobinadoras
+23152102,Cribas o piezas o Equipo estacionarios de separacion industrial
+23152104,Equipo o piezas y pantallas de separacion centrifuga
+23152203,Bancos de pruebas de componentes o motores
+23152902,Maquinaria de Formar o Rellenar o Sellar
+23152903,Vacio de empaquetamiento
+23153002,Utensilio / Accesorio de guia
+23153018,Utensilio/Accesorio de posicionamiento
+23153025,Pinza mecanica
+23153031,Utensilios de medicion
+23153101,Componentes y/o accesorios de molienda industrial
+23153130,Soportes o aisladores de vibracion de maquina
+23153134,Rodillos de avance o de arrastre
+23153140,Brazos articulados
+23153302,Fresadora para escariador
+23153307,Herramientas de tallar
+23153309,Insertos graduables para herramientas de corte
+23153312,Herramientas de avellanado o escariado
+23153313,Cuchillas o conjuntos de cuchillas de maquinaria
+23153503,Hornos de sistemas de pintura
+23161503,Hornos
+23161506,Crisoles de fundicion
+23171507,Soldadores o pistolas para sueldas y accesorios
+23171508,Maquinas de soldar
+23171509,Soldadura
+23171510,Alambre para soldar o estano
+23171511,Herramientas de soldadura
+23171512,Varillas soldadoras
+23171515,Electrodos para soldar
+23171517,Sopletes
+23171519,Maquinaria de soldadura de tungsteno a gas inerte (TIG)
+23171522,Fundentes para soldar
+23171526,Aditivos desoldantes
+23171529,La soldadura o el kit
+23171535,Puntas de corte o soldadura
+23171536,Portaelectrodos
+23171537,Limas limpiadoras de punta de soldadura o soldadura fuerte
+23171541,Aparato de corte o de soldadura fuerte o de soldadura por llama de gas
+23171602,Cortadores de barras o varillas
+23171603,Cortadores de canerias o tubos
+23171604,Cortadores de alambres o cables
+23171606,Tornos
+23171610,Escariadores
+23171612,Cortadores rotatorios de metales
+23171620,Mandriles
+23171622,Prensas de taller
+23171703,Maquinaria de moldeado de tubos
+23171902,Dispositivos de inspeccion o medicion
+23171906,Herramientas de Montaje o Desmontaje
+23172008,Filos de sierra circular para cortar metal
+23172011,Insertos de acero
+23181504,Maquinaria de tamizado
+23181506,Maquinaria de lavado
+23181703,Maquinaria para cocinar
+23181801,Equipo y suministros para elaboracion de cafe
+23181803,Maquinas para hacer hielo
+23211101,Maquinaria de procesamiento y fabricacion electronica 
+23221101,Equipo y maquinaria de matanza y desplumamiento de aves
+23231102,Sierras de Cinta
+23231201,Sierras Circulares
+23231501,Barras portasierra
+23231899,Cortadoras de madera y accesorios
+23231999,Cepilladoras y accesorios
+23232001,Escopleadoras
+23232201,Acopladoras
+24101503,Carretas
+24101505,Carretilla hidraulica
+24101506,Carretillas de mano
+24101507,Carritos
+24101601,Ascensores y accesorios
+24101602,Montacargas y accesorios
+24101604,Elevadores
+24101605,Equipo de carga
+24101606,Apiladoras
+24101608,Guinches
+24101610,Manipuladores
+24101611,Eslingas
+24101612,Gatos
+24101617,Tijeras elevadoras
+24101620,Gruas sobre camion
+24101622,Gruas sobre cadenas y accesorios
+24101624,Gruas hidraulicas sobre camion
+24101626,Escaleras mecanicas o pasillos mecanicos
+24101628,Horcas ajustables
+24101629,Accesorios o suministros de elevador de horquilla o transportador vertical
+24101704,Alimentadores para transportadores y accesorios
+24101709,Transportadores varios
+24101712,Cintas transportadoras y accesorios
+24101714,Transportadores de Aire
+24101715,Cinta transportadora
+24101716,Poleas de transportador
+24101718,Grapas de la correa del transportador
+24101721,Cubierta del carro
+24101722,Cadenas transportadoras
+24101725,Rastras o articulaciones de transportador
+24101904,Soportes para bidones
+24102201,Herramientas para manejo de elementos/insumos peligrosos
+24102203,Equipo o herramientas de sellado de sacos y bolsas
+24102299,Herramientas Industriales Varias
+24109999,Maquinaria / Equipo para clasificacion de materiales
+24111501,Bolsas de tela
+24111502,Bolsas de papel
+24111503,Bolsas de plastico
+24111509,Bolsas para agua
+24111802,Tanques o botellas de aire o gas
+24111803,Tanques de almacenamiento
+24111808,Tanques de almacenaje de combustible
+24111810,Tanques de almacenamiento de agua
+24112004,Tolvas metalicas
+24112108,Tambores metalicos
+24112109,Tambores no metalicos
+24112207,Bidones no metalicos para liquido inflamable
+24112401,Cofres
+24112404,Caja
+24112405,Armarios
+24112502,Cajas de transporte
+24112503,Cartones varios
+24112505,Paletas o Pallets
+24112601,Cantaros
+24112602,Tarros
+24121503,Cajas para empaquetado
+24121807,Botes de plastico
+24122002,Botellas de plastico
+24122003,Botellas de cristal
+24122004,Cabezales y tapas
+24131501,Refrigerador y congelador combinado y accesorios
+24131503,Camaras frigorificas y accesorios
+24131607,Serpentin congeladores de chorro de aire
+24131901,Productoras de cubitos de hielo
+24141502,Laminas de embalaje
+24141511,Amarres de carga
+24141513,Envases Varios
+24141603,Acolchado
+24141705,Tubos plegables
+25101501,Minibuses
+25101502,Autobuses
+25101503,Automoviles
+25101504,Camiones
+25101505,Mini-furgonetas o furgonetas
+25101507,Camionetas 
+25101601,Camiones volquete
+25101602,Camiones de remolque
+25101609,Camiones de manipulacion de cieno
+25101610,Camiones cisterna
+25101611,Camiones de transporte
+25101701,Camiones de bomberos y de salvamento
+25101702,Vehiculos de policia
+25101703,Ambulancias
+25101801,Motocicletas y accesorios
+25101802,Escuters o motos y accesorios
+25101901,Tractores agricolas y accesorios
+25101902,Casas motorizadas
+25101905,Todoterrenos de via o de rueda
+25101908,Vehiculos Quad
+25111506,Remolcadores
+25111507,Lanchas
+25111511,Barco de marineria de gas o petroleo
+25111601,Botes y balsas salvavidas
+25111922,Cabos de amarre
+25131507,Avion de helices privado o de negocios
+25131703,Avion de caza y accesorios
+25131707,Aeronave de reconocimiento o vigilancia y accesorios
+25131709,Avion de transporte militar
+25131899,Drones
+25131903,Helicopteros de ataque
+25131904,Helicopteros de reconocimiento y accesorios
+25131905,Helicopteros varios y accesorios
+25161505,Bicicletas de montana
+25171502,Limpiaparabrisas para vehiculos
+25171507,Cuchillas limpiadoras
+25171705,Rotores
+25171706,Calibrador de frenaje
+25171707,Tambor de embrague y accesorios varios
+25171708,Disco de freno
+25171709,Bomba de freno
+25171710,Cilindros de frenos
+25171712,Fibras
+25171714,Tambor de freno
+25171715,Rotores de discos de freno
+25171716,Lineas o accesorios de freno
+25171718,Kits de reparacion de frenos
+25171901,Llantas y ruedas para vehiculos
+25171902,Accesorios componentes de rueda o rodamiento
+25171905,Valvulas de neumaticos
+25172001,Sistemas de suspension para automoviles
+25172002,Sistemas de suspension y accesorios para camiones
+25172003,Amortiguadores para camiones y maquinas pesadas
+25172004,Amortiguadores para vehiculos
+25172009,Buje de automotor
+25172010,Barras contraladeos
+25172110,Bocina de vehiculo
+25172111,Sistema de seguridad y alarma
+25172203,Puertas para automocion y accesorios
+25172301,Parabrisas para vehiculos
+25172303,Ventanas para automocion
+25172404,Sistemas de almacenaje de combustible hibrido
+25172405,Sistemas de inyeccion de combustible y accesorios
+25172406,Depositos de gasolina 
+25172408,Tapas de aceite o combustible
+25172502,Camaras de neumaticos para automoviles y motos
+25172503,Neumaticos para camiones o maquinarias pesadas
+25172504,Neumaticos para vehiculos
+25172505,Neumaticos Varios
+25172506,Neumaticos de motos y bicicletas
+25172603,Paragolpes de vehiculo y accesorios
+25172604,Espejos de vehiculo
+25172606,Capotas de vehiculo y accesorios
+25172699,Equipamiento exterior para vehiculos
+25172704,Sistema control temperatura vehiculo
+25172906,Reflectores y accesorios
+25172907,Faro o lampara de vehiculos y accesorios
+25173003,Iluminacion interior para automotores
+25173108,Sistemas de navegacion del vehiculo
+25173702,Silenciadores de escape o resonadores
+25173703,Distribuidores de escape
+25173801,Ejes de mando
+25173805,Diferenciales y accesorios
+25173810,Juntas
+25173812,Transmisiones manuales y accesorios
+25173815,Cables de embrague
+25173816,Embrague y componentes hidraulicos de embrague
+25173817,Cadenas de los engranajes conductores
+25173901,Sistema de encendido
+25174001,Ventilador y accesorios
+25174002,Radiadores de motor y accesorios
+25174003,Tapas de radiador
+25174004,Accesorios de refrigeracion motor
+25174202,Suspension de direccion
+25174203,Junta de bola
+25174204,Sistema de direccion y accesorios
+25174205,Bielas
+25174207,Varillaje de direccion
+25174209,Pinones
+25174211,Volantes
+25174212,Conjuntos de la columna de direccion
+25174402,Consolas o Tableros
+25174407,Pedales
+25174410,Componentes y sistemas de sonido del vehiculo
+25174601,Fundas de asientos
+25174602,Cojines de asientos o cojines alargados
+25174701,Repuestos de bicicleta
+25181602,Chasis para camiones
+25181701,Contenedores
+25181702,Remolques de plataforma
+25181703,Remolques para ganado
+25181704,Carrocerias
+25181705,Remolques cisterna
+25181706,Remolques contenedor con temperatura controlada
+25181707,Transporte para vehiculos
+25181708,Enganches de remolque
+25181709,Pala cargadora y accesorios
+25181711,Remolque para productos y materiales
+25191509,Tractores remolcadores para aviones
+25191512,Escalerillas transportables o rodantes
+25191514,Barra de remolque de avion
+25191701,Equipo de contrapesar la rueda
+25191702,Equipo para alinear la rueda
+25191703,Maquinas para cambiar neumaticos
+25201602,Aerofaros de navegacion de avion
+25201604,Sistemas de guiar al avion
+25201709,Sondas o sensores de avion
+25201904,Paracaidas
+25202003,Unidades de la fuente de alimentacion de avion
+25202203,Ruedas de avion
+25202205,Neumaticos de avion
+25202401,Tanques interiores de combustible de aeronaves y helicopteros
+25202405,Sistemas de manejo de combustible del avion
+25202508,Parabrisas de avion
+26101504,Motores diesel
+26101509,Motores hidroelectricos
+26101510,Maquinas rotativas
+26101512,Motores turbohelice y accesorios
+26101602,Motores de corriente alterna (CA) y accesorios
+26101603,Motores de corriente continua (CC)
+26101612,Motores multifasicos
+26101615,Alternadores y accesorios
+26101616,Motor neumatico
+26101710,Carburadores y accesorios
+26101711,Bielas
+26101713,Tapa o fondo de cilindro
+26101715,Tapas o tachos de motor
+26101720,Turbocargador
+26101727,Aros y pistones
+26101728,Tubos de motor
+26101730,Ejes de brazo oscilante y accesorios
+26101732,Bujias
+26101734,Diafragmas de Carburador
+26101736,Embolos
+26101740,Inyectores de combustible
+26101742,Distribuidores de inyeccion de combustible
+26101743,Valvulas de motor y accesorios
+26101749,Cigüenal y accesorios
+26101750,Valvula de estrangulacion
+26101755,Guia de valvula
+26101757,Accesorios de las bujias
+26101759,Accesorios o Adaptadores del motor de arranque
+26101764,Revestimiento de los cilindros
+26101803,Rotores o estatores
+26101805,Kits de reparacion del motor
+26101807,Bobinas de motor
+26101808,Monturas o soportes de motor
+26101809,Freno de motor
+26111501,Conmutadores y accesorios
+26111510,arboles de transmision
+26111512,Ejes
+26111515,Servo controlador
+26111524,Unidades de engranajes
+26111530,Leva de transmision
+26111534,Herrajes y accesorios
+26111601,Generadores diesel
+26111603,Aerogeneradores
+26111607,Generadores solares
+26111701,Baterias recargables
+26111702,Pilas alcalinas
+26111703,Baterias para transportes - Accesorios
+26111704,Cargadores de baterias
+26111705,Pilas secas
+26111706,Pilas electronicas
+26111707,Baterias de plomo-acido
+26111709,Baterias de niquel-cadmio
+26111711,Baterias de litio
+26111712,Baterias de niquel-hidrogeno
+26111722,Adaptador de bateria o accesorios
+26111723,Puertas
+26111801,Correas y accesorios
+26111804,Correas planas
+26111805,Tensores de correa
+26111806,Poleas de transmision
+26111807,Polea de distribucion
+26111905,Embrague de rueda libre
+26112004,Kits de reparacion del embrague
+26121515,Cable de silicio-amianto (SA)
+26121521,Alambre de bronce
+26121523,Alambre preformado 
+26121540,Cable galvanizado
+26121541,Conductores electricos
+26121606,Cable coaxial
+26121607,Cable de fibra optica y accesorios
+26121609,Cable de redes y accesorios
+26121616,Cable de telecomunicaciones 
+26121623,Cable de radiofrecuencia (RF)
+26121628,Cables blindados
+26121629,Cable de alimentacion
+26121630,Accesorios de cable
+26121633,Cables electricos de audio
+26121635,Cables electricos
+26121636,Cables para impresoras
+26121701,Cable preformado
+26131503,Centrales hidroelectricas
+26131508,Centrales termoelectricas
+26131510,Central termica
+26131603,Rejillas de agua
+26131604,Filtros fijos
+26131606,Chimenea de acero
+26131612,Conductos de salida de escape
+26131701,Detectores de gases inflamables o peligrosos para generadores
+26131803,Paneles de proteccion o control de generadores
+26131808,Conmutadores de control de carga de subestacion
+26131813,Conmutadores de desconexion de estaciones de maniobra
+26141601,Combustible para conjunto subcritico
+26141702,Dosimetros
+26142201,Tubos con revestimiento de acero inoxidable para combustible nuclear
+27111504,Cuchillos de bolsillo
+27111505,Botadores
+27111506,Cizallas
+27111507,Cortadores de metal
+27111508,Sierras o serruchos
+27111509,Mechas o Barrenas
+27111511,Tenazas para alambre
+27111513,Cortador para manguera
+27111514,Cortadora de vidrio y ceramica
+27111515,Taladro de mano o empuje y accesorios
+27111521,Recortadoras de chapa
+27111602,Martillos
+27111603,Yunques
+27111604,Hachas de mano
+27111605,Picos
+27111701,Destornilladores
+27111702,Llaves y pinzas para tuercas
+27111706,Llave de tuercas de boca abierta
+27111707,Llaves ajustables
+27111708,Llaves para tubos
+27111710,Llaves Allen
+27111712,Extractores
+27111713,Llaves para tuercas y canos
+27111716,Llave Torx
+27111720,Llave manual en T para tomas
+27111723,Llaves de tubo
+27111801,Cintas metricas y bocetaje
+27111803,Escuadras y niveles
+27111901,Cortafrios
+27111902,Limas
+27111903,Cepillos de carpintero y accesorios
+27111905,Esmeriladoras
+27111906,Cinceles de madera
+27111907,Cepillos de alambre
+27111908,Piedras o herramientas o equipos de afilar o pulir
+27111909,Espatulas
+27111910,Buriles o escoplos
+27111911,Formones
+27112001,Machetes o foices
+27112002,Azadones
+27112003,Rastrillos
+27112004,Palas y accesorios
+27112005,Hachas y accesorios
+27112006,Guadanas / Hoz
+27112007,Tijeras de podar
+27112008,Azadas y accesorios
+27112010,Horquilla de jardin
+27112011,Mangueras y accesorios
+27112014,Segadoras de cesped y bordeadoras
+27112101,Dobladores de tubos
+27112102,Tornillos de banco
+27112103,Abrazaderas
+27112104,Tenazas
+27112105,Tenacillas
+27112115,Pinzas cerrador
+27112116,Pinzas de cerco
+27112117,Pinzas con corte adelante
+27112120,Grapas para caneria
+27112122,Alicates de chapa metalica
+27112126,Alicates o pinzas
+27112128,Alicates de punta curvada
+27112201,Baldes
+27112202,Llanas y otras herramientas para albañileria
+27112205,Vibradores de hormigon
+27112301,Hierro de marcar
+27112303,Punzon de trazar
+27112401,Pistolas de grapas
+27112402,Remachadora
+27112406,Pistolas de etiquetado
+27112502,Palancas
+27112701,Herramientas varias
+27112704,Amoladoras
+27112705,Juego de dados
+27112709,Sierras mecanicas
+27112715,Martillos mecanicos
+27112716,Pistolas de clavos mecanicas
+27112718,Grabadores
+27112719,Pistola de encolar
+27112801,Brocas
+27112802,Hojas de sierra
+27112806,Machos de roscar
+27112808,Anillos metalicos
+27112822,Adaptadores de cubo
+27112826,Sierra de calar
+27112901,Pistolas de grasa
+27112908,Pistola de aceite
+27113002,Cepillos de tubo
+27113004,Cepillos de extensor
+27113201,Herramientas varias
+27113203,Herramienta para computadores y comunicaciones
+27113204,Kits de electricista
+27121501,Potenciadores de Energia
+27121502,Prensas
+27121602,Cilindros hidraulicos
+27121604,Kits de reparacion de cilindro hidraulico o sus componentes
+27126199,Bobinadoras
+27131501,Llaves de impacto neumatico
+27131504,Martillo de neumaticos y accesorios
+27131505,Taladro neumatico
+27131701,Cilindros neumaticos
+27131707,Kits de reparacion de cilindro neumatico o sus componentes
+27131709,Anillos amortiguadores de cilindro neumatico
+30101503,Angulos de hierro
+30101504,angulos de acero
+30101515,angulos de plastico
+30101603,Barras de hierro
+30101604,Barras de acero
+30101609,Barras de cobre
+30101611,Barras de bronce
+30101615,Barras de plastico
+30101616,Barras de metal
+30101617,Barras de madera
+30101717,Vigas/ Tirantes de hormigon
+30101718,Vigas de metales preciosos
+30102204,Plancha de acero
+30102214,Plancha de plomo
+30102215,Plancha de plastico o acrilico
+30102216,Plancha de caucho
+30102303,Perfiles de hierro
+30102304,Perfiles de acero
+30102306,Perfiles de aluminio
+30102309,Perfiles de madera
+30102403,Varillas de hierro
+30102404,Varillas de acero
+30102405,Varillas de acero inoxidable
+30102406,Varillas de aluminio
+30102409,Varillas de cobre
+30102411,Varillas de bronce
+30102504,Chapa de acero
+30102506,Chapa de aluminio
+30102511,Chapa de bronce
+30102512,Chapa de cinc y fibrocemento
+30102519,Chapa de metal chapado
+30102526,Laminas de asbesto
+30102605,Banda de acero inoxidable
+30102606,Tapas de aluminio y hierro
+30102901,Pilares
+30102903,Pilares o torres de metal
+30102904,Postes de madera
+30103201,Enrejado de acero
+30103405,Lingotes de acero
+30103601,Vigas o tirantes de madera o metal
+30103602,Vigas mixtas de madera
+30103603,Madera de encuadre
+30103604,Maderas terciadas o laminas
+30103605,Tablas de madera
+30103606,Armazones o mamparas y otros
+30103607,Viguetas o alfajias de madera
+30111601,Cemento
+30111604,Cal apagada
+30111607,Cal viva
+30111701,Enlucido de yeso
+30121601,Asfalto
+30121602,Brea
+30131502,Bloques de hormigon
+30131602,Ladrillos
+30131604,Ladrillos refractarios
+30131701,Azulejos o baldosas de cemento
+30131702,Azulejos o baldosas de piedra
+30131703,Azulejos o baldosas de hormigon
+30131704,Azulejos o baldosas de ceramica
+30141501,Burlete
+30141502,Colchas aislantes
+30141503,Aislamiento de espuma
+30141505,Revestimiento de aislamiento termico
+30141508,Aislamiento de mica
+30141601,Aislamiento acustico
+30141602,Aislamiento no termico
+30151501,Techado prearmado
+30151505,Membranas para techos
+30151506,Tejas
+30151509,Armazones
+30151701,Tubos de bajada
+30151702,Dinteles
+30151703,Canalones
+30151804,Chapas de fibra de vidrio
+30151901,Toldos y carpas
+30152001,Cercado de metal
+30161502,Papeles pintados
+30161601,Cielo razo para techos y accesorios
+30161602,Paneles para techos
+30161701,Alfombrado
+30161702,Tarimas y gradas
+30161703,Linoleo
+30161706,Suelos de azulejos o piedra
+30161707,Suelos de vinilo
+30161715,Enrejados
+30161902,Columnas
+30161907,Escaleras
+30171501,Puertas de cristal y accesorios
+30171504,Puertas de madera
+30171505,Puertas de metal
+30171506,Contramarcos
+30171507,Marcos de puertas
+30171508,Puertas correderas
+30171510,Puertas automaticas
+30171607,Ventanas con hoja de desplazamiento horizontal
+30171609,Ventanas madera
+30171706,Vidrio templado
+30171906,Marcos para ventanas
+30181502,Bides
+30181503,Duchas y accesorios
+30181504,Lavatorio o lavabos y accesorios
+30181505,Inodoros
+30181506,Urinarios
+30181508,Accesorios para baño 
+30181509,Plato del jabon
+30181511,Accesorios para cisterna de inodoros
+30181512,Asientos de inodoro
+30181513,Tapas de inodoro
+30181515,Cisternas de inodoro
+30191501,Escaleras
+30191502,Andamios
+30201501,Silos
+30201502,Invernaderos
+30201605,Gacetas
+30201704,Salas limpias
+30201705,Garitas
+30201706,Aseos portatiles
+30201801,Refugios
+30201901,Unidades medicas
+30222305,Biblioteca
+30222306,Laboratorio de lenguas
+30223001,Capillas
+31151502,Cuerda de poliester
+31151503,Cuerda de polipropileno
+31151504,Cuerda de nilon
+31151505,Cable de acero
+31151506,Cuerda de canamo
+31151507,Cuerda o guita
+31151601,Cadenas de seguridad
+31151609,Eslabones de cadena
+31152001,Alambre de navaja
+31152002,Alambre de espinas
+31161501,Prisionero
+31161503,Tornillo
+31161504,Tornillos para metales
+31161506,Tornillos para chapa metalica
+31161507,Bulones
+31161508,Tornillos de rosca para madera
+31161518,Tornillo allen
+31161601,Pernos de anclaje
+31161608,Tirafondos
+31161610,Pernos de ojo
+31161611,Pernos
+31161614,Pernos estructurales
+31161618,Barras roscadas o esparrago
+31161619,Pernos prisioneros
+31161701,Tuercas de anclaje
+31161705,Tuerca tapa
+31161711,Tuercas de ojo
+31161722,Tuercas de union
+31161727,Tuercas hexagonales
+31161801,Arandelas 
+31161803,Arandelas de fijacion
+31161807,Arandelas planas
+31161812,Arandelas cuadradas
+31162001,Clavo
+31162002,Clavos de sombrerete
+31162003,Clavos de acabado
+31162005,Clavos para tejados
+31162201,Remaches 
+31162305,Abrazaderas
+31162306,Soportes colgantes de montaje
+31162307,Placas de montaje
+31162310,Correas de montaje
+31162311,Bujes de pared
+31162313,Kits de montaje
+31162402,Portacandado
+31162403,Bisagras o Goznes 
+31162404,Grapas de ferreteria
+31162405,Tensores
+31162406,Argollas de zunchamiento o de cercado
+31162409,Pasador de horquilla
+31162411,Anillos de retencion
+31162412,Horquilla
+31162413,Cierre de presion
+31162414,Calzo
+31162415,Tachuela
+31162417,Pasadores de alineacion
+31162501,Soportes para Muebles
+31162502,Soportes varios
+31162503,Puntales
+31162504,Soportes o accesorios varios de alumbrado
+31162606,Ganchos en J
+31162608,Ganchos y perchas de grua
+31162701,Basculantes
+31162702,Ruedas
+31162803,Grilletes
+31162805,Accesorios para acabado de muebles
+31162806,Tarugos
+31162904,Grampas de cable metalico
+31162906,Abrazaderas varias
+31163211,Grapas de retencion
+31163214,Pasadores de deslizamiento
+31171503,Cojinetes o rulemanes
+31171507,Cojinetes de empuje
+31171605,Bujes de eje
+31171709,Engranajes de caja
+31171711,Engranajes de motor
+31171714,Engranajes helicoidales
+31171804,Poleas
+31181510,Juntas de silicona
+31181512,Juntas de fibra comprimida
+31181604,Sello mecanico
+31181702,Empaquetaduras
+31191501,Papeles de lija
+31201502,Cinta autoadhesiva aislante electrica
+31201503,Cintas adhesivas de proteccion
+31201505,Cinta adhesiva de doble cara
+31201510,Cinta adhesiva impregnada de resina
+31201512,Cinta Transparente
+31201516,Cinta reflectiva
+31201517,Cinta para empaquetar o de embalaje
+31201519,Cinta para reparar tuberia 
+31201521,Cinta metalica y accesorios
+31201522,Cinta adhesiva precinto
+31201523,Cinta para de tela
+31201526,Cinta magnetica
+31201528,Cinta de montaje
+31201601,Adhesivos quimicos
+31201602,Pastas
+31201604,Cementos de caucho
+31201605,Masillas
+31201606,Calafateos
+31201610,Colas
+31201611,Adhesivos de laminas
+31201612,Selladores Varios
+31201614,Lacres
+31201616,Adhesivos liquidos
+31211501,Pinturas al esmalte
+31211503,Pinturas basado en pigmentos
+31211504,Pinturas silicona
+31211506,Pinturas de latex o al agua
+31211507,Colorantes para pinturas y otros componentes
+31211508,Pinturas acrilicas o sinteticas
+31211602,Fijador de Pintura
+31211604,Diluyentes para pinturas
+31211606,Agentes igualadores o Enduido
+31211701,Esmaltes y antioxidos
+31211702,Lustres
+31211703,Lacas
+31211704,Selladores de pinturas
+31211707,Barnices
+31211802,Decapantes para pinturas y barnices
+31211803,Disolventes y Diluyentes para pinturas y barnices
+31211901,Panos para herramientas
+31211904,Brochas
+31211906,Rodillos de pintar
+31211909,Bandejas de pintura
+31211913,Boquillas de pintura
+31231302,Tuberia de cobre
+31231310,Tuberia de acero
+31231311,Tuberia de hierro
+31231313,Tuberia de plastico
+31231318,Tuberia de aluminio
+31241703,Espejos parabolicos
+31241704,Espejos sin revestimiento
+31241803,Filtros de infrarrojos
+31241903,Bovedas metalicas
+31242202,Polarizadores
+31251510,Solenoides
+31261501,Cubiertas
+31261505,Campana del embrague
+31331302,Conjuntos estructurales soldado de acero al carbono sonico
+31331609,Conjuntos estructurales soldado con acero inoxidable o soldado con laton
+31371206,Concreto refractario Sic
+32101509,Tarjetas de circuito de una cara
+32101514,Amplificadores
+32101515,Atenuadores
+32101519,Detectores
+32101520,Cargas simuladas
+32101522,Aisladores
+32101523,Mezcladores
+32101525,Multiplexores
+32101526,Amplificadores de tubos de onda
+32101528,Moduladores
+32101601,Memoria de acceso aleatorio (RAM)
+32101613,Logica transistor-transistor (TTL)
+32101617,Tarjetas inteligentes (smart cards)
+32101620,Circuitos integrados digitales y accesorios
+32101621,Memoria DRAM sincrona (SDRAM)
+32101625,Circuitos integrados de accionamiento o control por motor
+32101628,Microcontroladores
+32101636,Procesador de senal digital (DSP)
+32101699,Memoria DDR (Double Data Rate)
+32111502,Diodos Zener
+32111511,Diodos de senal pequeña
+32111602,Transistor de efecto de campo (FET)
+32111603,Transistores MOS de efecto de campo (MOSFET)
+32111604,Transistores y accesorios
+32111608,Transistores uniempalme
+32111609,Transistores bipolares de puerta aislada (IGBT)
+32111610,Transistores de efecto de campo de union (JFET)
+32111611,Transistores bipolares de union (BJT)
+32111701,Celulas fotovoltaicas o fotocelulas
+32111702,Tiristores
+32111704,Triacs
+32111706,Osciladores a cristal
+32121502,Capacitores o varactores variables
+32121504,Redes de capacitores
+32121602,Resistores fusibles
+32121603,Resistores o varistores variables
+32121609,Resistencias fijas
+32121701,Rectificadores y accesorios
+32121705,Inversores
+32131002,Matrices de semiconductor
+32131006,Soportes o zocalos de circuito integrado
+32131007,Soportes de componentes discretos
+32131008,Compuestos disipadores de calor
+32131010,Tarjetas sencillas de circuitos impresos
+32131012,Accesorios o componentes electronicos varios
+32141106,Bases de tubo
+32141107,Zocalos de tubo
+39101601,Focos varios
+39101602,Lamparas medicas y accesorios
+39101604,Lamparas de alcohol
+39101605,Lamparas fluorescentes
+39101606,Lamparas de arco
+39101612,Lamparas incandescentes
+39101613,Lamparas infrarrojas
+39101615,Lamparas de vapor y accesorios
+39101616,Lamparas de rayos ultravioleta (UV)
+39101617,Lamparas de alta presion de sodio
+39101618,Lamparas de neon
+39101701,Tubos fluorescentes
+39111501,Artefactos fluorescentes y accesorios
+39111504,Sistemas de iluminacion de escenario o estudio
+39111506,Aranas de luces
+39111509,Lamparas de pie
+39111510,Lamparas o veladores de mesa
+39111514,Luces navidenas
+39111517,Velas de Cera
+39111518,Luz de mano o de extension
+39111521,Artefactos varios
+39111603,Alumbrado de la via publica
+39111702,Lamparas portatiles
+39111706,Luces de emergencia o equipo de luz de emergencia
+39111802,Cubiertas de lampara
+39111803,Portalamparas
+39111810,Interruptor de lampara
+39111812,Llave y toma eléctrica
+39111902,Senalizacion incandescente de emplazamientos peligrosos
+39121001,Transformadores de potencia de distribucion y accesorios
+39121002,Transformadores de suministro de potencia
+39121004,Unidades de suministro de energia o UPS y repuestos
+39121006,Adaptadores o inversores de potencia
+39121007,Conversores de frecuencia
+39121008,Conversores de senales
+39121009,Reguladores de potencia
+39121010,Bobinas magneticas
+39121011,Fuentes de alimentacion
+39121013,Convertidores rotativos electricos
+39121014,Bancada de condensadores
+39121015,Reactores
+39121016,Anillos colectores
+39121017,Unidades de distribucion de alimentacion (PDUs)
+39121020,Acondicionadores de senal
+39121102,Medidores electricas
+39121103,Paneles
+39121104,Equipos de control de motor
+39121105,Sistemas de conmutadores
+39121106,Sistemas de control o vigilancia de potencia
+39121107,Sistemas de control de iluminacion
+39121108,Accesorios del panel de control o distribucion
+39121205,Canaletas para cables
+39121207,Conductos para cables
+39121302,Placas o tapas de cerramientos
+39121303,Cajas electricas o estructura metalica
+39121305,Cajas a prueba de intemperie y accesorios
+39121308,Cajas de toma de corriente
+39121309,Cajas electricas especiales
+39121311,Accesorios electricos
+39121402,Enchufes
+39121403,Entrada de tension y potencia
+39121404,Manguitos electricos
+39121405,Terminales de cable o alambre
+39121406,Receptaculos electricos
+39121407,Regletas de conexiones
+39121409,Conectores de cables electricos
+39121414,Conectores axiales
+39121425,Separador de tablero de bornes
+39121428,Bobinas y bobinadoras electricas
+39121429,Conector de fibra optica
+39121432,Terminales electricos
+39121436,Electrodos
+39121501,Interruptores de seguridad
+39121502,Conmutadores reductores
+39121503,Conmutadores
+39121504,Interruptores de tiempos
+39121505,Interruptores de potencia
+39121508,Repuestos de Conmutadores
+39121511,Interruptores variables
+39121512,Interruptores pulsadores o de resortes
+39121515,Reles universales
+39121517,Reles de voltaje alterno
+39121522,Contactos electricos
+39121523,Temporizadores
+39121527,Codificadores
+39121528,Sensores fotoelectricos
+39121529,Contactores
+39121531,Interruptores de flotador o de nivel
+39121534,Luces indicadoras o indicadores luminosos
+39121535,Reles y accesorios
+39121536,Reles de interrupcion de fase
+39121539,Conmutadores de llave
+39121543,Modulo de reles multiples o de placa de reles
+39121546,Controles o conmutadores de palanca de control
+39121547,Soportes o zocalos de reles y equipos probadores de reles
+39121549,Termostato y accesorios
+39121551,Reflector
+39121601,Disyuntores
+39121602,Interruptores magneticos y termo magneticos
+39121604,Fusibles
+39121605,Jabalinas
+39121607,Sistema de Proteccion
+39121613,Conjuntos o dispositivos de puesta a tierra y pararrayos
+39121617,Piezas de fusible o accesorios
+39121619,Dispositivos o Accesorios varios 
+39121701,Soportes electricos
+39121702,Collares para cables
+39121703,Enlaces de cables
+39121705,Grapas para cables
+39121708,Alicates o pinza para cables
+39121712,Suministros electricos varios
+39121715,Tubos corrugados para cableado posterior
+39121718,Kits de empalme de cables
+39121719,Protectores
+39121721,Aislantes electricos
+40101501,Equipo de distribución de aire varios
+40101602,Circuladores de aire y accesorios
+40101603,Impulsores
+40101604,Ventiladores y Accesorios
+40101701,Aires acondicionados y accesorios
+40101703,Enfriadores / Refrigeradores y Accesorios
+40101705,Conjuntos de tubos capilares
+40101706,Persianas de aire acondicionado
+40101707,Accesorios de torre de refrigeracion
+40101806,Bombas de calor
+40101808,Estufas de la calefaccion
+40101810,Calentadores de ducto de serpentin
+40101812,Intercambiadores divididos
+40101825,Calentadores de agua de uso domestico
+40101833,Dispositivo de encendido de calentador o caldera
+40101902,Deshumidificadores
+40101903,Humidificadores
+40102001,Caldera de tubo de fuego
+40102003,Calderas electricas y accesorios
+40141603,Valvulas neumaticas
+40141604,Valvulas de seguridad
+40141605,Valvulas de solenoide
+40141606,Valvulas de descarga
+40141608,Valvulas hidraulicas
+40141610,Valvulas de flotador
+40141611,Valvulas esfericas
+40141612,Valvulas de expansion
+40141613,Valvulas de compuerta
+40141616,Piezas de valvula o accesorios
+40141617,Valvulas angular de globo
+40141618,Valvulas de retencion a bola
+40141620,Valvulas de mariposa de diseno de chapa
+40141625,Valvulas purgadora de sedimentos o lodo
+40141627,Valvulas de orificio
+40141702,Grifos
+40141705,Caños
+40141716,Sifones
+40141731,Boquillas
+40141735,Embudos
+40141736,Engrasadores y aceiteras
+40141742,Atomizadores
+40142007,Mangueras especiales
+40142010,Mangueras revestidas de fluoropolimero
+40142101,Tuberia de acero al carbono
+40142122,Tubo de vidrio
+40142302,Salidas de ramal de tuberia
+40142309,Curva de tuberia
+40142313,Tapon de tuberia
+40142314,Buje de tuberia
+40142318,Niples de tuberia
+40142320,Uniones de tuberia
+40142324,Cajas de conexiones de tuberias
+40142325,Deflectores de tuberia
+40142326,Separadores de tuberias
+40142327,Juntas de tuberias
+40142403,Bridas ciegas
+40142404,Bridas de junta de solapa
+40142411,Bridas roscadas
+40142412,Bridas soldable
+40142503,Interceptor de vapor
+40142604,Codos de tubo
+40142605,Piezas en T de tubo
+40142606,Conexiones de tubo y cañerias
+40142612,Adaptadores de tubo
+40142613,Conectores de tubo
+40142614,Cruces de tubo
+40142615,Reductores de tubo
+40151502,Bombas de vacio y accesorios
+40151503,Bombas centrifugas
+40151504,Bombas de transmision
+40151505,Bombas dosificadores
+40151510,Bombas de agua
+40151517,Bombas de aguas residuales
+40151524,Bombas de aceite
+40151532,Bombas de combustible
+40151533,Bombas hidraulicas
+40151547,Bombas de pozos profundos
+40151601,Compresores de aire y accesorios
+40151604,Compresores de gas
+40151605,Compresores de motor y accesorios
+40151607,Compresores refrigerantes
+40151610,Piezas de compresor o accesorios
+40151615,Turbocompressores
+40151701,Cajas de bomba
+40151712,Empaquetaduras de bomba
+40151717,Discos de bomba
+40151721,Piezas de repuesto de la bomba de agua
+40151725,Piezas de repuesto de la bomba centrifuga
+40151728,Kits de reparacion de bombas
+40161501,Filtros al vacio
+40161502,Filtros de agua
+40161503,Captadores de polvo y accesorios
+40161504,Filtros de aceite
+40161505,Filtros de aire
+40161506,Maquinaria de filtrado
+40161507,Membranas de filtro
+40161513,Filtros de combustible
+40161515,Filtros para hidraulicos y para transnmision
+40161516,Filtros en linea
+40161521,Base de Filtro
+40161526,Retenes o accesorios
+40161601,Depuradores de aire
+40161602,Purificadores del aire
+40161701,Centrifugas de laboratorio y accesorios
+40161702,Depuradores con agua
+40161799,Separadores
+40161803,Papeles de filtro
+40161804,Coayudantes de filtracion
+40161805,Tela de filtro
+41101502,Bombas estomacales y suministros
+41101504,Homogeneizadores
+41101505,Cubetas de presion
+41101515,Bidones para medir liquido
+41101518,Mezcladores o emulsionadores de laboratorio
+41101701,Molinos de laboratorio
+41101702,Martinetes o morteros
+41101703,Molduradores de tejido
+41101706,Desintegradores de laboratorio
+41101804,Electroscopios
+41101805,Medidores de flujo
+41101809,Aparatos de difraccion optica
+41102401,Quemadores de gas
+41102403,Incineradores para laboratorio
+41102404,Calentadores para laboratorio
+41102406,Placas termicas de laboratorio
+41102422,Banos secos o bloques termicos
+41102426,Equipo de calentamiento o secado
+41102504,Material para entomologia
+41102506,Cubetas para entomologia
+41102507,Equipo de captura para entomologia
+41102508,Aspiradores entomologicos
+41102513,Unidades de visualizacion para entomologia
+41102601,Jaulas
+41102604,Aparatos para la captura de animales
+41102905,Aparatos de coloracion histologica
+41102909,Procesores de tejidos
+41102910,Aparatos para el cultivo de tejidos
+41102911,Bisturies
+41102916,Microtomos
+41102917,Cuchillas de microtomo
+41102918,Colocadores de cubreobjetos para laboratorio
+41102921,Parafina histologica
+41103003,Criostatos y accesorios
+41103006,Congeladores criogenicos o de nitrogeno liquido
+41103007,Unidades de refrigeracion o circuitos de agua fria
+41103010,Refrigeradores de banco de sangre
+41103011,Refrigeradores o congeladores de uso general
+41103024,Condensadores de frio
+41103025,Accesorios para el equipo de refrigeracion de laboratorio
+41103202,Lavadoras de laboratorio y accesorios
+41103203,Lavadoras de pipetas
+41103206,Detergentes/ Limpiador de laboratorio
+41103207,Lavadoras de microplacas
+41103210,Esterilizadores por ultravioletas (UV) de laboratorio
+41103303,Densitometros
+41103308,Aparatos de combustion de alto vacio
+41103311,Manometros para laboratorios
+41103312,Viscosimetros
+41103316,Picnometros
+41103413,Camaras de entorno o de cultivo refrigeradas y calentadas
+41103501,Ebullometro
+41103502,Campanas de extraccion de laboratorio
+41103504,Armarios o depositos de flujo laminar
+41103506,Recintos cerrados de reaccion en cadena de la polimerasa (PCR)
+41103509,Frascos lavadores para laboratorios
+41103510,Ventiladores de laboratorio
+41103704,Cubetas biologicas
+41103706,Cubetas de agua
+41103712,Circulador de inmersion
+41103714,Banos de flotacion de tejidos
+41103801,Mezcladores de laboratorio
+41103805,Vibradores de laboratorio
+41103806,Agitadores magneticos
+41103809,Mezcladores de hematologia o quimica
+41103811,Agitadores orbitales
+41103812,Agitadores
+41103816,Accesorios o complementos de mezcladores o agitadores
+41103901,Microcentrifugadoras
+41103903,Centrifugadoras de banco
+41103907,Ultracentrifugadoras
+41103912,Cepillos centrifugos
+41103913,Accesorios para centrifugadoras de laboratorio
+41104002,Oxidante de muestras
+41104006,Muestreadores
+41104007,Equipo para toma muestras de agua
+41104008,Toma muestras o colectores de agua
+41104009,Bombas de aire
+41104016,Toma muestras de contaminantes del aire
+41104017,Porta muestras
+41104018,Equipos para muestra varios
+41104019,Manguitos de toma de muestras
+41104102,Lancetas
+41104105,Bolsas de recogida o transporte de especimenes
+41104107,Tubos o contenedores de almacenamiento 
+41104111,Kits o contenedores de recogida citologica
+41104112,Contenedores de recogida de orina
+41104123,Aparatos o contenedores de recogida de esputos
+41104201,Reactivos / Quimicos para depuracion del agua
+41104202,Equipo de desionizacion o desmineralizacion y accesorios
+41104206,Sistemas de agua ultra pura
+41104211,Suavizantes
+41104212,Cartuchos de filtrado de agua
+41104301,Unidades de fermentacion estandar
+41104308,Sistemas de cultivo ambiental anaerobico o suministros
+41104423,Incubadoras refrigeradas
+41104424,Accesorios de incubadoras
+41104505,Crisoles de cuarzo para estufas de laboratorio
+41104506,Estufas de seguridad de laboratorio
+41104507,Hornos microondas de laboratorio
+41104511,Estufas o incubadoras de hibridacion
+41104512,Accesorios para estufas de laboratorio
+41104601,Hornos  de laboratorio y accesorios
+41104701,Secadoras por congelacion o liofilizadoras
+41104703,Secadores de bandeja
+41104803,Evaporadores de laboratorio
+41104804,Evaporadores de vacio o giratorios
+41104806,Equipo de extraccion para laboratorios
+41104807,Extractores varios
+41104812,Tubos conductores
+41104815,Aparatos para el analisis de nitrogeno Kjeldahl
+41104901,Filtros y destiladores de linea para laboratorio y accesorios
+41104903,Equipo de ultra filtracion
+41104906,Equipo de filtrado por osmosis invertida y accesorios / suministros
+41104909,Soportes para filtros o extractores de laboratorio
+41104910,Filtros de varias capas y filtros prensa de laboratorio
+41104917,Filtros de entorno para laboratorio
+41104918,Filtros de vidrio para laboratorio
+41104919,Filtros de aire recogedores de particulas de alta eficacia (HEPA) para laboratorio
+41104921,Filtros de membrana para laboratorio
+41104922,Filtros de jeringa
+41104925,Dispositivos de filtrado de laboratorio o accesorios
+41104929,Filtros de papel para laboratorio
+41105002,Equipo de tamizado y accesorios para laboratorio
+41105101,Bombas de vacio de laboratorio y accesorios
+41105102,Bombas peristalticas
+41105106,Bombas de cromatografia
+41105107,Bombas de tambor de laboratorio
+41105109,Bombas Calorimetricas y Accesorios
+41105201,Tenidores de portaobjetos de histologia o citologia
+41105303,Unidades de alimentacion de sistemas de electroforesis
+41105305,Equipos y Accesorios para electroforesis
+41105308,Tubos capilares o cartuchos
+41105314,Sistemas de documentacion de gel
+41105321,Tinte para geles de acidos nucleicos
+41105324,Sondas de acido desoxirribonucleico (ADN) o acido ribonucleico (ARN)
+41105325,Placas con microrreceptaculos para la hibridacion de acido desoxirribonucleico (ADN) o acido ribonucleico (ARN)
+41105326,Reactivos o soluciones tampon de hibridacion
+41105333,Reactores
+41105337,Marcadores de electroforesis de proteinas
+41105339,Membranas de transferencia
+41105504,Kits de purificacion genomica de acido desoxirribonucleico (ADN)
+41105507,Cuentas magneticas para el aislamiento de acidos nucleicos
+41105509,Kits de cuantificacion de acidos nucleicos
+41105514,Reactivos para la extraccion
+41105520,Kits de purificacion virica de acido ribonucleico (ARN)
+41105601,Kits o enzimas de secuenciado
+41106201,Antimicoticos
+41106217,Placas de cultivo especializadas para bacterias
+41106301,Desoxirribonucleoxido-trifosfatos (dNTPs)
+41106302,Kits de reaccion en cadena de la polimerasa (PCR) para genes especificos
+41106305,Nucleotidos
+41106306,Soluciones tampon de reaccion en cadena de la polimerasa (PCR)
+41106310,acidos desoxirribonucleicos (ADN) purificados
+41106314,Polimerasas o kits de Elisa termoestables de acido desoxirribonucleico (ADN)
+41106503,Inductores o reguladores
+41106507,Suplementos o reactivos para insectos
+41106618,Productos de clonacion o expresion mediante recombinacion
+41111501,Balanzas de carga superior y accesorios
+41111502,Basculas de laboratorio
+41111503,Basculas mecanicas
+41111505,Pesos de calibracion o juegos de pesos
+41111508,Basculas de medicion del peso corporal
+41111509,Basculas de suelo o plataforma
+41111511,Basculas para camiones / trenes
+41111601,Micrometros
+41111602,Podometros y medidores de salto
+41111603,Localizadores de senal
+41111604,Reglas
+41111605,Calibradores de deformacion
+41111606,Telurometros/Telurimetros
+41111613,Telemetros
+41111616,Ruedas de medicion para distancias
+41111619,Calibre de juego minimo o maximo
+41111621,Calibradores y Accesorios
+41111622,Calibradores micrometricos
+41111623,Dispositivos de medicion del espesor
+41111702,Microscopios monoculares
+41111703,Microscopios ligeros estereoscopicos o de diseccion
+41111704,Iluminadores / Transiluminadores
+41111705,Objetivos para microscopios
+41111709,Microscopios compuestos ligeros binoculares y accesorios
+41111710,Microscopios electronicos y opticos combinados
+41111713,Aumentadores o Lupa
+41111714,Macroscopios
+41111716,Equipo de inspeccion de boroscopio
+41111717,Binoculares
+41111722,Microscopios de fluorescencia
+41111727,Microscopios de proyeccion
+41111729,Piezas oculares para microscopios
+41111738,Fibroscopios
+41111739,Instrumentos de Observacion directa
+41111804,Equipo de examen ultrasonico
+41111808,Equipo de examen por rayos X y accesorios
+41111809,Equipo de Control de Calidad
+41111901,Contadores
+41111902,Cuadro de Alarmas
+41111903,Detectores de metales
+41111908,Registradores graficos
+41111912,Registradores fisiologicos
+41111916,Sensores sin contacto directo
+41111926,Sensores de proximidad
+41111929,Detectores de radiaciones
+41111931,Sensores de caudal
+41111932,Detectores de fugas de liquidos
+41111933,Sensores de carga electrica
+41111938,Sensores o transmisores de nivel
+41111942,Sensores de opacidad
+41111943,Sensores de resistencia o conductividad electrica
+41111948,Contadores de celulas hematologicos con diferencial
+41112101,Transductores varios
+41112106,Transmisores de humedad
+41112201,Calorimetros
+41112203,Registradores de temperaturas - Humedad y accesorios
+41112206,Termopares
+41112207,Termografos
+41112210,Termometros de tele indicacion
+41112213,Termometros 
+41112214,Controladores de temperatura para criogenia
+41112218,Termistores
+41112220,Termometros para congeladores o refrigeradores de laboratorio
+41112221,Termometros para incubadoras de laboratorio
+41112301,Higrometros
+41112302,Psicrometros
+41112303,Comprobadores de humedad por temperatura
+41112304,Medidores de humedad
+41112402,Manostatos
+41112403,Indicadores de presion
+41112404,Reguladores de presion
+41112406,Medidores del vacio
+41112407,Controles o instrumentos de nivel de liquido
+41112409,Analizadores de presion
+41112410,Transmisores de presion
+41112411,Controladores de presion
+41112501,Flujometros
+41112504,Contadores de agua
+41112702,Contadores de semillas
+41112801,Velocimetros y accesorios
+41112802,Tacometros
+41112901,Compases de radiogoniometria
+41113002,Analisis de quimi-luminiscencia o bioluminiscencia
+41113009,Analizadores de diferenciales termicos
+41113024,Hidrometros
+41113026,Nefelometros
+41113031,Sacarometros
+41113033,Volumetros o Pignometros
+41113034,Tiras o papeles para ensayos de pH
+41113035,Tiras o papeles para ensayos quimicos
+41113036,Microplacas
+41113037,Lectores de microplacas
+41113103,Analizadores de gases de absorcion quimica
+41113105,Analizadores o detectores de hidrocarburos y accesorios
+41113110,Analizadores de gases de oxigeno
+41113114,Analizadores Termicos y accesorios
+41113118,Analizadores de varios gases
+41113305,Analizadores de calcio
+41113306,Analizadores de cloro
+41113308,Analizadores de electrolitos
+41113311,Lampara detectores de uso laboratorial
+41113312,Analizadores de lactato
+41113314,Analizadores de monitores de contenido de petroleo
+41113319,Analizadores de agua
+41113323,Analizadores de azucares
+41113601,Amperimetros
+41113602,Medidores de fase y accesorios
+41113603,Puentes de laboratorio
+41113605,Derivatograficos de termo analisis
+41113611,Equipo de medicion y comprobacion electrica varios
+41113613,Registradores de valor electricos
+41113614,Medidores de campo electromagnetico
+41113615,Electrometros
+41113621,Impedancimetro
+41113626,Ionometros
+41113628,Megaohmimetros
+41113630,Multimetros y accesorios
+41113632,Oscilografos
+41113633,Potenciometros
+41113637,Medidores de voltaje o corriente
+41113638,Osciloscopios
+41113640,Vatimetros
+41113646,Calibrador o simulador de temperatura
+41113702,Comparadores
+41113710,Limnimetro
+41113711,Analizadores de sistemas
+41113716,Dispositivos de localizacion de defectos en la fibra optica
+41113718,Analizadores de protocolo
+41113902,Verificadores de disolucion o desintegracion
+41113904,Penetrometros
+41113905,Aparatos de comprobacion de la permeabilidad
+41113908,Aparatos de comprobacion de arena
+41113910,Equipo para comprobacion del suelo
+41113999,Termohigroanemometros
+41114201,Cintas de medir
+41114204,Teodolitos y accesorios
+41114303,Registros de nivel de agua de corriente abierta
+41114401,Anemometros
+41114402,Barometros
+41114403,Registradores de precipitacion o evaporacion
+41114405,Pluviometros
+41114406,Aparatos de observacion de superficie de precipitacion o evaporacion
+41114408,Aparatos de observacion de superficie de temperatura o humedad
+41114410,Estacion meteorologica
+41114411,Accesorios de instrumentos de meteorologia
+41114501,Dinamometros
+41114509,Tensiometros o Esfignomanómetro 
+41114603,Instrumentos de ensayo del cemento y el hormigon
+41114604,Comprobadores de la corrosion
+41114612,Probadores de resistencia
+41114620,Aparatos para ensayos de choques
+41114621,Probadores de tension
+41114626,Probadores de soldadura
+41115201,Sistemas de vigilancia a base de radar
+41115301,Medidores de absorcion luminica
+41115303,Analizadores de frecuencia
+41115304,Contadores
+41115305,Medidores de frecuencia electrica
+41115309,Luxometros
+41115310,Sets de calibrado optico
+41115312,Refractometros o polarimetros de mesa de laboratorio
+41115313,Heliofanografo y accesorios
+41115314,Polarimetros
+41115316,Reflectometros
+41115317,Estroboscopios
+41115318,Colorimetros
+41115319,Lectores de tubo o placa
+41115320,Generadores de senal
+41115404,Espectrometros de masas
+41115406,Espectrofotometros y accesorios
+41115407,Espectrometros de absorcion atomica (AA)
+41115501,Sonares
+41115502,Sonometros
+41115503,Aparato de medicion de sonido o medidor de decibelios
+41115601,Equipo de analisis volumetrico de Karl Fischer
+41115603,Medidores de PH
+41115604,Electrodos de pH
+41115605,Tiras para ensayos de pH
+41115606,Medidores de electrodos selectivos de iones (ISE)
+41115608,Electrodo selectivo de iones
+41115611,Medidores de oxigeno 
+41115613,Salino metros
+41115701,Detectores cromatograficos
+41115703,Cromatografos de gases
+41115704,Cromatografos de iones y accesorios
+41115705,Cromatografos de liquidos
+41115706,Cromatografos de capa fina
+41115709,Columnas de cromatografo de liquidos de alta presion (HPLC)
+41115710,Columnas de cromatografo de gases (GC)
+41115711,Columnas de cromatografo de liquidos (LC)
+41115712,Accesorios / Columnas de extraccion de fase solida (SPE)
+41115713,Cubetas de cromatografia de capa fina
+41115714,Muestreadores automaticos
+41115716,Accesorios de cromatografia de liquidos
+41115717,Accesorios de cromatografia de gases
+41115720,Tuberias de cromatografia
+41115801,Analizadores de aminoacidos
+41115804,Accesorios o suministros de analizadores de banco de sangre
+41115805,Analizadores de gases sanguineos
+41115806,Accesorios o suministros de analizadores de gases sanguineos
+41115807,Analizadores quimicos
+41115808,Accesorios o suministros de analizadores quimicos
+41115809,Analizadores de coagulacion
+41115811,Analizadores de secuencia de ADN
+41115815,Analizadores hematologicos
+41115816,Accesorios o suministros de analizadores hematologicos
+41115818,Accesorios o suministros de analizadores histologicos
+41115819,Analizadores inmunologicos
+41115822,Accesorios o suministros de analizadores microbiologicos
+41115830,Analizadores de glucosa
+41116002,Reactivos de analizadores de banco de sangre
+41116003,Reactivos de analizadores de gases sanguineos
+41116004,Reactivos de analizadores quimicos
+41116005,Reactivos de analizadores de coagulacion
+41116007,Reactivos de analizadores toxicologicos
+41116008,Reactivos de analizadores hematologicos
+41116010,Reactivos de analizadores inmunologicos
+41116011,Reactivos de analizadores microbiologicos
+41116012,Reactivos de analizadores de proteinas
+41116013,Reactivos de analizadores radioisotopicos
+41116015,Reactivos y standares para unidad de control de calidad
+41116102,Reactivos o soluciones de banco de sangre
+41116104,Kits de ensayo quimicos o suministros
+41116105,Reactivos o soluciones quimicos
+41116107,Controles de calidad
+41116109,Reactivos o soluciones de coagulacion
+41116113,Reactivos
+41116116,Kits de ensayo medioambientales o suministros
+41116118,Kits de ensayo alimentarios o suministros
+41116120,Kits de ensayo hematologicos o suministros
+41116121,Reactivos
+41116122,Controles de calidad
+41116124,Reactivos
+41116126,Kits de ensayo inmunologicos o serologicos
+41116127,Reactivos
+41116128,Controles de calidad
+41116129,Kits de ensayo microbiologicos o bacteriologicos
+41116130,Reactivos
+41116131,Discos o paneles de pruebas de identificacion o sensibilidad microbiologicas o bacteriologicas
+41116132,Controles de calidad
+41116133,Kits de ensayo de biologia molecular o suministros
+41116134,Reactivos
+41116135,Controles de calidad
+41116137,Reactivos
+41116141,Reactivos
+41116144,Kits de ensayo virologicos o suministros
+41116148,Kits de ensayo de citometria de flujo o suministros
+41116201,Monitores o medidores de glucosa
+41116202,Monitores o medidores de colesterol
+41116203,Accesorios de monitores o medidores
+41116205,Kits de ensayos rapidos
+41116301,Comprobadores de punto de inflamacion
+41116498,Instrumentos de medicion de la velocidad / aceleracion y la vibracion
+41116499,Analizadores de la aceleracion y la vibracion
+41116501,Indicadores y kits de indicacion para medidores
+41121505,Pipetas de embolo de un canal manuales de vacio
+41121507,Pipetas de embolo de un canal electronicas
+41121509,Pipetas Pasteur o de transferencia
+41121510,Pipetas volumetricas
+41121511,Pipetas serologicas
+41121514,Pipeteros
+41121515,Peras de succion para Laboratorio
+41121516,Dispensadores de botella
+41121517,Soportes para pipetas de embolo o accesorios
+41121601,Puntas de pipeta con filtro
+41121607,Puntas de pipeta universales
+41121609,Puntas de pipeta de volumen variable
+41121701,Tubos de ensayo multiproposito o generales
+41121702,Tubos centrifugos y microcentrifugos
+41121703,Gradilla o porta tubos 
+41121704,Tubos criogenicos
+41121706,Tubos de cultivo
+41121707,Tubos de ensayo para separador
+41121709,Tubos capilares o de hematocrito
+41121710,Cierres o tapas para tubos de ensayo
+41121711,Tubos de ensayo para ionograma urinario o accesorios
+41121801,Reloj de laboratorio y accesorios
+41121802,Varillas agitadoras de laboratorio
+41121803,Vasos de precipitados de laboratorio
+41121804,Matraces de laboratorio y Accesorios
+41121805,Probetas graduadas de laboratorio y Erlenmeyer
+41121806,Ampollas o Ampolletas de laboratorio
+41121807,Suministros Varios de Laboratorio
+41121808,Buretas de laboratorio
+41121809,Embudos de laboratorio
+41121810,Frascos o vasos de laboratorio
+41121811,Kits de microquimica de laboratorio
+41121812,Fuentes de laboratorio
+41121813,Cubetas
+41121814,Cubiertas
+41121815,Adaptadores o conectores de laboratorio o accesorios
+41122001,Jeringas de cromatografia
+41122004,Jeringas de toma de muestras
+41122101,Placas o cajas Petri
+41122103,Rasquetas citologicas
+41122104,Matraces de cultivo de tejidos
+41122107,Placas
+41122108,Asas o agujas de inoculacion microbiologica
+41122202,Crisoles y capsulas
+41122203,Crisoles metalicos
+41122401,Varillas giratorias magneticas
+41122403,Espatulas de laboratorio
+41122404,Pinzas de laboratorio
+41122407,Bisturies de laboratorio
+41122408,Tijeras de laboratorio
+41122409,Herramientas de laboratorio
+41122410,Pelicula selladora de laboratorio o papel film M
+41122411,Cronometros o relojes de laboratorio
+41122412,Selladores de tubos de laboratorio
+41122413,Abrazaderas de laboratorio
+41122502,Tapones de laboratorio
+41122601,Porta objetos para laboratorio
+41122602,Cubreobjetos
+41122604,Hemocitometros
+41122605,Aceite de inmersion para microscopio
+41122703,Cintas de seguridad
+41122801,Soportes o estantes para pipetas
+41122802,Soportes para portaobjetos
+41122803,Soportes o estantes para tubos de sedimentacion
+41122804,Soportes para tubos de ensayo
+41122806,Soportes criogenicos
+41122808,Bandejas de uso general
+41123003,Desecadores
+41123202,Animales y organismos preservados
+41123302,Cajas o archivadores para laboratorio
+41123304,Cajas de almacenamiento criogenico
+41123401,Vasos de dosificacion
+41123402,Cucharas de dosificacion
+41123403,Goteros de dosificacion y accesorios
+42121506,Sets de instrumentos quirurgicos veterinarios
+42121507,Unidades de inyeccion o succion veterinaria o accesorios
+42121509,Termometros clinicos veterinarios
+42121513,Instrumental/Insumos de veterinaria
+42121514,Kits de fijacion externa veterinaria
+42121515,Recortadores o cortadores de unas veterinarios
+42121601,Productos veterinarios gastrointestinales
+42121602,Productos veterinarios sanguineos o de formacion de sangre
+42121603,Productos veterinarios del sistema respiratorio
+42121604,Productos veterinarios musculo-esqueletico o del sistema nervioso
+42121606,Productos veterinarios dermatologicos o antiprotozoas
+42121607,Productos veterinarios del sistema genito-urinario
+42121608,Productos odontologicos veterinarios y otros
+42131502,Gorras para pacientes
+42131504,Batas para pacientes
+42131508,Pijamas para pacientes
+42131509,Batas de hospital
+42131601,Delantales o pecheras para el personal sanitario
+42131604,Gorras con cordones para el personal sanitario
+42131606,Mascarillas de aislamiento o quirofano para el personal sanitario
+42131607,Guardapolvos o chaquetas para el personal sanitario
+42131609,Cubrezapatos para el personal sanitario
+42131611,Gorras de quirofano
+42131613,Zapatos de posoperatorio o accesorios
+42131701,Cobertores para cirugia
+42131702,Batas quirurgicas
+42131703,Packs quirurgicos
+42131704,Toallas quirurgicas
+42131705,Pantalones quirurgicos
+42132102,Cubrecamillas
+42132105,Sabanas de hospital
+42132106,Colchas de hospital
+42132108,Fundas de almohada protectoras de hospital
+42132203,Guantes medicos de examen o para usos no quirurgicos
+42132205,Guantes quirurgicos
+42141501,Algodoneras o fibra
+42141602,Bacinillas de cama para uso general
+42141607,Orinales de enfermo para uso general
+42141805,Estimuladores o kits neuromusculares
+42141902,Bolsas de enema
+42141903,Equipos o accesorios de enema
+42142103,Lamparas medicas de calor o accesorios
+42142104,Hidrocolatores medicos o accesorios
+42142105,Unidades o sistemas terapeuticos de calentar o de enfriar
+42142108,Almohadillas o compresas de calentar o de refrescar
+42142119,Instrumental para hipotermia
+42142203,Accesorios para banos o tanques de hidroterapia
+42142302,Componentes o accesorios de sistemas medicos de representacion grafica
+42142303,Productos de identificacion del paciente
+42142402,Canulas o tubos de succion medicos o accesorios
+42142403,Envases medicos de succion
+42142502,Agujas para jeringas
+42142503,Agujas arteriales
+42142504,Agujas de biopsia
+42142505,Porta agujas
+42142507,Agujas mariposa
+42142512,Agujas de fistula
+42142514,Bandejas o agujas espinales
+42142518,Productos de aspiracion para biopsia o accesorios
+42142521,Agujas para extraccion de sangre
+42142523,Agujas hipodermicas
+42142529,Bandejas o soportes para agujas
+42142530,Agujas de tratamiento diagnostico
+42142531,Contenedores
+42142601,Jeringas medicas de aspiracion o irrigacion
+42142604,Jeringas medicas con casquillo de cateter
+42142607,Micro Jeringas medicas
+42142608,Jeringas medicas sin agujas
+42142609,Jeringas medicas con aguja
+42142611,Jeringas tuberculinas
+42142613,Pistolas de inyeccion
+42142615,Accesorios para jeringas
+42142708,Instrumentos urologicos
+42142709,Sets de nefrostomia o accesorios
+42142710,Tubo para drenaje urinario o accesorios
+42142712,Sets de extraccion de calculos o accesorios
+42142801,Dispositivos o tubos de compresion vascular secuencial
+42142802,Sostenes o aparatos vasculares o de compresion
+42142901,Gafas
+42142902,Lentes de gafas
+42142903,Marcos de lentes
+42143103,Dispositivos anticonceptivos intrauterinos o accesorios
+42143105,Unidades de extraccion de obstetricia o accesorios
+42143106,Kits de drenaje ginecologico o accesorios
+42143512,Bastoncillos para los oidos
+42143513,Instrumentos otologicos o accesorios
+42149999,Repuestos / Accesorios para Equipos Biomedicos
+42151501,Accesorios o lamparas de curacion de la odontologia cosmetica
+42151503,Coronas o formas de coronas
+42151504,Barniz dental
+42151506,Suministros para el blanqueamiento de los dientes
+42151601,Accesorios o piezas de repuesto para instrumentos dentales
+42151602,Cintas o matriz dental
+42151603,utiles de colocacion de hidroxido de calcio
+42151604,Utiles de colocacion de compuestos
+42151605,Quitadores del puente o de la corona
+42151612,Retractadores dentales
+42151613,Brunidores dentales
+42151617,Taladros o brocas dentales
+42151618,Elevadores dentales
+42151619,Excavadores dentales
+42151620,Limas o raspadores dentales
+42151623,Forceps de dentista
+42151626,Accesorios de instrumentos dentales 
+42151627,Espejos o mangos de espejos dentales
+42151630,Instrumentos de colocacion dental
+42151631,Sondas dentales
+42151632,Escariadores dentales
+42151635,Expulsores dentales de saliva o aparatos de succion oral o suministros
+42151636,Quitasarros dentales o accesorios
+42151638,Tijeras dentales
+42151639,Espatulas dentales
+42151640,Pinzas dentales
+42151648,Calibres odontologicos
+42151651,Separadores dentales
+42151655,Comprobadores de pulpa o vitalidad dental
+42151664,Discos cortadores o separadores dentales
+42151669,Deshidratantes odontologicos
+42151675,Kits de restauracion dental
+42151676,Cuchillas odontologicas
+42151677,Kits indicadores de presion dental
+42151680,Topes de endodoncia o accesorios
+42151701,Sillas de examen dental o piezas o accesorios relacionados
+42151702,Taburetes dentales
+42151705,Sets de mobiliario combinado para tratamientos odontologicos
+42151801,Portadores de amalgama
+42151802,Perforadoras odontologicas
+42151803,Capsulas de amalgama dental
+42151805,Discos de acabado o pulido
+42151806,Tiras dentales de acabado o pulido
+42151807,Puntas de torno o pulidor dental
+42151808,Compuestos de pulido dental
+42151810,Kits de torno o pulidor dental
+42151811,Vasos o sets de pulido odontologicos
+42151813,Tubos de obturacion dental
+42151815,Conos para tornos y pulidores odontologicos
+42151902,Equipos de profilaxis dental
+42151905,Geles o fluoruro de enjuagues
+42151909,Pastas o kits de odontologia preventiva
+42151910,Dispositivos de limpieza dental o accesorios
+42152008,Unidades de Rayos X dentales
+42152009,Visores de radiografias odontologicas o accesorios
+42152010,Pelicula de radiologia dental
+42152102,Formadores dentales
+42152103,Adhesivos dentales
+42152105,Cubetas de impresion dental
+42152113,Kits de formacion de bases de dentaduras postizas
+42152203,Mecheros o antorchas de laboratorio dental y accesorios
+42152204,Maquinas de fundicion de laboratorio odontologico o sus piezas o accesorios
+42152208,Motores de laboratorio dental o accesorios
+42152209,Hornos de laboratorio dental
+42152211,Tornos de laboratorio dental o accesorios
+42152212,Recortadores de modelos de laboratorio dental y accesorios
+42152216,Maquinas de soldadura de laboratorio dental y suministros
+42152218,Vibradores de laboratorio dental
+42152223,Unidades de procesado de resinas odontologicas o accesorios
+42152303,Fuentes de iluminacion odontologicas generales o sus accesorios
+42152306,Fuentes de iluminacion de fibra optica odontologicas o accesorios
+42152406,Pastas abrasivas dentales
+42152407,Polvos abrasivos dentales
+42152410,Materiales de impresion alginatos dentales
+42152412,Ceras de material plastico utilizado en odontologia
+42152416,Materiales dentales de duplicado
+42152419,Materiales de pasta de cinc oxido eugenol para impresion dental
+42152421,Mercurio dental
+42152422,Puntos obturadores dentales
+42152423,Selladores de orificios o fisuras dentales
+42152424,Cementos dentales a base de agua
+42152425,Resinas de base para dentaduras
+42152428,Resinas de relleno directo
+42152433,Pelicula radiografica dental intraoral
+42152434,Amalgamadores odontologicos
+42152435,Materiales elastometricos ortodonticos
+42152441,Dientes de polimero sintetico
+42152443,Cementos de oxido de zinc con y sin eugenol
+42152453,Compuestos de restauracion dental
+42152454,Protectores de la pulpa dental
+42152456,Agentes cubrientes odontologicos
+42152457,Kits de cementado dental
+42152465,Suministros odontologicos varios
+42152502,Baberos dentales
+42152503,Suministros de dique dental
+42152508,Jeringas odontológicas
+42152512,Pinzas odontologicas
+42152520,Escupideras odontologicas
+42152701,Articuladores dentales o accesorios
+42152702,Soluciones hemostaticas dentales
+42152707,Tubos bucales ortodonticos
+42152708,Resortes espirales ortodonticos
+42152709,Elasticos ortodonticos
+42152713,Alicate odontologico
+42152799,Arenador Odontologico
+42152802,Limas periodontales
+42152808,Legras periodontales
+42161501,Sets de transferencia de dialisis peritoneal ambulatoria continua (CAPD)
+42161504,Adaptadores o abrazadoras o conectores de cateter de dialisis peritoneal
+42161506,Anastomosis de dialisis peritoneal o cateteres o de acceso a aparatos interiores
+42161507,Soluciones de dialisis peritoneal
+42161509,Unidades de dialisis peritoneal
+42161601,Kits o sets de administracion de hemodialisis o accesorios
+42161608,Soluciones 'dialsate' de hemodialisis
+42161610,Tubos dialsate de hemodialisis
+42161612,Filtros celuloides de dializer de hemodialisis
+42161622,Desinfectantes o agentes de limpieza de la unidad de hemodialisis
+42161631,Sistemas de purificacion de agua de la unidad de hemodialisis
+42161632,Unidad de hemodialisis y accesorios
+42161633,Membranas de dialisado de aparatos de hemodialisis
+42161803,Unidades de hemofiltracion venovenosa continua o productos relacionados
+42171606,Tablillas de aire de servicios medicos de urgencia
+42171607,Collarines para sacar o collarines cervicales
+42171611,Literas o camillas de respuesta de urgencia o accesorios
+42171903,Cajas de medicamentos de servicios medicos de urgencia
+42171910,Cajas paramedicas de servicios medicos de urgencia
+42171911,Oxigeno portatil o cajas de resucitacion de servicios medicos de urgencia
+42171916,Estuches o bolsas de transporte o almacenamiento para los servicios medicos de urgencias
+42171917,Estuches o bolsas de primeros auxilios para los servicios medicos de urgencias o accesorios
+42172001,Equipos de primer auxilio de servicios medicos de urgencia
+42172010,Equipos de trauma de servicios medicos de urgencia
+42172015,Kits de tratamiento odontologico para los servicios medicos de urgencias
+42172017,Kits para equipos medicos de campo o laboratorio
+42172101,Desfibriladores externos automatizados (AED) o paletas rigidas
+42172103,Kits de reanimacion o aspiracion para urgencias
+42172201,Suministros para servicios medicos de emergencia
+42181501,Depresores de la lengua o palas o palos
+42181502,Transiluminadores de examen medico
+42181503,Lubricantes personales o gelatinas del examen
+42181508,Panos limpiadores para el equipo de diagnostico
+42181515,Bandejas de examen y accesorios
+42181517,Unidades de electroencefalografia (EEG) o accesorios
+42181608,Accesorios de instrumental de medicion de la tension arterial
+42181609,Kits de monitorizacion de la tension arterial
+42181610,Manguitos para tomar la tension arterial
+42181702,Adaptadores
+42181705,Registradores graficos de electrocardiografia (ECG) y accesorios
+42181706,Pantallas de monitorizacion de electrocardiografia (ECG)
+42181707,Electrodos neonatales de cinta o anillo de electrocardiografia (ECG)
+42181708,Electrodos de parche de electrocardiografia (ECG)
+42181709,Papel de registro de electrocardiografia (ECG)
+42181713,Sistemas de monitorizacion Holter
+42181714,Kits de accesorios de monitorizacion de electrocardiografia (ECG)
+42181716,Electrocardiografia (ECG) y accesorios
+42181801,Oximetros de pulso
+42181901,Unidades de monitorizacion materna o fetal de tratamiento agudo
+42181902,Unidades de monitorizacion de presion intracraneal (ICP) o accesorios
+42181904,Unidades de transporte o de senales vitales moviles de multiparametro o accesorios
+42181909,Papel de registro de monitores fetales
+42182001,Especulo de examen rectal o anal
+42182002,Anoscopios o proctoscopios
+42182003,Colposcopios o vaginoscopios o accesorios
+42182004,Dermatoscopios
+42182005,Oftalmoscopios o otoscopios o juegos de scopios y accesorios
+42182006,Especulo de examen orofaringeo o laringeo
+42182007,Lamparas o bombillas de scopio de examen medico
+42182012,Dilatadores o especulo del examen nasal
+42182013,Especulo del examen vaginal
+42182015,Especulos de otoscopia
+42182018,Broncoscopios o accesorios
+42182101,Estetoscopios electronicos o accesorios
+42182103,Estetoscopio mecanico o accesorios
+42182201,Termometros medicos electronicos
+42182206,Termometro medico de mercurio
+42182208,Tiras o sensores de temperatura del paciente y accesorios
+42182302,Mazos o martillos de reflejo
+42182308,Electroencefalografos o accesorios
+42182309,Papeles de registro para electroencefalografos
+42182310,Electromiografos
+42182401,Audimetros o accesorios
+42182409,Analizadores de audifonos o de sistemas de prueba
+42182416,Timpanometros o accesorios
+42182419,Aparatos de control de audicion
+42182601,Lamparas o luces independientes de examen medico
+42182603,Luces o lamparas de cabeza para examen medico o accesorios
+42182604,Linternas de pluma de examen medico
+42182702,Cintas metricas medicas
+42182703,Reglas de altura de paciente
+42182704,Calibradores de pliegue de piel
+42182802,Basculas de bebe
+42182901,Mesas de examen obstetrico o ginecologico
+42183001,Graficos de ojo o cartas de vision
+42183002,Topografo de cornea
+42183003,Exoftalmometros
+42183007,Tambores oftalmologicos o sus accesorios
+42183009,Lentes de pruebas de vision oftalmologicas o accesorios
+42183013,Prismas oftalmicos
+42183014,Retinoscopios oftalmicos
+42183018,Tonometros oftalmologicos o accesorios
+42183020,Trazadoras del campo visual oftalmicos y acccesorios
+42183021,Analizadores de funcion visual oftalmica
+42183022,Equipos oftalmicos varios
+42183023,Oftalmometros
+42183024,Mesas de instrumentos oftalmologicos o accesorios
+42183025,Lentes de vitrectomia
+42183028,Accesorios oftalmologicos para retinoscopia
+42183029,Unidades de foroptero
+42183047,Expositores para pruebas de agudeza visual
+42183301,Accesorios de espejos de examen para otorrinolaringologia
+42191501,Sistema de tubo neumatico clinico o equipos de distribucion varios
+42191502,Bandejas / cestas / fundas medicas
+42191607,Hardware de vias carriles de cortina o biombos o cortinas de cubiculo del paciente
+42191608,Monitores de salida o controles de enfermeria
+42191702,Columnas de entrega de gas medico
+42191703,Salidas de gas medico y accesorios
+42191704,Sistemas de compresor de aire de gas medico
+42191705,Alertas de gas medico
+42191707,Sistemas de gases medicinales
+42191709,Cajas de valvulas o valvulas de cierre de gas medico y accesorios
+42191710,Carros o estantes para bombonas de gases medicos o accesorios
+42191711,Depositos de aire comprimido para cirugia o accesorios
+42191802,Incubadoras clinicas o calentadores de bebe y accesorios
+42191807,Camas de cuidado del paciente o accesorios de uso general
+42191808,Camas de cuidado del paciente o accesorios para cuidado especial
+42191809,Compresas de presion alternativa o bombas
+42191810,Colchones o accesorios de cuidado del paciente
+42191811,Cunas de colocacion pediatricas
+42191814,Accesorios de incubadoras clinicas o sistemas de calentamiento pediatrico
+42191901,Muebles clinicos de cabecera o accesorios
+42191902,Armarios de hospital
+42192001,Mesas de examen o de procedimiento clinico para uso general
+42192101,Sillas para sacar sangre o sillas de flebotomia o accesorios
+42192102,Sillones reclinables de hospital o accesorios
+42192103,Sillas de paciente
+42192104,Taburetes para medicos y accesorios
+42192107,Sillas de examen clinico o accesorios
+42192204,Incubadoras de transporte de pacientes o accesorios
+42192207,Camillas de paciente o accesorios de camilla
+42192210,Sillas de ruedas
+42192212,Alfombrillas de transferencia de pacientes
+42192301,Elevadores de paciente o accesorios
+42192302,Elevadores hidraulicos clinicos o accesorios
+42192404,Carros medicos o accesorios
+42192601,Moldes para supositorios
+42192602,Dispositivo de puncion con graduador de profundidad y expulsador automatico de lancetas
+42192604,Sistemas de administracion de farmacos o accesorios
+42192605,Kits de encapsulacion de aneurismas
+42201503,Componentes de sistemas de tomografia informatizada (TAC o CT) medica tridimensional
+42201506,Inyectores de agentes de contraste de tomografia informatizada (TAC o CT) medica
+42201602,Sistemas de resonancia magnetica
+42201606,Inyectores de agentes de contraste de resonancia magnetica (MRI) medica
+42201702,Ultrasonido o unidades de eco fetal o ginecologico
+42201704,Densitometros de ultrasonido medico de hueso
+42201711,Transductores ecograficos medicos de ultrasonidos
+42201712,Unidades de ecografia o eco pulso o doppler o ultrasonido medico para uso diagnostico general
+42201718,Ecografos y accesorios
+42201801,Pelicula para radiografias cardiologicas
+42201803,Equipo para radiografias mamograficas y accesorios
+42201806,Equipo medico de radiologia y fluoroscopia (RF)
+42201809,Inyectores de agentes de contraste para los sistemas medicos de imagen o accesorios
+42201810,Pelicula o cartuchos radiograficos medicos para uso general
+42201813,Unidades de tomografia radiografica medica
+42201815,Equipos radiograficos para uso diagnostico general
+42201817,Densitometros oseos radiograficos
+42201841,Papeles radiograficos de diagnostico medico
+42201906,Pinzas iluminadoras para pelicula radiografica medica
+42202004,Colimadores de trazado linfatico
+42202501,Unidades de tomografia informatizada por emision de fotones simples (SPECT) medica
+42202702,Aceleradores lineales de radioterapia tele terapia
+42202802,Litotriptores y productos relacionados
+42203101,Microdosimeteros de efecto radio biologico
+42203301,Sistemas medicos estereotacticos
+42203402,Cateteres o juegos vasculares intervencional o diagnosticos
+42203403,Juegos o cateteres introductores vasculares intervencionales o diagnosticos
+42203405,Globos de Angioplastia y relacionados
+42203406,Dispositivos para la retirada de cateteres o sets vasculares de diagnostico o intervencion
+42203407,Sets de suministro de contrastes para angiografia
+42203408,Kits o accesorios cardiovascular
+42203409,Valvulotomos angioscopicos
+42203501,Accesorios o defibriladores implantables o generadores de marcapasos cardiacos
+42203502,Accesorios o electrodos o indicaciones de marcapasos cardiacos
+42203503,Juegos o introductores de indicaciones de marcapasos cardiacos
+42203602,Equipo para sistemas estandar de comunicacion de imagenes digitales en medicina (DICOM)
+42203603,Sistemas informatizados de archivado de imagenes (PACS) medicos
+42203604,Hardware de sistemas de imagenes medicas/laboratoriales
+42203702,Procesadores medicos para toma de imagenes
+42203704,Equipos Toners o reveladores
+42203706,Kits de revelado quimico para pelicula radiografica medica
+42203708,Fijadores de revelado de pelicula radiografica medica
+42204002,Cortinas o mascaras o delantales medicos de resguardo radiologico
+42204005,Guantes medicos de resguardo radiologico
+42211502,Muletas o accesorios de muletas
+42211603,Elevadores de bano o accesorios para personas con desafios fisicos
+42211614,Asientos de inodoros para personas con desafios fisicos
+42211705,Audifonos para personas con desafios fisicos
+42211803,Bastones para vestir para personas con desafios fisicos
+42211805,Espejo de inspeccion para personas con desafios fisicos
+42221501,Cateteres de linea arterial
+42221503,Cateteres del venosa central
+42221504,Cateteres intravenosos para uso general
+42221505,Cateteres arteriales o intravenosos pediatricos o de microflujo o de vena del pericraneo
+42221506,Cateteres umblicos
+42221512,Canulas para cateteres intravenosos o arteriales
+42221513,Cateteres cardiovasculares y Accesorios
+42221604,Protectores o tapas o cierres o conectadores o adaptadores de la tuberia arterial o intravenosa
+42221607,Filtros o pantallas arteriales o intravenosos para uso general
+42221612,Distribuidores o llaves de cierre o puertos de inyeccion sin aguja de tuberia arterial o intravenosa
+42221616,Sets de extension para cateteres intravenosos o arteriales
+42221702,Bolsas de traslado o recipientes de infusion intravenosa o arterial
+42221704,Bolsas de infusion de presion intravenosas y arteriales
+42221803,Cintas o vendaje o tiras o punos de posicionarel cateter intravenoso o arterial
+42221901,Reguladores o calibres de flujo intravenoso calibrado con cuadrante
+42221903,Detectores ecograficos de flujo sanguineo
+42222001,Bombas de infusion intravenosa para el uso general
+42222002,Bombas de infusion intravenosa con jeringa
+42222003,Bombas de infusion intravenosa
+42222008,Kits o accesorios de bombas de infusion
+42222301,Equipos de administracion de la transfusion de sangre
+42222308,Bolsas o contenedores de administracion o transfusion sanguinea
+42222309,Sistemas de conservacion
+42231501,Bombas de infusion de alimentacion enteral
+42231502,Juegos de alimentacion enteral
+42231504,Contenedores o bolsas de nutricion enteral
+42231505,Adaptores o conectadores o extensiones de los equipos de alimentacion enteral
+42231510,Sets de tubos de bombas de infusion de alimentacion enteral
+42231608,Sets de cateteres y agujas de yeyunostomia
+42231609,Kits de tubos de alimentacion por gastrostomia
+42231701,Tubos naso-gastricos
+42231801,Formulas suplementarias de adulto para uso general
+42231802,Formulas suplementarias pediatricas
+42231803,Formulas suplementarias para enfermedades especificas de adulto
+42231806,Alimento nutritivo medico o espesadores de liquido
+42231807,Tetinas de biberon
+42241701,Productos blandos ortopedicos para el tobillo o el pie
+42241702,Productos blandos ortopedicos para la cadera
+42241801,Productos blando ortopedicos para el brazo
+42241806,Productos blandos ortopedicos para el antebrazo o la muneca o dedo pulgar
+42242107,Suministros de terapia de traccion ortopedica
+42242301,Ventosas ortopedicas para cicatrices
+42242302,Dispositivos ortopedicos o materiales traumatologicos varios
+42251503,Juegos terapeuticos
+42251504,Tablas de actividad o tablas de clavetas terapeuticas
+42251601,Vigas o tablas de balance o cojines anchos o balancines para rehabilitacion o terapia
+42251603,Dispositivos de movimiento pasivo continuo (CPM) o accesorios
+42251605,Ejercitadores de pedal o andadores para rehabilitacion o terapia
+42251606,Tablas de talco para rehabilitacion o terapia
+42251607,Poleas
+42251608,Accesorios o tubos o masilla bandas de ejercicio resistivo para rehabilitacion o terapia
+42251610,Pelotas o accesorios terapeuticos
+42251612,Pesas o sets para rehabilitacion o terapia
+42251613,Aparatos de cinta rodante para ejercicios de rehabilitacion o terapia
+42251614,Bolsas de arena o sets de bolsas de arena para rehabilitacion o terapia
+42251616,Vibradores electricos para rehabilitacion o terapia
+42251618,Aparatos para ejercicios de rehabilitacion o terapia de muneca
+42251620,Alfombrillas o plataformas para rehabilitacion o terapia
+42251623,Aparatos de terapia para rehabilitacion fisica y accesorios
+42251701,Cinturones del modo de andar para rehabilitacion o terapia
+42251702,Rampas de entrenamiento para rehabilitacion o terapia
+42251703,Escaleras de entrenamiento para rehabilitacion o terapia
+42251705,Barras paralelas para rehabilitacion o terapia
+42251706,Andadores
+42251805,Mesas o estaciones de trabajo o accesorios para rehabilitacion o terapia
+42261503,Sondas de bala de autopsia
+42261513,Cuchillas de sierra o accesorios de autopsia
+42261603,Bolsas de transporte del cadaver
+42261604,Reposa-cabezas de autopsia
+42261610,Tubos o aspiardores en vacio para la coleccion de fluido de autopsia
+42261705,Mesas o accesorios de diseccion de animales para autopsia
+42261901,Materiales de impresion o huella dactilar de autopsia
+42271502,Monitores o accesorios del gas arterial de la sangre
+42271506,Monitores de oxigeno o suministros
+42271602,Espirometros o sus accesorios o suministros
+42271618,Trazadores de registro para espirometro
+42271701,Cilindros de gas medicos o dispositivos relacionados
+42271702,Concentradores de oxigeno
+42271703,Mezcladores de aire oxigeno
+42271708,Mascarillas de oxigeno medicas o piezas
+42271709,Canula medico nasal
+42271714,Incubadoras medicas y accesorios
+42271715,Conectores o tubos de gases medicinales
+42271718,Accesorios para productos de administracion de oxigenoterapia o sus suministros
+42271721,Filtros de concentrador de oxigeno
+42271801,Vaporizadores o humedecedores respiratorios
+42271802,Nebulizadores o accesorios
+42271903,Tubos endotraqueal
+42271907,Productos o accesorios de aspirador respiratorio
+42271912,Tubos nasofaringeos
+42271915,Accesorios de traqueotomia
+42272001,Laringoscopios o accesorios
+42272009,Detectores de bioxido de carbono del paciente
+42272010,Bombas de succion
+42272011,Cateteres de succion o sus accesorios
+42272202,Maquinas no invasivas de presion positiva de aire continua
+42272205,Ventiladores de cuidado intensivo pediatrico o de adultos
+42272206,Ventiladores de cuidado intensivo de infantes
+42272207,Ventiladores de alta frecuencia
+42272209,Circuito de respiracion o ventilador y accesorios
+42272210,Bolsas de circuito de respiracion
+42272214,Valvulas o adaptadores o conectores de circuito
+42272220,Accesorios del ventilador
+42272223,Aparatos de respiracion
+42272224,Kits de circuito de ventilacion
+42272303,Mascaras de reanimacion o accesorios
+42272304,Resucitadores y Accesorios o componentes 
+42272306,Kits de reanimacion
+42272401,Agujas de toracentesis
+42272404,Unidad de drenaje de la cavidad pleural o accesorios
+42272501,Aparatos de anestesia con gas
+42272502,Unidades de absorcion para aparatos de anestesia con gas
+42272503,Inhaladores de anestesia
+42272504,Equipos para anestesia y accesorios
+42272505,Tubos
+42281501,Esterilizadores de gas o de productos quimicos
+42281502,Esterilizadores de aire caliente o calor seco
+42281503,Esterilizadores de filtro
+42281508,Esterilizadores o autoclaves de vapor
+42281509,Bandejas o contenedores de esterilizacion
+42281511,Lamparas de esterilizacion
+42281515,Muebles de sala de esterilizacion
+42281517,Sistemas de recuperacion y esterilizacion de agua
+42281524,Equipos de esterilizacion y accesorios
+42281602,Soluciones de glutaraldehida
+42281603,Desinfectantes de los instrumentos medicos
+42281604,Desinfectantes de la superficie medica
+42281704,Detergentes o limpiadores de los instrumentos
+42281705,Equipo de lavar el desinfectante de los instrumentos
+42281709,Cepillos de limpieza de esterilizacion
+42281711,Desincrustantes  de esterilizacion
+42281712,Equipo ultrasonico de limpieza
+42281804,Controles de esterilizacion
+42281806,Tiras indicadores de esterilizacion
+42281807,Cintas indicadores de esterilizacion
+42281808,Papeles u hojas de esterilizacion
+42281901,Mangos o carritos para bolsitas o envolturas de esterilizacion
+42281905,Selladores de calor de esterilizacion
+42281915,Bobinas de esterilizacion
+42281916,Bolsas de esterilizacion
+42291501,Molinillos quirurgicos de los huesos o productos relacionados
+42291604,Sierras de mano
+42291606,Cincel o gubia quirurgico
+42291607,Curetas quirurgicas
+42291611,Raspas quirurgicas
+42291613,Escalpelos
+42291614,Tijeras quirurgicas
+42291620,Trocares quirurgicos para uso general o accesorios
+42291623,Periosteotomos y osteotomo
+42291701,Taladros quirurgicos de mano o rotatorios
+42291703,Perforadoras quirurgicas y accesorios
+42291704,Brocas o portabrocas quirurgicos
+42291706,Fresas quirurgicas o sus accesorios
+42291707,Kits de craneotomia
+42291801,Aplicadores de bandas ligadoras quirurgicas o bandas o productos relacionados
+42291802,Abrazaderas
+42292102,Extractores quirurgicos
+42292201,Aproximadores quirurgicos
+42292202,Compresores quirurgicos
+42292402,Troqueles quirurgicos o accesorios
+42292501,Tampones quirurgicos
+42292502,Martillos o mazos quirurgicos
+42292504,Prensas quirurgicas
+42292601,Dilatadores quirurgicos o accesorios
+42292603,Sondas o directores quirurgicos
+42292701,Disectores quirurgicos
+42292702,Elevadores o palancas quirurgicos
+42292704,Piquetas quirurgicas
+42292802,Instrumentos quirurgicos de marcar de uso general
+42292904,Sutura quirurgica o agarradores de alambre o productos relacionados
+42293001,Calibradores o reglas quirurgicos
+42293102,Ganchos quirurgicos de retractacion
+42293108,Estabilizadoras quirurgicas
+42293112,Retractores cardiovasculares o toracicos y accesorios
+42293119,Retractores abdominales
+42293124,Retractores neurologicos
+42293131,Retractores de parpados
+42293301,Distractores y extendedores y separadores quirurgicos
+42293302,Separadores quirurgicos
+42293303,Especula quirurgica
+42293401,Guias quirurgicas
+42293405,Instrumentos quirurgicos de manipulacion
+42293501,Canulas o piezas de mano o quistotomes o puntas de irrigacion y succion quirurgica o productos relacionados
+42293504,Suministros o accesorios de aspiracion o irrigacion oftalmica
+42293505,Sondas de drenaje para la aspiracion quirurgica
+42293506,Peras de aspiracion quirurgicas
+42293508,Suministros y accesorios de irrigacion o aspiracion otorrinolaringologica
+42293602,Obturadoras quirurgicas
+42293603,Sondas quirurgicas
+42294002,Espatulas quirurgicos
+42294102,Dispositivos de traccion del craneo o productos relacionados
+42294201,Juegos de instrumentos quirurgicos toracicos y cardiovasculares
+42294203,Juegos de instrumentos quirurgicos generales
+42294205,Juegos de instrumentos neuroquirurgicos o espinales o accesorios
+42294211,Costumbre quirurgica o instrumento de especialidad o bandejas de procedimiento
+42294215,Sets de instrumentos quirurgicos de craneotomia
+42294218,Sets de instrumentos quirurgicos de otorrinolaringologia
+42294305,Unidades de vacio y accesorios de biopsia de invasiva minima del pecho
+42294306,Agujas mamarias de localizacion
+42294501,Conformadores o capas protectoras para cirugia oftalmica
+42294503,Anillos de fijacion para cirugia oftalmica
+42294504,Instrumentos para la membrana intraocular para cirugia oftalmica
+42294510,Esponjas para cirugia oftalmologica
+42294511,Bisturies
+42294512,Protectores oculares o sus accesorios
+42294513,Kits de vitrectomia oftalmologica y accesorios
+42294518,Sets de colocacion de enganches opticos
+42294521,Componentes de sujecion escleral
+42294522,Sets de parches oftalmologicos para el lacrimal
+42294523,Suministros para la cirugia oftalmologica o sus productos relacionados
+42294524,Imanes oculares para cirugia oftalmologica
+42294525,Sets de instrumentos medicos oftalmologicos
+42294701,Maquinas de corazon y pulmon o accesorios
+42294702,Bombas de globo intraaortico o accesorios
+42294703,Dispositivos de succion intracardiaca o accesorios
+42294707,Juegos de cardioplegia
+42294713,Oxigenadores de perfusion o accesorios
+42294717,Dispositivos de ayuda ventricular
+42294722,Sets de drenaje ventricular
+42294801,Endoscopios o accesorios o productos relacionados
+42294804,Resectoscopios
+42294805,Laparoscopios o telescopios laparoscopicos
+42294807,Esfinterotomos endoscopicos
+42294901,Posicionadores o sujetadores de instrumento o endoscopio
+42294903,Agujas de biopsia o de aspiracion endoscopica
+42294907,Cepillos de microbiologia o citologia endoscopicos
+42294909,Dilatores o dispositivos de inflacion o productos relacionados
+42294912,Sistemas endoscopicos de gestion de fluido o accesorios
+42294914,Juegos de instrumentos endoscopicos
+42294919,Introductores o alambres de guia o alambres deslizadores endoscopicos
+42294926,Sobretubos endoscopicos
+42294928,Sondas endoscopicas
+42294933,Puntas endoscopicas de irrigacion o succion o sondas de coagulacion o accesorios
+42294934,Dispositivos endoscopicos de sutura
+42294935,Agujas de puncion
+42294936,Elementos de trabajo o canales de trabajo endoscopicos
+42294943,Unidades de valvula endoscopica
+42294944,Equipos o accesorios para endoscopia
+42294945,Esponjas endoscopicas
+42295004,Equipo endoscopico o carritos de procedimiento o accesorios
+42295009,Fuentes de luz quirurgica endoscopica o cables o accesorios
+42295011,Camaras video endoscopicas o grabadoras o adaptadores o accesorios
+42295013,Protectores o tapas para la punta del endoscopio
+42295015,Lentes endoscopicas
+42295102,Equipo de criocirugia o accesorios
+42295103,Mesas para procedimiento de pacientes en la sala de partos o seccion de cesarea o accesorios o productos relacionados
+42295104,Equipo electro quirurgico o electro cauterio o accesorios o productos relacionados
+42295108,Mesas de fractura de paciente de la sala de operacion o mesas ortopedicas o accesorios o productos relacionados
+42295112,Mesas de procedimiento de la sala de operacion o accesorios o productos relacionados
+42295114,Equipo de facoemulsificacion o de extrusion o accesorios para cirugia oftalmica
+42295119,Lasers quirurgicos o accesorios
+42295121,Microscopios o recodos o aumentadores quirurgicos o accesorios
+42295123,Maquinas quirurgicas de succion o de extractores de vacio o aspiradoras quirurgicas ultrasonicas o reguladoras o accesorios
+42295126,Equipo quirurgico de fraga tome retinal vitreo o accesorios para cirugia oftalmica
+42295127,Equipo de microcirugia o accesorios
+42295129,Dosificadores de medicamentos para quirofano o productos relacionados
+42295132,Estuches para instrumentos quirurgicos o accesorios
+42295137,Equipo
+42295201,Dermatomes o dermabraders o dermameshers quirurgicos o accesorios
+42295202,Sierras quirurgicas o taladros o impulsores de clavija neumaticos o de pila o electricos o accesorios
+42295301,Sopladores o misters o accesorios quirurgicos del arterio coronario
+42295303,Cateteres o conectadores o accesorios quirurgicos de perfusion
+42295305,Torniquetes quirurgicos o ocluderes vasculares o ligatores o accesorios
+42295401,Lapices quirurgicos de cauterio operados con pila
+42295403,Dispositivos de fijacion internos o externos
+42295406,Bastoncillos
+42295407,Mascaras de paciente para uso quirurgico
+42295408,Cepillos de fregado para las manos del cirujano o soluciones o accesorios
+42295412,Cemento quirurgico de hueso o sistemas de mezclado o accesorios
+42295413,Cepillos quirurgicos para canales
+42295416,Evacuadores quirurgicos
+42295417,Asas de luces quirurgicas o tapas
+42295420,Cateteres
+42295424,Equipos quirurgicos de afeitar o navajas o chiquillos de preparacion
+42295427,Cepillos quirurgicos de instrumento esteril o estilets de instrumento o limpiainstrumentos
+42295428,Tubos de succion o irrigacion quirurgica
+42295433,Cateteres quirurgicos urologicos o accesorios
+42295435,Protectores o cobertores para oidos
+42295440,Adaptadores de cateteres endoscopicos
+42295453,Drenajes quirurgicos
+42295461,Adhesivos de tejidos
+42295501,Implantes vasculares
+42295504,Implantes neuroquirurgicos
+42295507,Implantes ortopedicos o alambres quirurgicos
+42295508,Implantes o ajustes otolaryngologicos
+42295509,Implantes cosmeticos o plasticos o expansionadores o ajustes de tejido
+42295513,Productos quirurgicos de barrera de tisu o de malla
+42295515,Implantes de tejido sintetico
+42295517,Extensores cardiovasculares
+42301502,Maniquis humanos anatomicos para formacion y estudios de medicina
+42301506,Estetoscopios de auriculares duales
+42311503,Rodillos de vendas
+42311504,Vendas o vendajes para el cuidado de quemaduras
+42311505,Vendas o vendajes para uso general
+42311506,Vendas o apositos compresores
+42311511,Vendas y gasas
+42311526,Vendas 
+42311532,Apositos secos
+42311601,Esponjas de gelatina absorbables
+42311602,Cera de hueso
+42311603,Celulosa oxidizada
+42311702,Cintas umblicas para infantes
+42311703,Cintas medicas o quirurgicas para union de la piel
+42311708,Cintas adhesivas medicas y quirurgicas para el uso general
+42311901,Accesorios para el drenaje medico de incision
+42311903,Drenaje medico de incision
+42312001,Cierre de piel de mariposa
+42312002,Grampas para cierre de piel
+42312005,Adhesivos o colas para el cierre de piel
+42312007,Grampas medicas para uso interno
+42312009,Grapadoras para uso interno
+42312010,Grapadoras para cierre de piel
+42312101,Adhesivos para aparatos de ostomia y accesorios
+42312114,Kits de ventriculostomia
+42312115,Mangueras de drenaje
+42312201,Sutura y accesorios
+42312202,Equipos o bandejas o paquetes o juegos de sutura
+42312206,Agujas de sutura
+42312301,Absorbedores para limpiar la herida
+42312312,Bandejas de cuidado o limpieza cutaneos
+42312313,Soluciones para la limpieza de heridas
+42312502,Fajas de sujecion abdominal
+43191501,Telefonos moviles y accesorios
+43191502,Buscapersonas
+43191504,Telefonos fijos
+43191507,Telefonos para usos especiales
+43191508,Telefonos digitales
+43191509,Telefonos analogicos o convencionales
+43191601,Carcasas de telefono movil
+43191602,Marcadores telefonicos
+43191603,Cordones prolongadores de telefono
+43191606,Microtelefonos
+43191607,Almohadillas de altavoz y oidos de auriculares telefonicos
+43191608,Tubos de voz de auriculares telefonicos
+43191609,Accesorios telefonicos
+43191611,Protectores de lineas telefonicas y de datos
+43191618,Unidades de grabacion de conversaciones
+43191619,Dispositivos de senalizacion para comunicaciones
+43191624,Lector de tarjetas para telefonos publicos de previo pago
+43201401,Tarjetas aceleradoras de video o graficos
+43201402,Tarjetas de modulo de memoria
+43201403,Tarjetas de modem
+43201404,Tarjetas de interfaz de red
+43201405,Tarjetas de recepcion
+43201406,Tarjetas de transmision de redes opticas y otras
+43201410,Tarjetas o puertos de conmutacion
+43201502,Tarjetas aceleradoras de sonido
+43201503,Procesadores de unidad central de procesamiento (CPU)
+43201508,Modulos varios
+43201513,Placas base
+43201522,Tarjetas de puerto en paralelo
+43201531,Tarjetas de entrada de video
+43201537,Servidores de impresora
+43201538,Ventiladores de unidad central de procesamiento (CPU) u otros tipos de ventilador de enfriamiento de fuentes
+43201550,Dispositivo de sincronizacion de paquetes de datos de red
+43201552,Adaptadores de telefonia o hardware
+43201553,Transceptores y convertidores de soporte
+43201602,Chasis del equipo de red y accesorios
+43201604,Bandejas o modulos de equipo electronico
+43201609,Conjuntos o bandejas de dispositivos de almacenamiento
+43201802,Conjuntos de discos duros
+43201803,Discos duros y accesorios
+43201806,Bloques de cintas
+43201809,CD de lectura y escritura
+43201811,DVD de lectura y escritura
+43201902,Disco optico y accesorios
+43202001,Discos compactos (CD)
+43202002,Cintas virgenes
+43202004,Diskettes
+43202005,Dispositivos de almacenamiento de memoria flash
+43202102,Cajas de disquetes
+43202206,Componentes de dispositivo de entrada o unidad de almacenamiento
+43202213,Dispositivos varios
+43211501,Servidores y accesorios
+43211502,Equipos / ordenadores especiales
+43211503,Computadoras de mano / bolsillo
+43211506,Computadoras cliente delgado
+43211508,Computadoras personales (PC)
+43211509,Computadoras portatiles y accesorios
+43211601,Cajas de conmutacion de computadores o gabinete y accesorios
+43211602,Puestos de amarre
+43211606,Equipos multimedia
+43211607,Altavoces del computador
+43211608,Equipo codificador-decodificador
+43211701,Equipo de lector de codigo de barras
+43211702,Lectores de tarjeta magnetica
+43211706,Teclados y accesorios
+43211708,Mouse o raton de computador
+43211711,Scanners
+43211714,Equipo de identificacion
+43211715,Terminales portatiles de entrada de datos
+43211719,Microfonos de voz para computador
+43211802,Almohadillas de raton
+43211901,Monitores de tubo de rayo catodico (CRT)
+43211902,Monitores o pantallas de visualizacion en cristal liquido (LCD)
+43211903,Monitores de pantalla tactil
+43211904,Pantallas LED
+43212001,Filtros para pantallas de computador
+43212101,Impresoras de bandas
+43212102,Impresoras de matriz de puntos
+43212104,Impresoras de chorro de tinta
+43212105,Impresoras de laser
+43212106,Impresoras matricial y accesorios
+43212110,Impresoras multifuncion
+43212111,Impresoras de tarjetas platicas
+43212112,Impresoras de recibos de punto de venta (POS)
+43212113,Impresoras de etiquetas o discos compactos (CD)
+43212114,Impresoras de imagenes digitales
+43221501,Sistemas automatizados de operadora
+43221505,Identificador de llamada
+43221510,Reenviador o desviador de llamadas telefonicas
+43221515,Dispositivos de linea telefonica compartida
+43221516,Monitores de estado de linea telefonica
+43221518,Dispositivos de restriccion interurbana de equipos de telefonia
+43221519,Sistemas de buzon de voz
+43221521,Unidad terminal remota y accesorios
+43221601,Splitter de sistema cautivo de servicio telefonico convencional (POTS) 
+43221602,Cuadro de splitter cautivo de oficina de abonado de linea digital (DSL)
+43221603,Componentes y equipos varios de acceso (DSL)
+43221702,Equipo de acceso de television
+43221706,Antenas de radio y accesorios
+43221707,Equipo basico de microondas
+43221712,Antenas de satelite y accesorios
+43221718,Antenas y radares
+43221720,Antenas de automocion
+43221721,Equipo de comunicacion y accesorios
+43221801,Amplificadores opticos
+43221803,Adaptadores o acoples opticos
+43221806,Equipo de red de fibra optica
+43221807,Filtros de multiplexacion en longitudes de onda densa (DWDM) de telecomunicaciones
+43222501,Equipo de seguridad de red de firewall
+43222503,Equipo de seguridad de evaluacion de vulnerabilidad
+43222609,Routers de red
+43222610,Concentradores de servicio de red
+43222611,Unidades de servicio de datos
+43222615,Conmutador de red de area de almacenamiento (SAN)
+43222619,Equipo de red de video
+43222620,Conmutador multiservicio
+43222628,Modem
+43222631,Estaciones de base de fidelidad inalambrica (WiFi)
+43222805,Equipo de central privada conectada a la red publica (PBX)
+43222817,Repetidores de telecomunicaciones
+43222819,Paneles de conexion de puertos
+43222821,Panel de conexiones
+43222825,Accesorios de comunicacion
+43222901,Acondicionadores de linea
+43223106,Componentes y equipo de red de acceso inalambrico UMTS 3G
+43223108,Componentes y equipo de red de acceso inalambrico WLAN
+43223198,Componentes y equipo de infraestructura de redes convergentes
+43223199,Componentes y equipo de infraestructura de Plataforma IMS
+43223204,Plataforma de comunicacion
+43231501,Software de centro de llamadas o soporte tecnico
+43231503,Software de gestion de adquisiciones y facturacion
+43231505,Software de gestion de recursos humanos
+43231507,Programas de gestion de proyectos
+43231508,Programas de gestion de inventario
+43231512,Software de gestion de licencias
+43231601,Programas de contabilidad
+43231604,Programas financieros
+43232102,Software de retoque fotografico o grafico
+43232103,Software de creacion/ edicion de video / audio
+43232106,Programas de presentacion
+43232107,Software de edicion y creacion de paginas Web
+43232108,Software de programacion y calendario
+43232111,Software de escaner o lector optico de caracteres (OCR)
+43232112,Programas para edicion de oficina
+43232202,Programas de gestion de documentos
+43232299,Software de gestion de informacion identificatoria
+43232304,Software del sistema de administracion de bases de datos
+43232305,Software de creacion de informes de bases de datos
+43232306,Software de consultas e interfaz de usuario de bases de datos
+43232307,Software de extraccion de datos
+43232309,Software de busqueda o recuperacion de informacion
+43232311,Software de administracion de bases de datos orientado a objetos
+43232401,Programas de gestion de configuracion
+43232402,Software de entorno de desarrollo
+43232408,Software de desarrollo de plataforma Web
+43232502,Software de formacion basada en computador
+43232604,Software de diseno asistido por computador (CAD)
+43232605,Software analitico o cientifico
+43232608,Logical de control industrial
+43232609,Software de biblioteca
+43232610,Software medico y laboratorial
+43232611,Software de punto de venta (POS)
+43232612,Software de simulaciones
+43232701,Software de servidor de aplicaciones
+43232801,Software de vigilancia de redes
+43232803,Software de administracion de redes opticas
+43232804,Software de administracion
+43232901,Software de acceso
+43232905,Software de LAN
+43232910,Software de dispositivos inalambricos
+43232911,Programas para emulacion de terminal de conectividad de red
+43232912,Programas de acceso
+43232914,Programas de modem
+43233002,Software de sistema operativo de redes
+43233004,Software de sistema operativo
+43233201,Software de servidor de autenticacion
+43233204,Software de equipos de red privada virtual (VPN) o de seguridad de red
+43233205,Software de proteccion antivirus y de seguridad de transacciones
+43233403,Software de compresion de datos
+43233405,Software del sistema o de controladores de dispositivos
+43233415,Software de copias de seguridad o archivado
+43233501,Software de correo electronico
+43233502,Software de video conferencia
+43233504,Software de mensajeria instantanea
+43233506,Software de creacion de mapas
+43233508,Software de aplicacion especifica de operador de moviles
+43233511,Software de servicios por ubicacion de movil
+44101501,Fotocopiadoras
+44101502,Aparatos de fax y accesorios
+44101504,Escaner o Emisores digitales
+44101505,Duplicadores digitales e insumos
+44101601,Guillotina o Maquina para cortar papel 
+44101602,Punzonadoras o maquinas encuadernadoras
+44101603,Maquinas destructoras de papel
+44101706,Fotoconductores o unidades de imagen
+44101716,Perforadoras
+44101801,Calculadoras y agendas electronicas
+44101803,Maquinas contables
+44101804,Cajas registradoras y accesorios
+44101805,Cintas de calculadora
+44101806,Cintas de caja registradora
+44102001,Lamina para plastificar
+44102302,Maquinas para envolver paquetes
+44102402,Fechadores o numeradores
+44102405,Etiquetadoras
+44102406,Equipo de rotulacion y accesorios
+44102407,Grabador en relieve
+44102501,Maquinas contadoras de dinero y accesorios
+44102502,Clasificadores
+44102602,Maquinas de escribir
+44102603,Ruedas impresoras
+44102606,Cintas de maquina de escribir
+44102801,Plastificadoras
+44102906,Kit de limpieza para el computador o el equipamiento de oficina
+44102909,Limpiadores de unidad de compact disc
+44103004,Fusibles
+44103103,Toner
+44103105,Cartuchos de tinta
+44103108,Reveladores para impresoras y fotocopiadoras
+44103110,Cabezales de impresora
+44103112,Cinta de tinta para impresora
+44103116,Kits para recarga de tinta
+44103117,Cintas para faxes
+44103119,Papel de transferencia termica para copiadoras
+44103121,Accesorios de fotocopiadora
+44103201,Maquinas o Equipo registrador de horas trabajadas
+44103203,Cinta de repuesto de maquina de tarjeta de fichaje
+44103204,Organizadores de fichas de control
+44103205,Hojas o fichas de control
+44103504,Canutillos metalicos o plasticos de encuadernacion
+44103506,Cinta de encuadernacion
+44103507,Kits de encuadernacion
+44111502,Organizadores para cajones de escritorio
+44111503,Bandejas de correspondencia
+44111507,Sujetalibros
+44111509,Porta objetos 
+44111513,Soportes para diarios o calendarios
+44111514,Organizadores de sellos
+44111515,Organizadores o cajas de almacenamiento de archivos
+44111517,Atriles
+44111518,Tarjeteros
+44111521,Sujetapapeles
+44111603,Clasificadores de monedas
+44111604,Envolturas de monedas o fajas para billetes
+44111605,Alcancias o cajas para billetes
+44111607,Archivadores de cheques
+44111609,Suministros o detectores de billetes falsificados
+44111614,Máquinas para manejo y embalado de billetes y accesorios
+44111615,Bolsas de deposito
+44111802,Laminas de dibujo
+44111803,Compases
+44111806,Transportadores
+44111808,Reglas y Escuadras
+44111809,Plantillas
+44111901,Tableros o franelografos y accesorios
+44111905,Pizarras de borrado en seco o accesorios
+44111906,Pizarras de tiza o accesorios
+44111907,Tablones de anuncios o accesorios
+44111911,Pizarras blancas interactivas o accesorios
+44112001,Libros de direcciones o recambios
+44112002,Calendarios de escritorio o recambios
+44112005,Agendas o recambios
+44112007,Buzon de sugerencias
+44121504,Sobres con ventanillas
+44121505,Sobres especiales y manilas
+44121506,Sobres estandar
+44121509,Bolsas de correspondencia
+44121604,Sellos
+44121605,Carretes de cinta adhesiva
+44121611,Punzones de ojales o papel
+44121612,Cutters o recambios
+44121613,Quitagrapa o Desgrapadora
+44121615,Presilladora o grapadora
+44121617,Abridores manuales de cartas
+44121618,Tijeras
+44121619,Sacapuntas
+44121620,Lupa de escritorio
+44121621,Almohadillas para tinta o sus accesorios
+44121622,Humedecedores o mojadedos 
+44121624,Regla
+44121626,Dedales
+44121627,Marcadores de libro
+44121632,Afilador de tijeras y lapices
+44121633,Suministradores de sellos
+44121635,Portarrollos de cinta adhesiva
+44121703,Plumas
+44121704,Boligrafos
+44121705,Portaminas
+44121706,Lapiz
+44121707,Lapices de colores
+44121708,Marcadores
+44121709,Lapices de cera o crayon
+44121710,Tiza para escribir 
+44121711,Rotuladores
+44121713,Plumillas
+44121714,Gomita de sujecion p/ dinero y otros
+44121801,Cinta correctora
+44121802,Liquido corrector
+44121804,Borradores
+44121806,Recambios para boligrafos y correctores
+44121902,Tinta 
+44121905,Mina para Portamina
+44122001,Archivadores de fichas
+44122002,Protectores de plástico
+44122003,Tablas para sujetar
+44122008,Separadores 
+44122011,Carpetas para archivos
+44122015,Bibliorato
+44122016,Aprieta Papel
+44122017,Carpetas colgantes o accesorios
+44122018,Lenguetas o encartes de archivos
+44122019,Cajas de archivo o accesorios
+44122023,Portafolios
+44122025,Tapas para encuadernacion 
+44122026,Quitagrapas
+44122027,Clasificadores de fuelle
+44122101,Gomas elasticas
+44122104,Clips para papel
+44122106,Chinchetas y tachuelas
+44122107,Grapas
+44122109,Sujetadores para archivar
+44122111,Ojalillos autoadhesivos
+44122112,Fasteners de cabeza redonda o clavo p/ expediente
+44122118,Fasteners
+44122120,Espiral de encuadernacion
+45101502,Impresoras offset
+45101506,Impresoras / Reveladoras para serigrafia
+45101509,Impresora rotativa de ultravioletas (UV)
+45101511,Impresora Inkjet para aplicaciones comerciales de imprimir
+45101603,Insumos para impresion offset
+45101604,Procesadores de planchas de impresion offset
+45101609,Rejillas para serigrafia
+45101611,Racletas para serigrafia
+45101702,Guillotinas de imprenta y accesorios
+45101704,Cortadores de imprenta
+45101707,Planchas de imprenta
+45101903,Perforadoras de papel para Imprentas 
+45111501,Atriles de pie
+45111602,Lamparas de proyeccion
+45111603,Pantallas de proyeccion
+45111604,Proyectores de diapositivas
+45111607,Retroproyectores
+45111609,Proyectores multimedia y accesorios
+45111616,Proyectores de video
+45111617,Carrito para proyector de video o retroproyector
+45111702,Equipo para sonido varios
+45111704,Consolas de mezcla de sonidos
+45111801,Sistemas de control de medios
+45111805,Editores de video y sonido
+45111809,Accesorios de soporte de television
+45111901,Sistemas de audioconferencia
+45111902,Sistemas de videoconferencia
+45121503,Camaras desechables
+45121504,Camaras digitales
+45121515,Videocamaras portatiles
+45121516,Videocamaras digitales
+45121518,Kits de camara
+45121520,Webcams
+45121601,Flashes o iluminacion de camaras
+45121602,Soportes para camaras
+45121603,Lentes o filtros para camaras
+45121605,Chasis de pantallas
+45121609,Accesorios para camara
+45121610,Cables de la camara
+45121617,Bolsas de equipo fotografico
+45121623,Controladores de camara
+45121701,Accesorios de elaboracion fotografica / filmacion
+45121801,Camaras para microfilmar
+45121805,Componentes de camara de microfilmes o accesorios
+45131501,Pelicula de color
+45131604,Cintas de video virgenes
+45141501,Solucion para revelado
+46101501,Ametralladoras y Accesorios
+46101502,Escopetas para policia o proteccion
+46101503,Rifles o Fusiles y Accesorios
+46101504,Pistola y Revolver
+46101505,Rifles de aire o pistolas de aire
+46101506,Piezas para revolveres y pistolas
+46101601,Maquinarias y municiones
+46101801,Fundas de arma y accesorios
+46111501,Granadas u otros similares
+46121505,Misiles antitanque
+46141501,Lanzadores de misiles
+46141502,Lanzadores de cohetes
+46141599,Lanzadores de granadas
+46151502,Cascos antidisturbios
+46151503,Escudos antidisturbios
+46151504,Equipo de proteccion corporal
+46151505,Barreras
+46151506,Equipos antidisturbios
+46151507,Sistemas de control de formacion de colas
+46151601,Manillas
+46151604,Analizadores de alcohol
+46151605,Detectores de armas o explosivos
+46151606,Equipo de pruebas de narcoticos
+46151607,Cordones de seguridad
+46151703,Tinta de huellas dactilares
+46151705,Rodillos de tinta de huellas dactilares o palmares
+46151706,Kits para detectar / sacar huellas forenses latentes
+46151707,Reveladores de huellas dactilares
+46151708,Accesorios forenses
+46151713,Productos quimicos para sacar huellas latentes
+46151714,Armarios de secado de la evidencia - Destructor de evidencia
+46151715,Equipo para huellas dactilares
+46151799,Equipo de peritaje
+46161504,Control de trafico
+46161505,Parquimetros
+46161508,Delimitadores o conos de trafico
+46161509,Paradores de velocidad
+46161510,Sistemas de barreras de vallas
+46161601,Senalizaciones nauticas y accesorios
+46171501,Candados
+46171503,Juegos de cerraduras
+46171505,Llaves
+46171506,Cajas fuertes
+46171507,Barras y accesorios de seguridad
+46171508,Cerrojos numericos
+46171509,Organizadores o armarios de llaves
+46171511,Dispositivos de bloqueo
+46171515,Estuches de llaves o llaveros
+46171604,Sistemas de alarma
+46171605,Timbres para puertas
+46171606,Sirenas
+46171608,Detectores de movimiento
+46171609,Espejos de seguridad
+46171610,Camaras de seguridad
+46171612,Monitores de video
+46171613,Detectores de gas
+46171615,Camaras de potenciacion de la luz o aparatos de vision
+46171617,Mirillas para puertas
+46171618,Timbres de puerta
+46171619,Sistemas de control de acceso o de seguridad
+46171621,Grabadoras de sonido o video de vigilancia
+46181501,Delantales protectores
+46181502,Chalecos antibalas
+46181503,Trajes de trabajo protectores
+46181504,Guantes protectores
+46181505,Rodilleras protectoras
+46181506,Ponchos protectores
+46181507,Chalecos de proteccion
+46181508,Ropa ignifuga
+46181509,Ropa protectora contra para materias peligrosas
+46181514,Protectores de codos
+46181516,Mangas de proteccion
+46181517,Equipos de Entrenamiento personal
+46181520,Protectores de piernas
+46181522,Cubiertas de seguridad
+46181525,Ropa impermeable protectora o ropa para ambiente humedo
+46181527,Pantalones protectivos
+46181528,Vestido protectivo
+46181530,Dediles protectores
+46181531,Ropa reflectante o accesorios
+46181604,Botas de proteccion y accesorios
+46181605,Zapatos de proteccion
+46181606,Cubiertas de zapatos
+46181701,Cascos protectores
+46181702,Escudos/Protectores faciales
+46181703,Caretas de soldador
+46181704,Cascos de proteccion
+46181705,Cascos de motocicleta
+46181706,Piezas de casco o accesorios
+46181803,Viseras oculares
+46181810,Puestos de lavado de ojos o lavaojos
+46181811,Lentes o gafas de proteccion
+46181901,Protectores de oidos
+46182001,Mascaras o accesorios
+46182002,Respiradores
+46182003,Mascaras de gas
+46182004,Aparato respiratorio autonomo de suministro de aire de respiracion o accesorios
+46182005,Mascaras o filtros de respirador o accesorios
+46182208,Plantillas de zapato
+46182306,Cinturones de seguridad y accesorios
+46182501,Repelentes contra ataques
+46191501,Detectores de humo y calor
+46191504,Detectores de llama
+46191505,Sistemas y equipos de alarma de incendio y control de accesos
+46191601,Extintores
+46191602,Sistemas de rociado automatico contra incendios
+46191603,Mangueras o boquillas contra incendios y accesorios
+46191605,Herramientas de mano para extincion de incendios
+46191606,Espuma o compuestos similares para extincion de incendios
+46191608,Sistema de apagado de incendios
+46191610,Hidrantes - Cabezales de hidrantes
+47101505,Equipo para manipulacion de cloro
+47101507,Camaras de sedimentacion y accesorios
+47101512,Mezcladores y agitadores
+47101521,Equipo para tratamiento de agua
+47101527,Trituradores de Residuos
+47101529,Incineradores y Equipos
+47101534,Distribuidores de aguas y equipos varios relacionados 
+47101535,Equipo de eliminacion de lodos
+47101536,Colectores de lodos
+47101538,Digestores de fango o aguas residuales
+47101602,Anti-incrustantes
+47101603,Desincrustantes
+47101608,Floculantes
+47101609,Microbicidas
+47101610,Compuestos para ablandamiento de agua
+47101612,Polielectrolitos
+47101613,Soluciones retardadoras
+47111501,Lavadoras o secadoras para lavanderia combinadas
+47111502,Lavadoras tipo lavanderia
+47111503,Secadoras de ropa
+47111601,Maquinas o prensas para planchado
+47121501,Carros para limpieza
+47121602,Aspiradores
+47121603,Pulidores de suelo y accesorios
+47121610,Maquina para lavar suelos
+47121612,Barredora de suelos y accesorios
+47121701,Bolsas de basura
+47121702,Envases para residuos o forros rigidos
+47121703,Urnas de fumar o accesorios
+47121706,ceniceros
+47121801,Plumeros
+47121802,Equipo de fumigación
+47121804,Cubos
+47121805,Limpiadoras de presion o de vapor
+47121806,Escurridor de fregasuelos u otros
+47121807,embolo buzo de desague o inodoro
+47121808,Equipo de limpiar tuberia o desagües
+47121811,Limpiadoras Electricas
+47121813,Organizador de Productos de Limpieza
+47131501,Estopas
+47131502,Bayetas o trapos
+47131503,Gamuza o guanterias lavables
+47131603,Esponjas u otros similares para limpieza
+47131604,Escoba o Escobillon
+47131605,Cepillos de limpieza
+47131609,Mangos para escobas o fregonas
+47131610,Aplicador de acabado de suelo
+47131611,Recogebasuras
+47131612,Gomas de repuesto
+47131615,Cepillos de escoba
+47131617,Mopas de polvo
+47131618,Mopas humedas
+47131619,Cabezas de fregona
+47131703,Recipientes para residuos 
+47131704,Equipo expendedor de Jabon de uso publico
+47131707,Secadores de mano de uso publico
+47131709,Dispensadores de papel para cara y manos
+47131710,Dispensadores de papel higienico
+47131711,Dispensador de productos limpiadores
+47131802,Abrillantadores o acabados de suelos
+47131803,Desinfectantes domesticos
+47131805,Productos de Limpiar de uso general
+47131808,Germicida seca
+47131809,Productos para limpiar o pulir zapatos
+47131810,Productos para lavar
+47131811,Productos de lavanderia
+47131814,Limpiadores o pulidores de metal
+47131815,Limpiador de desague
+47131816,Desodorantes de limpieza
+47131818,Limpiadores de aire
+47131819,Limpiadores causticos
+47131821,Compuestos desengrasantes
+47131824,Productos de limpieza de vidrio
+47131825,Productos de limpieza de superficies de contacto
+47131826,Productos de limpieza de alfombras o tapicerias
+47131827,Quitamanchas
+47131828,Productos de limpieza para automoviles
+47131829,Productos de limpieza
+47131830,Productos de limpieza de muebles
+47131831,Acido muriatico
+47131833,Esterilizadores de alimentos
+47131909,Rollos o almohadillas absorbentes
+48101507,Hornos de conveccion de uso comercial
+48101509,Freidoras para uso comercial
+48101510,Calentadores de comida de uso comercial y accesorios
+48101511,Planchas de uso comercial
+48101512,Parrillas para uso comercial
+48101517,Hornos de uso comercial
+48101521,Cocinas comerciales e industriales y accesorios
+48101524,Ollas de cocer a bano maria de uso comercial
+48101529,Ollas a presion o sartenes de presion
+48101530,Ollas de uso comercial
+48101601,Batidoras de uso comercial
+48101602,Abrelatas electricas de uso comercial
+48101604,Molinillos de cafe de uso comercial
+48101605,Molinillos de alimentos de uso comercial
+48101607,Licuadoras de uso comercial
+48101609,Maquinas
+48101610,Peladoras de uso comercial
+48101611,Balanzas de uso comercial
+48101613,Maquinas para amasar de uso comercial
+48101614,Bolsas o bandejas de uso comercial para fabricar hielo
+48101616,Rebanadoras de alimentos de uso comercial
+48101617,Palas para uso comercial
+48101702,Dispensador de bebidas no carbonicas
+48101714,Dispensadores de agua 
+48101804,Tazas para medir de uso comercial
+48101805,Boles de uso comercial para batir
+48101807,Moldes para pizza de uso comercial
+48101811,Rodillos de amasar de uso comercial
+48101812,Coladores de uso comercial
+48101815,Cucharones y espumaderas de uso doméstico
+48101902,Platos y cubiertos de servicio
+48101903,Vasos de servicio
+48101905,Tazas para servicio de mesa
+48101906,Cestas para servir
+48101909,Cafeteras o teteras de servicio
+48101912,Dispensadores de condimentos
+48101916,Dispensadoras de servilletas del servicio de alimento
+48102101,Mostradores
+48102102,Mostradores en caliente
+48111301,Distribuidoras automaticas de billetes y tickets
+48111401,Cajeros automaticos (ATM)
+49101602,Recuerdos o souvenirs
+49101609,Ornamentos y decoraciones
+49101701,Medallas
+49101702,Trofeos
+49101704,Placas
+49121502,Colchones de espuma
+49121503,Tiendas de campana
+49121504,Sacos de dormir
+49121507,Colchones de aire
+49121508,Mosquiteras
+49121509,Camping 
+49121602,Mesas de camping
+49121603,Catres desmontables
+49141504,Instrumentos o accesorios para buceo
+49141505,Mascaras
+49141507,Trajes Acuaticos
+49161504,Balones de rugby
+49161505,Balones de futbol
+49161513,Palos de hockey sobre hierba
+49161526,Material de entrenamientodeportivo
+49161603,Pelotas de baloncesto
+49161604,Pelotas de tenis
+49161607,Raquetas de tenis
+49161608,Pelotas de voleibol y handball
+49161701,Jabalinas
+49161702,Barras de salto
+49161703,Discos
+49161705,Pertigas
+49161706,Vallas
+49171501,Barras de equilibrio para gimnasia
+49171503,Equipos gimnasticos para saltos
+49171504,Trampolines gimnasticos
+49181501,Mesas de billar
+49181507,Mesas de tenis y/o ping pong
+49181509,Pelotas de ping-pong
+49201503,Bicicletas estaticas
+49201512,Cuerdas para saltar
+49201514,Pelotas de ejercicio
+49201515,Equipo de step aerobic
+49201601,Pesas
+49201602,Barras con pesas
+49201603,Maquinas de resistencia para extremidades inferiores
+49201604,Bancos soportes de pesas
+49201605,Maquinas de resistencia para extremidades superiores
+49201606,Pesas de entrenamiento
+49201611,Maquinas de ejercicios multiples
+49211801,Equipo de paracaidas y accesorios
+49211802,Equipo de aro o hula-hoop
+49211803,Equipo de orientacion
+49211805,Cuerdas
+49221501,Marcadores deportivos
+49221502,Equipamiento deportivo
+49221504,Cascos deportivos protectores
+49221505,Redes o mallas deportivas
+49221506,Colchonetas o almohadillas deportivas
+49221508,Aros para canastas
+49221510,Ropas y accesorios deportivos
+49241501,Columpios de parques infantiles
+49241502,Aparatos para parques infantiles
+49241504,Toboganes para parques infantiles
+49241505,Subibajas para parques infantiles
+49241507,Cajas de arena para parques infantiles
+49241705,Equipos y suministros de limpieza para piscina
+50101538,Verduras frescas
+50101539,Verduras en conserva o en lata
+50101542,Harina vegetal
+50101634,Fruta fresca y residuos frutales
+50101716,Semillas o frutos secos 
+50111510,Carne de ave fresca
+50112001,Carnes vacunas frescas o procesadas 
+50112002,Carnes porcinas frescas o procesadas
+50112003,Carnes varias frescas o procesadas 
+50121538,Pescado procesado
+50121539,Pescado fresco
+50131606,Huevos frescos
+50131701,Productos de mantequilla o leche frescos no procesados
+50131702,Productos de mantequilla o leche en conserva
+50131801,Queso natural
+50131802,Queso procesado
+50151513,Aceites de plantas y verduras comestibles
+50151514,Grasas de plantas y verduras comestibles
+50151604,Aceites comestibles de animal
+50151605,Grasas comestibles de animal
+50161509,Productos de edulcorantes o azucares naturales
+50161511,Chocolate y Dulces varios
+50161815,Golosinas
+50171549,Hierbas secas
+50171550,Especias o extractos
+50171551,Sal de cocina o de mesa
+50171552,Mezcla de condimentos
+50171707,Vinagres
+50171830,Salsas para pringar o condimentos o para untar o marinar
+50171831,Salsa para cocinar
+50171832,Alino de ensaladas o para mojar
+50171833,Pate
+50171903,Aceitunas
+50171904,Salsas picantes
+50181709,Suministros para hacer al horno
+50181901,Panificados
+50181903,Galletas simples
+50181904,Panes secos o cascara de pan
+50181905,Panificados dulces
+50181909,Galletitas
+50182001,Tartas o empanadas o pastas frescos
+50192109,Curruscantes o patatas fritas 
+50192110,Nueces o frutos secos
+50192301,Postres preparados
+50192302,Decoraciones de postres
+50192303,Polos o helado o postres helados o yogures helados
+50192401,Mermeladas o gelatinas o conservas de fruta
+50192403,Miel
+50192501,Sandwiches y panecillos con relleno frescos
+50192603,Patatas preparadas y arroz y pasta y relleno estable sin refrigerar
+50192703,Alimentos combinados estable sin refrigerar
+50192901,Pasta o tallarines natural fresco
+50192902,Pasta o tallarines natural 
+50193001,Comida para bebes
+50193203,Ensaladas preparadas en conserva
+50201706,Cafe
+50201710,Te
+50201711,Te Instantaneo
+50201712,Bebidas de yerba mate
+50202206,Alcohol o Licores
+50202301,Agua
+50202302,Hielo
+50202305,Zumo Natural
+50202306,Refrescos
+50202310,Agua mineral
+50221001,Granos de Legumbres
+50221101,Granos de Cereales
+50221102,Harina de Cereales
+50221201,Cereales listo para comer o preparados
+51101503,Cloranfenicol
+51101504,Clindamicina
+51101507,Penicilina
+51101508,Antibioticos varios
+51101509,Tetraciclina
+51101510,Oxitetraciclina
+51101511,Amoxicilina
+51101513,Neomicina
+51101516,Gramicidina
+51101518,Ofloxacina
+51101522,Claritromicina
+51101524,Bacitracina-cinc
+51101526,Polimixina
+51101527,Colistimetato sodico
+51101528,Tirotricina
+51101530,Trimetroprim
+51101532,Teicoplanina
+51101533,Rifamicina
+51101536,Moxifloxacina
+51101538,Levofloxacina
+51101542,Ciprofloxacina
+51101546,Norfloxacina
+51101550,Cefalexina
+51101551,Ceftriaxona
+51101552,Ceftazidima
+51101556,Minociclina
+51101557,Doxiciclina
+51101561,Piperaciclina
+51101562,Oxacilina sodica
+51101566,Carbenoxolona 
+51101567,Ampicilina
+51101570,Eritromicina
+51101572,Azitromicina
+51101573,Cefuroxima
+51101576,Cefalotina
+51101578,Cefazolina
+51101580,Cefadroxilo
+51101582,Tobramicina
+51101584,Gentamicina
+51101586,Amikacina
+51101587,Kanamicina
+51101591,Vancomicina
+51101592,Cefoxitina
+51101593,Cefotaxima
+51101594,Cefepima
+51101596,Cefoperazona
+51101597,Mupirocina
+51101599,Cefixima
+51101603,Metronidazol
+51101604,Antimoniato de meglumina
+51101611,Meropenem
+51101613,Antiprotozoarios Varios
+51101617,Tinidazol
+51101619,Secnidazol
+51101630,Isetionato de propamidina
+51101701,Albendazol
+51101702,Mebendazol
+51101706,Pamoato de pirantel
+51101707,Tiabendazol
+51101708,Sulfanilamida
+51101710,Piperazina
+51101711,Citrato de dietilcarbamazina
+51101714,Metilparaben
+51101715,Antiparasitario Varios
+51101717,Ivermectina
+51101718,Benzoato de bencilo
+51101719,Butoxido de piperonilo
+51101801,Anfotericina B
+51101803,Butoconazol
+51101804,Olamina de ciclopirox
+51101805,Clotrimazol
+51101806,Nitrato de econazol
+51101807,Fluconazol
+51101809,Griseofulvina
+51101810,Itraconazol
+51101811,Ketoconazol o Miconazol
+51101812,Antipediculosis
+51101815,Nistatina
+51101818,Hidrocloruro de terbinafina
+51101824,acido undecilenico
+51101826,Sulfato de estreptomicina
+51101827,Isoconazol
+51101834,Nitrato de miconazol
+51101835,Acetato de caspofungina
+51101836,Fungicidas y Plaguicidas varios
+51101903,Fosfato de primaquina
+51101904,Sulfato de quinina
+51101907,Pirimetamina
+51101910,Fosfato de cloroquina
+51101912,Sulfato de hidroxicloroquina
+51102001,Cicloserina
+51102002,Hidrocloruro de etambutol
+51102003,Isoniacida
+51102005,Rifampina
+51102006,Antituberculosos Varios
+51102008,Pirazinamida
+51102009,Sulfato de capreomicina
+51102102,Dapsona
+51102202,Antiinfecciosos varios
+51102205,acido nalidixico
+51102206,Nitrofurantoina
+51102209,Hidrocloruro varios
+51102213,Sulfas infecciones tracto urinario
+51102301,Aciclovir
+51102302,Hidrocloruro de amantadina
+51102304,Didanosina
+51102307,Ganciclovir sodico
+51102309,Sulfato de indinavir
+51102310,Lamivudina
+51102311,Nevirapina
+51102314,Ritonavir
+51102315,Mesilato de saquinavir
+51102316,Estavidina
+51102318,Hidrocloruro de valaciclovir
+51102321,Zidovudina
+51102322,Sulfato de abacavir
+51102326,Efavirenz
+51102329,Mesilato de nelfinavir
+51102331,Saquinavir
+51102332,Tenofovir disoproxil fumarato
+51102333,Clorhidrato de valganciclovir
+51102334,Zanamivir
+51102336,Antivirales Varios
+51102402,Hipromelosa
+51102501,Naftanato de cobre
+51102505,Triclorofon
+51102601,Antibioticos veterinarios varios
+51102702,Agua destilada para irrigacion
+51102706,Antisepticos Varios
+51102707,Gluconato de clorhexidina
+51102708,Antisepticos de formaldehido
+51102709,Antisepticos de peroxido de hidrogeno
+51102710,Antisepticos basados en alcohol o acetona
+51102712,Antisepticos de fenol
+51102713,Povidona yodada
+51102714,Solucion de cloruro sodico para irrigacion
+51102717,Nitrofurazona
+51102718,Nitrato de plata
+51102719,Yodoformo o Iodoformo
+51102722,Geles o soluciones topicas de yodo
+51102723,Merbromina
+51102724,Cloruro de benzalconio
+51102727,Yoduro de timol
+51111501,Agentes Alquilantes varios
+51111502,Busulfan
+51111503,Carboplatina
+51111504,Carmustina
+51111506,Cisplatino
+51111507,Ciclofosfamida
+51111508,Dacarbazina
+51111509,Ifosfamida
+51111512,Melfalan
+51111513,Mesna
+51111519,Temozolomida
+51111602,Citarabina
+51111604,Fosfato de fludarabina
+51111605,Fluorouracilo
+51111606,Hidroxiurea
+51111609,Mercaptopurina
+51111610,Metotrexato
+51111614,Etoposide
+51111616,Capecitabina
+51111617,Clorhidrato de gemcitabina
+51111618,Azatidicina
+51111699,Asparaginasa
+51111701,Sulfato de bleomicina
+51111702,Dactinomicina
+51111704,Mitomicina
+51111705,Mitotan
+51111706,Hidrocloruro de mitoxantrona
+51111709,Retinoides
+51111711,Clorhidrato de doxorubicina
+51111713,Anticuerpo Monoclonal Humanizado
+51111714,Clorhidrato de doxorubicina liposomal
+51111716,Rituximab
+51111717,Trastuzumab
+51111799,Sunitinib
+51111801,Anastrozol
+51111804,Flutamida
+51111806,Irinotecan
+51111807,Interleukina
+51111809,Tamoxifeno
+51111811,Hidrocloruro de topotecan
+51111812,Sulfato de vinblastina
+51111813,Sulfato de vincristina
+51111814,Tartrato de vinorelbina
+51111815,Triptorelina
+51111820,Letrozol
+51111821,Abiraterona
+51111901,Asparagina
+51111902,Docetaxel
+51111904,Paclitaxel
+51111999,Vemurafenib
+51121501,Adenosina
+51121502,Digoxina
+51121511,Clorhidrato de amiodarona
+51121519,Clorhidrato de procainamida
+51121522,Agentes antiarritmia varios
+51121602,Dinitrato de Isosorbida
+51121603,Nitroglicerina
+51121707,Verapamilo
+51121708,Metildopa
+51121709,Carvedilol
+51121710,Losartan potasico
+51121715,Enalapril
+51121718,Clorhidrato de clonidina
+51121725,Fumarato de bisoprolol
+51121730,Ramipril
+51121733,Valsartan
+51121735,Candesartan cilexetilo
+51121742,Malato de diltiazem
+51121743,Besilato de amlodipina
+51121745,Dihidrato 
+51121758,Nitroprusiato de sodio
+51121759,Olmesartan medoxomilo
+51121763,Telmisartan
+51121803,Simvastatina
+51121804,Clofibrato
+51121805,Gemfibrozilo
+51121818,Atorvastatina
+51121819,Ezetimiba
+51121902,Medicamentos para insuficiencia cardiaca congestiva
+51121904,Nifedipina
+51122109,Clorhidrato de papaverina
+51122110,Nimodipina
+51122112,Vasodilatadores Varios
+51122201,Fármacos para hipotensión
+51131501,Fumarato ferroso
+51131502,Gluconato ferroso
+51131503,Sulfato ferroso
+51131506,Eritropoyetina
+51131509,Citrato ferrico de amonio
+51131516,Hierro 
+51131601,Aprotinina
+51131602,Heparina calcica
+51131603,Heparina sodica
+51131604,Warfarina sodica
+51131607,Enoxaparina
+51131613,Dicumarol
+51131617,Anticoagulantes varios
+51131701,Abciximab
+51131703,Estreptoquinasa
+51131709,Clopidogrel
+51131710,Eptifibatida
+51131712,Clorhidrato de ticlopidina
+51131801,Fibrinogeno
+51131802,Globulinas o factores antihemofilicos
+51131805,Etamsilato
+51131807,Agentes hemostaticos sistemicos y coagulantes varios
+51131808,acido aminocaproico
+51131809,Dobesilato calcico
+51131901,Poligelina
+51131903,Gelatina
+51131906,Pentalmidon
+51131907,Factor proteinico de plasma humano
+51131909,Albumina humana
+51132001,Pentoxifilina
+51141501,Acetazolamida
+51141502,Clonazepam
+51141504,Lamotrigina
+51141505,Fenobarbital
+51141506,Fenobarbital sodico
+51141507,Fenitoina / Difenil Hidantoina
+51141509,Vigabatrina
+51141512,Clobazam
+51141513,Carbamazepina
+51141517,Gabapentina
+51141518,Levetiracetam
+51141522,Oxcarbazepina
+51141528,Topiramato
+51141530,Valproato sodico
+51141531,Acido Valproico
+51141601,Hidrocloruro de amitriptilina
+51141605,Hidrocloruro de paroxetina
+51141606,Hidrocloruro de trazodona
+51141612,Sibutramina
+51141614,Clomipramina
+51141617,Bromhidrato de citalopram
+51141618,Clorhidrato de fluoxetina
+51141619,Sertralina
+51141621,Clorhidrato de imipramina
+51141630,Antidepresivos varios
+51141631,Clorhidrato de bupropion
+51141702,Haloperidol
+51141703,Olanzapina
+51141704,Risperidona
+51141706,Citicolina
+51141710,Periciazina
+51141711,Levomepromazina
+51141713,Palmitato de pipotiazina
+51141714,Piracetam
+51141716,Decanoato de haloperidol
+51141721,Pimozida
+51141722,Quetiapina
+51141726,Clorhidrato de triflupromazina
+51141729,Antisicoticos varios
+51141801,Pentobarbital
+51141803,Hidrato de cloral
+51141807,Flunitrazepam
+51141808,Tartrato de zolpidem
+51141812,Clorhidrato de dexmedetomidina
+51141821,Succinato de doxilamina
+51141903,Carbonato de litio
+51141907,Sulpirida
+51141910,Bromazepam
+51141916,Lorazepam
+51141919,Alprazolam
+51141920,Diazepam
+51141921,Clorhidrato de midazolam
+51142001,Acetaminofen o paracetamol
+51142002,acido acetilsalicilico
+51142003,Mesalamina
+51142005,Butetisalicilato de metilo
+51142009,Antipiréticos y analgésicos varios
+51142010,Acetanilida
+51142012,acido mefenamico
+51142016,Solucion de benzocaina y antipirina
+51142101,Antiinflamatorios varios
+51142103,Diclofenaco potasico
+51142104,Diclofenac sodico
+51142106,Ibuprofeno
+51142107,Indometacina
+51142108,Ketoprofeno
+51142109,Naproxeno
+51142117,Diclofenaco dietilamina
+51142118,Nimesulida
+51142120,Serrapeptasa
+51142121,Diclofenac
+51142123,Ketorolaco trometamol
+51142128,Piroxicam
+51142130,Leflunomida
+51142138,Ketorolaco trometamina
+51142140,Meloxicam
+51142142,Rofecoxib
+51142145,Adalimumab
+51142148,Hialuronato sodico
+51142149,Glucosamina
+51142202,Fosfato de codeina
+51142205,Hidrocloruro de meperidina
+51142206,Sulfato de morfina
+51142207,Oxicodona
+51142214,Clorhidrato de alfentanilo
+51142219,Fentanilo
+51142220,Citrato de fentanilo
+51142232,Clorhidrato de remifentanilo
+51142233,Codeina
+51142235,Clorhidrato de tramadol
+51142302,Hidrocloruro de naloxeno
+51142403,Tartrato de ergotamina
+51142501,Mesilato de bromocriptina
+51142502,Carbidopa
+51142503,Medicamentos contra el parkinson varios
+51142504,Selegilina
+51142505,Biperiden
+51142506,Clorhidrato de biperiden
+51142508,Diclorhidrato de pramipexol
+51142610,Cafeina
+51142618,Clorhidrato de metilfenidato
+51142801,Riluzol
+51142901,Cloroformo
+51142904,Lidocaina 
+51142905,Bupivacaina
+51142909,Benzocaina
+51142913,Halotano
+51142916,Hialuronidasa
+51142917,Mepivacaina
+51142918,Articaina
+51142919,Isoflurano
+51142920,Procaina
+51142921,Tiopental sodico
+51142924,Clorobutanol
+51142929,Enflurano
+51142930,Eter
+51142931,Cloruro de etilo
+51142933,Etomidato
+51142934,Clorhidrato de ketamina
+51142935,Clorhidrato de levobupivacaina
+51142937,Clorhidrato de lidocaina
+51142940,Clorhidrato de proparacaina
+51142941,Propofol
+51142942,Sevoflurano
+51142943,Tetracaina
+51142947,Farmacos anestesicos
+51151506,Inhibidor de la esterasa
+51151510,Bromhidrato de galantamina
+51151512,Metilsulfato de neostigmina
+51151513,Bromuro de neostigmina
+51151514,Bromuro de piridostigmina
+51151601,Sulfato de atropina
+51151604,Trihexifenidil
+51151605,Clorhidrato de ciclopentolato
+51151606,Tropicamida
+51151610,Alcaloides de la belladona
+51151613,Bromhidrato de escopolamina
+51151614,Bromhidrato de homatropina
+51151616,Atropina
+51151702,Tartrato de brimonidina
+51151703,Epinefrina
+51151706,Isoproterenol
+51151710,Clorhidrato de fenilefrina
+51151715,Sulfato de efedrina
+51151719,Pseudoefedrina
+51151720,Xinafoato de salmeterol
+51151723,Clorhidrato de tetrahidrozolina
+51151724,Clorhidrato de nafazolina
+51151727,Bitartrato de norepinefrina
+51151731,Sulfato de metaproterenol
+51151732,Clorhidrato de dobutamina
+51151737,Clorhidrato de dopamina
+51151741,Efedrina
+51151748,Nafazolina
+51151801,Atenolol
+51151802,Hidrocloruro de esmolol
+51151804,Pindolol
+51151805,Maleato de timolol
+51151810,Mesilato de fentolamina
+51151812,Propanolol
+51151814,Clorhidrato de betaxolol
+51151817,Clorhidrato de tamsulosina
+51151823,Clorhidrato de labetalol
+51151899,Nebivolol
+51151901,Baclofeno
+51151908,Citrato de orfenadrina
+51151911,Suxametonio
+51151914,Clorhidrato de ciclobenzaprina
+51151916,Cloruro de succinilcolina
+51152001,Besilato de atracurio
+51152004,Bromuro de vecuronio
+51152005,Toxina botulinica
+51152006,Besilato cisatracurio
+51152009,Bromuro de pancuronio
+51161504,Aminofilina
+51161505,Teofilina
+51161507,Formoterol
+51161508,Sulfato de salbutamol / Albuterol
+51161601,Astemizol
+51161606,Loratadina
+51161608,Clorhidrato de betahistina
+51161610,Prometazina
+51161614,Clorhidrato de meclozina
+51161615,Cetirizina
+51161623,Pamoato de hidroxizina
+51161625,Clorhidrato de azelastina
+51161630,Maleato de clorfeniramina
+51161633,Desloratadina
+51161637,Clorhidrato de hidroxizina
+51161638,Fumarato de ketotifeno
+51161650,Clorhidrato de prometazina
+51161701,Acetilcisteina
+51161702,Beractant
+51161703,Budesonida
+51161704,Palmitato de colfoscerilo
+51161705,Bromuro de ipratropio
+51161708,Dornasa alfa
+51161803,Mentol
+51161805,Carbocisteina
+51161808,Dextrometorfano
+51161809,Citrato de oxolamina
+51161811,Bromhexina
+51161812,Drogas o Combinaciones antitusivas
+51161813,Guayacolsulfonato de potasio
+51161817,Bromhidrato de dextrometorfan
+51161820,Eucaliptol o aceite de eucalipto
+51171504,Antiacidos de bicarbonato de sodio
+51171505,Simeticona
+51171511,Hidroxido de aluminio
+51171601,Cascara sagrada y hojas de cynara scolymus
+51171604,Docusato de sodio
+51171605,Lactulosa
+51171606,Sulfato de magnesio
+51171608,Glicerina
+51171612,Metilcelulosa
+51171614,Bisacodil
+51171620,Citrato de magnesio
+51171622,Fosfato sodico
+51171623,Fenolftaleina
+51171628,Fosfato potasico
+51171629,Sulfato sodico
+51171630,Aceite mineral
+51171631,Preparado laxante de polietilenglicol
+51171704,Nifuroxazida
+51171706,Antidiarreicos varios
+51171709,Levadura Saccharomyces boulardii
+51171806,Metoclopramida
+51171811,Combinatoria de fructosa
+51171816,Ondansetron
+51171904,Hidrocloruro de ranitidina
+51171905,Medicamentos gastrointestinales varios
+51171906,Lansoprazol
+51171908,Misoprostol
+51171909,Omeprazol
+51171910,Pancreatina
+51171911,Sucralfato
+51171913,Trihidrato magnesico de esomeprazol
+51171915,Pantoprazol sodico
+51171917,Citrato de bismuto de ranitidina
+51172003,Ursodiol
+51172101,Clorhidrato de mebeverina
+51172105,Floroglucinol
+51172107,Butilbromuro de hioscina
+51172109,Trimebutina
+51172111,Antiespasmódicos varios
+51181501,Medicamentos antidiabeticos e hiperglicemicos varios
+51181504,Glimepirida
+51181506,Insulina
+51181508,Glucagon
+51181509,Gliclazida
+51181516,Glibenclamida o gliburida
+51181517,Clorhidrato de metformina
+51181520,Clorhidrato de pioglitazona
+51181521,Repaglinida
+51181522,Maleato de rosiglitazona
+51181601,Agalsidasa Alfa
+51181604,Tirotropina
+51181605,Metimazol
+51181606,Propiltiouracilo
+51181607,Yoduro de potasio
+51181608,Levotiroxina
+51181699,Medicamentos Metabolicos 
+51181701,Betametasona
+51181704,Dexametasona
+51181706,Hidrocortisona
+51181707,Metilprednisolona
+51181708,Prednisolona
+51181713,Prednisona
+51181715,Cortisona
+51181718,Deflazacort
+51181719,Acetonida de fluocinolona
+51181722,Fluticasona
+51181736,Fluorometolona
+51181740,Fosfato sodico de dexametasona
+51181742,Propionato de clobetasol
+51181749,Furoato de mometasona
+51181752,Dipropionato de beclometasona
+51181802,Estrona
+51181803,Estrogenos conjugados
+51181805,Levonorgestrel
+51181807,Estradiol etinil
+51181811,Desogestrel y etinilestradiol
+51181813,Estradiol
+51181818,Progesterona
+51181822,Valerato de estradiol
+51181827,Acetato de medroxiprogesterona
+51181834,Combinacion de noretindrona y etinilestradiol
+51181999,Inhibidor de Contracciones Uterinas
+51182001,Finasterida
+51182002,Testosterona
+51182004,Enantato de testosterona
+51182102,Vasopresina
+51182202,Maleato de metilergonovina
+51182203,Oxitocina
+51182204,Maleato de ergonovina
+51182302,Somatropina
+51182304,Acetato de octreotido
+51182401,Cloruro de calcio
+51182403,Gluconato de calcio
+51182404,Lactato de calcio
+51182405,Fosfato de calcio 
+51182406,Alendronato sodico
+51182408,Fosfato de sodio celulosico
+51182413,Glicerofosfato calcico
+51182415,acido zoledronico
+51182416,Pamidronato
+51182418,Acetato calcico
+51191502,Clortalidona
+51191506,Hidrocloruro de amilorida
+51191507,Espironolactona
+51191509,Manitol
+51191510,Furosemida
+51191515,Hidroclorotiazida
+51191523,Diureticos Varios
+51191601,Dextrosa glucosado
+51191602,Electrolitos de cloruro de sodio
+51191603,Soluciones de nutricion o de nutricion parenteral total (NPT)
+51191604,Solucion de Ringer lactado
+51191703,Acetato sodico
+51191704,Soluciones multielectroliticas
+51191799,Alcalinizante Urinario
+51191801,Bicarbonato potasico
+51191802,Cloruro potasico
+51191805,Suplemento de potasio
+51191902,Suplementos de aminoacidos
+51191904,Fosfolipidos
+51191905,Suplementos vitaminicos
+51191906,Suero de rehidratacion oral
+51201501,Azatioprina
+51201502,Ciclosporina
+51201503,Mofetil micofenolato
+51201504,Tacrolimo
+51201508,Basiliximab
+51201511,Mercaptoctan
+51201512,Clorhidrato de micofenolato de mofetilo
+51201513,Peginterferon
+51201515,Sirolimus
+51201516,Globulina antilinfocitica o inmunoglobulina de la membrana del linfocito
+51201601,Antigeno 
+51201602,Antigeno de la brucela
+51201607,Vacuna Antibotulismo
+51201608,Vacuna antigripal
+51201616,Vacuna antipoliomielitica
+51201617,Vacuna antirrabica
+51201619,Vacuna antirrubeola
+51201624,Vacuna antivaricela
+51201625,Vacuna antiamarilica
+51201628,Vacuna mixta antirrubeola
+51201631,Vacunas Mixtas Varias
+51201634,Vacuna mixta antihemofilus B y antigripal con difteria
+51201635,Vacuna antihepatitis
+51201638,Vacunas Veterinarias
+51201646,Vacuna mixta antirrubeola y antisarampion
+51201647,Vacuna BCG
+51201648,Vacuna mixta antiparotiditis y antirrubeola
+51201703,Gumboro
+51201705,Enfermedad de Newcastle o pseudopeste aviar
+51201801,Inmunoglobulinas bacterianas
+51201802,Filgrastim
+51201803,Pegfilgrastim
+51201805,Inmunoglobulinas D (Rho)
+51201807,Inmunoglobulinas viricas
+51201808,Hidrocloruro de levamisol
+51201809,Agentes inmunoestimulantes varios
+51211501,Allopurinol
+51211606,Flumazenil
+51211609,Sulfato de protamina
+51211610,Sulfonato de poliestireno sodico
+51211612,Leucovorin
+51211613,Sorbitol
+51211615,Azul de metileno
+51211617,Leucovorin calcico
+51211622,Tiosulfato sodico
+51211624,Sulfato de cobre
+51212001,Aceite eterico
+51212006,Valeriana
+51212009,Antioxidantes
+51212011,Anis
+51212013,Hiedra
+51212020,Hierbas naturales medicinales varias
+51212021,Ginseng
+51212027,Ginkgo biloba
+51212033,Violeta de Genciana
+51212101,Fluoruros de sodio
+51212202,Nicotina
+51212302,Aceite etiodado
+51212308,Farmacos radiologicos
+51212309, Ioxaglato de Meglumina
+51212401,Citrato de sildenafil
+51219999,Agentes Quelantes
+51241001,Sulfosuccinato sodico de dioctil
+51241105,Carbacol
+51241107,Clorhidrato de dorzolamida
+51241110,Latanoprost
+51241114,Pilocarpina
+51241115,Timolol
+51241120,Productos oftalmologicos varios
+51241201,acido salicilico
+51241204,acido borico
+51241205,Calamina
+51241208,Cremas o ungüentos hidrofilicos
+51241209,Hidroquinona
+51241210,Salicilato de metilo
+51241216,Piritiona de cinc
+51241217,Resorcinol
+51241220,Tretinoina
+51241221,Tripsina cristalizada
+51241222,Dimeticona
+51241225,Preparados topicos de alcanfor
+51241228,acido lactico
+51241229,Productos Dermatologicos Varios
+51241302,Hamamelis
+51241303,Acetato de zinc
+51251001,Butafosfan
+52101501,Alfombras 
+52101502,Moquetas
+52101505,Alfombras sinteticas
+52121501,Colchas
+52121502,Edredones
+52121504,Fundas de colchon
+52121505,Almohadas
+52121508,Frazadas
+52121509,Sabanas
+52121512,Fundas de almohada
+52121601,Panos de cocina
+52121602,Servilletas
+52121603,Mantelillos
+52121604,Manteles
+52121606,Manteles individuales
+52121607,Faldones para mesa
+52121701,Toallas de bano
+52121703,Toallas faciales
+52121704,Toallas de mano
+52131501,Cortinas
+52131604,Persianas verticales
+52141501,Refrigeradores domesticos
+52141502,Hornos microondas domesticos
+52141504,Cocinas domesticas y accesorios
+52141507,Congeladores verticales domesticos
+52141511,Licuadoras y exprimidoras domesticas
+52141519,Hornos de conveccion domesticos
+52141520,Batidoras domesticas
+52141522,Tostadores domesticos
+52141526,Cafeteras domesticas
+52141527,Cuchillos electricos domesticos
+52141531,Picadoras de alimentos de uso domestico
+52141534,Sandwichera electrica de uso domestico
+52141599,Extractores para cocina
+52141601,Lavadoras domesticas
+52141602,Secadores domesticos
+52141603,Planchas domesticas
+52141605,Canastas y carros de la ropa sucia
+52141606,Piletas para cocina y lavanderia
+52141703,Secadores de pelo domesticos
+52141704,Maquinas de afeitar electricas domesticas
+52141706,Equipos y/o Aparatos de belleza varios
+52141802,Estufas domesticas
+52151502,Platos desechables domesticos
+52151503,Cuberteria desechable domestica
+52151504,Tazas o vasos desechables domesticos
+52151506,Contenedores de comida domesticos de usar y tirar
+52151507,Pajitas para beber desechables de uso domestico
+52151601,Rodillos de amasar domesticos
+52151603,Ralladores domesticos
+52151604,Cedazos o coladores domesticos
+52151605,Abridores de latas o botellas domesticos
+52151606,Tablas de cortar domesticas
+52151609,Peladoras de verdura
+52151610,Cortadores de panaderia
+52151611,Pinzas de cocina de uso domestico
+52151612,Batidos de alambre de cocina de uso domestico
+52151613,Rasqueta de alimentos de uso domestico
+52151614,Rejillas de uso domestico
+52151616,Espatulas de cocina de uso domestico
+52151622,Manga de decoracion de reposteria de uso domestico y accesorios
+52151624,Afiladores de cuchillos de uso domestico
+52151626,Cortador multiusos de uso domestico
+52151630,Cortador de queso de uso domestico
+52151631,Pasapures de uso domestico
+52151632,Embudos de cocina de uso domestico
+52151642,Prensadora de masa de uso domestico
+52151643,Confeccionador de raviolis y ñoquis de uso domestico
+52151644,Rociadores de gatillo o pulverizacion de uso domestico
+52151645,Pincel de uso domestico
+52151646,Mazos y ablandadoras de cocina de uso domestico
+52151650,Coladores de fregadero de uso domestico
+52151702,Cuchillos domesticos
+52151703,Tenedores domesticos
+52151704,Cucharas domesticas
+52151705,Portas cubiertos o cucharas
+52151709,Cuberteria
+52151802,Sartenes domesticas
+52151803,Cacerolas domesticas
+52151804,Hervidoras domesticas
+52151813,Protector contra salpicaduras de uso domestico
+52151902,Moldes domesticos para hornear
+52151903,Moldes domesticos para pasteles o tartas
+52151904,Moldes domesticos para asar
+52151908,Moldes para pizzas de uso domestico
+52152001,Jarras domesticas
+52152002,Envases para guardar alimentos
+52152004,Platos domesticos
+52152005,Platillos domesticos
+52152006,Bandejas o fuentes domesticas
+52152008,Teteras o cafeteras domesticas
+52152009,Soperas o ensaladeras domesticas
+52152010,Termos o conservadoras domesticos
+52152011,Guampas
+52152013,Pimenteros
+52152015,Compotera 
+52152101,Tazas de cafe o te domesticas
+52152102,Vasos para beber domesticos
+52152104,Copas de uso domestico
+52152105,Biberones o accesorios
+52161502,Reproductores y registradores de cassettes
+52161505,Televisores
+52161509,Sistemas estereo portatil
+52161510,Sistemas estereo para el hogar
+52161512,Altavoces o parlantes
+52161514,Audifonos
+52161517,Compensadores
+52161518,Receptores de sistema de posicionar global
+52161520,Microfonos y pedestales
+52161521,Receptores Multimedia
+52161523,Receptores o transmisores de radiofrecuencia
+52161524,Receptores y transreceptores de radio
+52161525,Mando a Distancia
+52161527,Subaltavoces para baja frecuencia
+52161529,Grabadores o Tocadores para Cintas de Video
+52161533,Megafono
+52161535,Grabadoras de voz digitales
+52161539,Reproductor combinado de videodiscos digitales (DVD)
+52161540,Conmutadores de video
+52161543,Grabadoras o reproductores de formato MP y accesorios
+52161601,Cassettes
+52161604,Adaptadores de clavijas de auriculares
+53101501,Pantalones de esport
+53101502,Pantalones de esport
+53101504,Pantalones de esport
+53101505,Pantalones de esport
+53101602,Camisas de hombre
+53101603,Camisas de nina
+53101604,Camisas o blusas de mujer
+53101702,Sueteres para hombre y mujer
+53101802,Abrigos y chaquetas para hombre
+53101804,Abrigos y chaquetas para mujer
+53101902,Trajes de hombre
+53101904,Trajes de mujer
+53101905,Trajes de bebe
+53102002,Vestidos
+53102102,Batas y/o tunicas para hombre y mujer
+53102105,Batas y monos para bebe
+53102202,Ropa folclorica para hombre
+53102204,Ropa folclorica para mujer
+53102205,Ropa folclorica de Abrigo
+53102302,Ropa interior femenino
+53102303,Ropa interior masculino
+53102305,Panales para bebe
+53102306,Panales para adultos
+53102401,Medias
+53102402,Calcetines
+53102501,Cinturones o tirantes
+53102502,Corbatas
+53102503,Sombreros
+53102504,Guantes o manoplas
+53102505,Paraguas y sombrillas
+53102507,Perchas de ropa
+53102512,panuelos
+53102516,Gorras
+53102517,Sujetacorbatas
+53102518,Accesorios Militares - Policiales
+53102519,Gorgueras / Baberos
+53102602,Pijamas
+53102604,Pijamas
+53102605,Pijamas
+53102701,Uniformes Militares
+53102703,Uniformes de policia
+53102704,Atuendo de servicio o preparacion de alimentos institucional
+53102706,Uniformes de seguridad / operarios / limpieza
+53102710,Uniformes empresariales
+53102712,Uniformes de personal medico
+53102901,Prendas de deporte de mujer
+53102902,Prendas de deporte de hombre
+53103001,Camisetas
+53103101,Chalecos para dama y caballero
+53111501,Botas 
+53111601,Zapatos de hombre
+53111602,Zapatos de mujer
+53111603,Zapatos de nino
+53111701,Zapatillas de hombre
+53111702,Zapatillas de mujer
+53111901,Calzado deportivo de hombre
+53111902,Calzado deportivo de mujer
+53111903,Calzado deportivo de nino
+53112002,Cordones de calzados
+53112003,Almohadillas para el talon
+53112101,Chanclos
+53121503,Maletas individuales
+53121601,Bolsos de mano o monederos
+53121603,Mochilas y cartucheras
+53121702,Maletines
+53121704,Portafolios
+53121705,Cajas para material y equipos
+53121706,Bolsas para computadores
+53121803,Cepillos de ropa
+53131502,Dentrifico
+53131503,Cepillos de dientes
+53131504,Hilo dental
+53131505,Chupete de nino
+53131507,palillos
+53131602,Suministros para el cuidado del cabello
+53131603,Maquinas de afeitar y accesorios
+53131604,Peines o cepillos para el pelo
+53131605,Utensilio para baño
+53131606,Desodorantes
+53131608,Jabones
+53131609,Productos protectores del sol
+53131613,Productos para el cuidado de la piel
+53131615,Productos de higiene femenina
+53131616,Cremas o lociones parafarmaceuticas
+53131620,Perfumes o colonias o fragancias
+53131621,Cortaunas
+53131622,Condones
+53131634,Productos de proteccion quimica
+53131635,Brochas de afeitar
+53141501,Alfileres rectos
+53141504,Hebillas
+53141505,Botones
+53141506,Cierres
+53141507,Broches y prendedores
+53141605,Agujas de coser
+53141617,Bucles de tejido
+54101701,Compuestos de limpieza de metales
+54111501,Relojes de pulsera
+54111502,Reloj cronometro
+54111601,Relojes de pared
+54111709,Kits de reparacion de relojes de pulsera o de pared o pie
+55101501,Cartas
+55101504,Periodicos
+55101506,Revistas
+55101509,Libros de texto educativos o vocacionales
+55101516,Manuales de instrucciones o funcionamiento
+55101519,Publicaciones periodicas
+55101520,Hojas o Folletos de Instrucciones
+55101525,Enciclopedias
+55101526,Diccionarios
+55101528,Libros religiosos
+55111505,Libros en cinta o disco compacto
+55111507,Periodicos e informaciones electronicas
+55111512,Musica en cinta o disco compacto
+55111513,Textos vocacionales o educativos electronicos
+55111601,Manuales del usuario o documentacion de software electronicos
+55121502,Etiquetas de seguridad
+55121506,Etiquetas de precio
+55121606,Etiquetas autoadhesivas
+55121608,Etiquetas de codigo de barras
+55121612,Etiquetas de impresora
+55121616,Banderitas autoadhesivas
+55121619,Etiquetas no adhesivas
+55121701,Placas metalicas indicadoras del nombre
+55121702,Placas no metalicas indicadoras del nombre
+55121703,Senales luminosas
+55121704,Senales de seguridad
+55121706,Banderas y accesorios
+55121710,Senales de trafico
+55121717,Placas
+55121720,Emblemas
+55121722,Mastiles de bandera
+55121727,Letreros
+55121802,Pulseras o tarjetas de identificacion o productos similares
+55121803,Pasaportes
+55121807,Fundas de productos de identificacion o accesorios
+56101501,Soportes
+56101502,Sofas
+56101503,Percheros
+56101504,Sillas
+56101507,Estantes para libros
+56101508,Colchones o sets de cama
+56101514,Taburetes para el pie
+56101515,Camas
+56101516,Cofres
+56101518,Estantes de pared
+56101519,Mesas
+56101520,Armarios
+56101522,Sillon
+56101524,Tablas de planchar
+56101528,Plantas artificiales
+56101529,Estantes de revistas
+56101532,Muebles varios
+56101536,Tripodes de instrumentos
+56101537,Tocadores
+56101538,Muebles para cocina
+56101604,Columpios al aire libre
+56101605,Bancos exteriores
+56101606,Maceteros
+56101607,Tendedero de ropa y accesorios
+56101702,Archivadores para clasificacion o accesorios
+56101703,Escritorios
+56101705,Vitrinas
+56101706,Mesas de conferencia
+56101708,Archivadores moviles
+56101711,Conectores de muebles modulares
+56101712,Pedestales
+56101714,Organizadores de documentos
+56101716,Cubiculos de organizacion de escritorio
+56101803,Carritos o cochecito de nino o paseantes
+56101804,Cunas o parques o accesorios
+56101806,Sillas altas o accesorios
+56101810,Baneras o tinas de bebe
+56101812,Cambiadores de bebes o accesorios
+56101904,Bases
+56111514,Packs de mostradores modulares de oficina
+56111606,Sistemas de panel para piezas o accesorios
+56111707,Estanteria no modular
+56111804,Organizacion autoestables
+56111904,Muebles especiales varios
+56111906,Estantes
+56111907,Carros de herramientas industriales
+56112104,Asientos de Ejecutivos
+56112106,Asientos de Banqueta
+56112108,Conjunto de escritorio y sillon
+56112109,Mesas de trabajo
+56121001,Carros / vagones de libros
+56121006,Bancos tapizados
+56121014,Perchero para bolsas o bolsas
+56121102,Mesas de trabajo de estudiante de arte y dibujo
+56121401,Mesas con bancos moviles
+56121403,Mesas moviles y carritos
+56121501,Mesas de actividades
+56121502,Sillas de aula
+56121504,Taburetes de aula
+56121505,Mesas de clase
+56121506,Pupitres
+56121509,Mesas para equipos informático
+56121601,Juegos de sillas y mesas infantiles
+56121604,Asientos acolchados (pufs) de tamano infantil
+56121701,Modulos de almacenamiento general
+56121704,Armarios de almacenamiento institucionales
+56121804,Escritorio tecnico del instructor
+56122001,Mesas de trabajo de laboratorio
+56122002,Modulos de almacenamiento de laboratorio o accesorios
+56122003,Estaciones de trabajo 
+57101001,Inmuebles Rurales Edificados
+57101002,Inmuebles Rurales Sin Edificacion
+57102001,Inmuebles Urbanos Edificados
+57102002,Inmuebles Urbanos Sin Edificacion
+60101103,Globos terraqueos electronicos
+60101104,Maquinas electronicas de pruebas
+60101308,Adhesivos brillantes
+60101327,Tarjetas de presentacion
+60101330,Tarjetas de la hora
+60101401,Insignias y bastones
+60101405,Cintas o escarapelas de clase
+60101603,Marcos para certificados
+60101606,Diplomas
+60101732,Apuntadores
+60101902,Cubos del alfabeto
+60101905,Placas de las letras del alfabeto
+60102001,Espejo de uso logopedico
+60102304,Libros de literatura infantil
+60102401,abacos
+60102405,Contadores o sets de actividades con contadores para las matematicas basicas
+60102410,Tarjetas de numeros
+60102513,Juegos de domino
+60102704,Sets de actividades o juegos de bloques de patrones
+60103405,Estantes de mapas
+60103804,Mapas historicos
+60103805,Redacciones sobre historia y cultura
+60103807,Libros de recursos de historia
+60103915,Kits o materiales de diseccion
+60104002,Kits de experimentos de acido desoxirribonucleico (ADN)
+60104006,Materiales de pruebas de bacterias
+60104101,Modelos de cuerpo humano
+60104501,Posteres o cuadros de la tabla periodica
+60104506,Modelos moleculares
+60104602,Modelos o sets de modelos
+60104606,Carreras e investigacion de fisica
+60104703,Kits de demostracion de energia
+60104706,Kits de clase de materia
+60104816,Sets o kits opticos
+60104912,Cables o electrodos electricos
+60105003,Aparato de electrones
+60105307,Materiales educativos de formacion de actitud o etica laboral
+60105421,Materiales educativos de comprension o tratamiento de la diversidad cultural
+60105909,Simuladores de embarazo
+60105910,Simuladores de bebes y accesorios
+60105912,Materiales educativos de comprension sobre el abuso infantil
+60105915,Materiales educativos sobre la resucitacion cardiopulmonar o el soporte vital basico
+60106101,Materiales de ensenanza de automocion
+60106107,Materiales de ensenanza de fabricacion
+60106108,Materiales de ensenanza de seguridad o peligro
+60106199,Materiales de Enseñanza de Peluqueria
+60106208,Materiales de ensenanza de medicina
+60106209,Materiales de ensenanza de transporte
+60106211,Materiales de ensenanza del motor o sus piezas
+60106214,Materiales de ensenanza de robotica
+60106401,Equipos / Herramientas Electronicas
+60111205,Guardas o remates de moldes festoneados
+60111301,Bloques de letras o numeros
+60111401,Kits de decoracion del aula
+60111409,Distintivos decorativos
+60111410,Cuerdas o formas decorativas
+60121001,Pinturas en artes
+60121002,Esculturas
+60121003,Estatuas
+60121009,Alfareria
+60121101,Papel sulfito
+60121102,Papel para restauración
+60121103,Papel de dibujo de calco o de vitela
+60121106,Cartulina para impresion o manualidades
+60121108,Cuadernos de papel 
+60121116,Papel crepe para manualidades
+60121123,Papel contac
+60121124,Papel kraft
+60121134,Papel metalico
+60121136,Peliculas de celofan
+60121143,Cartel de presentacion
+60121149,Papel vegetal 
+60121202,Pintura de tempera liquida moderna
+60121211,Pintura acrilica de estilo escolar
+60121213,Pinturas o medios al oleo sinteticos tratados por calor
+60121223,Pintura de acuarela liquida
+60121226,Pinceles de acuarela
+60121242,Delantales
+60121247,Caballetes de madera
+60121301,Guillotinas
+60121413,Albumes u organizadores de fotografias o imagenes
+60121509,Crayolas
+60121524,Boligrafos de gel
+60121525,Boligrafos tecnicos
+60121526,Lapicera y accesorios
+60121535,Borradores de goma
+60121601,Maniquies
+60121702,Almohadilla de sellos de caucho de estampacion
+60121705,Bloques de madera para grabado
+60121716,Accesorios de serigrafiado
+60121807,Tintas de litografia o grabado a la manera negra de base oleosa
+60121811,Tintas de dibujo de base disolvente
+60121813,Tintas de serigrafiado
+60123202,Cintas de liston y seda
+60123204,Cintas decorativas
+60123501,Materiales de cuero o de acordonado de cuero
+60123604,Purpurina de plastico
+60123901,Lentejuelas o ribetes decorativos
+60124322,Compuestos plasticos de modelado
+60124403,Alambre de aluminio
+60124506,Utensilios de plastico de arena o agua
+60131001,Pianos
+60131002,Acordeones
+60131003,organos musicales
+60131101,Trompetas
+60131102,Trombones
+60131103,Tubas
+60131104,Saxofones y accesorios
+60131105,Silbato
+60131108,Trompas de pistones
+60131201,Clarinetes y accesorios
+60131202,Oboes
+60131203,Flautas musicales
+60131207,Armonicas
+60131209,Cornos ingleses
+60131303,Guitarras
+60131304,Violines
+60131305,Arpas
+60131309,Contrabajos
+60131402,Campanas
+60131403,Panderetas
+60131404,Castanuelas
+60131405,Tambores
+60131406,Xilofonos
+60131499,Idiofonos
+60131503,Cuerdas o plectros para instrumentos
+60131507,Accesorios para instrumentos de percusion
+60131508,Cajas de musica o mecanismos
+60131512,Instrumentos de afinacion
+60131701,Tubos de percusion
+60131702,Platos de percusion
+60131802,Palos de ritmo
+60141001,Balones o pelotas de juguete
+60141002,Munecas
+60141004,Munecos de peluche
+60141005,Casas de munecas
+60141006,Bloques de construccion
+60141008,Juguetes para arrastrar
+60141010,Vehiculos de juguete
+60141011,Trenes de juguete
+60141101,Juegos educativos
+60141102,Juegos de mesa
+60141103,Cartas para jugar
+60141104,Juegos de video
+60141105,Rompecabezas
+60141108,Juegos clasicos
+60141113,Juegos de loteria
+60141114,Juegos de memoria
+60141203,Casitas de juguete
+60141205,Zonas acolchadas de juego
+60141405,Kits de juegos de mentirijillas o suministros
+70111501,Servicios de plantacion: plantas
+70111503,Servicios de poda de arboles
+70111508,Servicios de fumigacion de plantas o arboles ornamentales
+70111703,Servicios de plantacion o mantenimiento de jardines
+70111704,Servicios de asesoria de horticultura
+70111706,Servicios de cuidado de cespedes
+70111712,Servicios de fumigacion de parques o jardines
+70111713,Servicios de gestion o mantenimiento de parques
+70131604,Servicios de preparacion de semilleros
+70131703,Rescate y preparacionde terrenos
+70141602,Servicios de control de cultivo
+70141801,Servicios de plantacion de arboles de huerta y vinedos
+70142001,Servicios relativos a los silos
+70151509,Gestion de viveros forestales
+70151802,Servicios de proteccion forestales
+70171701,Servicios de mantenimiento o gestion de canales
+70171707,Servicios de mantenimiento y gestion de pozos de agua
+70171709,Servicios de gestion de sistemas de riego
+71122504,Servicios de pruebas de control de gas o agua
+71161105,Servicios de perforacion del pozo
+72101505,Servicios de cerrajero
+72101506,Servicios de instalacion y mantenimiento de ascensores
+72101601,Instalacion o reparacion de techos
+72101603,Servicios de canaletas y tubos de bajada
+72101604,Metalisteria de arquitectura
+72101606,Instalacion y mantenimiento de conductos
+72101607,Instalacion
+72101703,Construccion y reparacion de aceras
+72101704,Cimentacion
+72101803,Servicio de limpieza varios
+72101901,Diseno o decoracion de interiores
+72101903,Carpinteria o chapisteria de acabados
+72102003,Recubrimiento o satinado de materias estructurales de metal
+72102004,Impermeabilizacion
+72102102,Servicios de control de termitas
+72102103,Servicios de exterminacion o fumigacion
+72102201,Instalacion
+72102202,Instalacion de controles electronicos
+72102203,Instalacion
+72102204,Instalacion
+72102206,Ingenieria subterranea para equipo de comunicaciones
+72102207,Ingenieria aerea para equipo de comunicaciones
+72102208,Montaje / Desmontaje de cables
+72102209,Construccion / Mantenimiento / Reparacion de Presas / Centrales Hidroelectricas
+72102301,Instalacion
+72102303,Construccion de sistemas de fontaneria
+72102304,Instalacion
+72102305,Servicios de reparacion
+72102401,Servicios de pintura de exteriores
+72102402,Servicios de pintura de interiores
+72102405,Servicios de marcado de pavimentos
+72102501,Mamposteria de ladrillo y adoquines
+72102502,Construccion o mantenimiento de chimeneas o ductos
+72102503,Instalacion de marmol
+72102504,Construccion de muros 
+72102507,Instalacion de material aislante
+72102508,Colocacion y restauracion de albanileria
+72102601,Carpinteria general
+72102602,Instalacion
+72102701,Entarimado
+72102702,Revestimiento
+72102703,Servicios de limpieza de suelos
+72102801,Renovacion y/o mantenimiento de edificios
+72102802,Restauracion y/o reparacion de edificios
+72102899,Primera Magistratura
+72102901,Servicios de Mantenimientos de Areas Deportivas
+72102905,Mantenimiento y hermoseamiento de terrenos
+72103001,Servicios de desmonte de terrenos
+72103002,Servicios de remocion y nivelado de terrenos
+72103003,Servicios de demolicion
+72103004,Servicios de excavacion
+72131502,Construccion de viviendas
+72131601,Construccion de edificios comerciales
+72131701,Pavimentación
+72131702,Construccion de puentes y muelles
+73111507,Servicios de elaboracion de cana o mimbre
+73121506,Servicios de procesos de preacabado de hierro o acero
+73121602,Servicios de herreria
+73141502,Servicios de fabricacion e instalacion de vidrios
+73141704,Servicios de fabricación
+73141711,Servicios de fabricacion de maletas
+73151604,Servicios de envasado de productos farmaceuticos
+73151907,Servicios de impresion y duplicacion de CD
+73152101,Servicio de mantenimiento de equipo de fabricacion o maquinarias pesadas
+73152102,Servicio de reparacion de equipo de fabricacion
+73161504,Servicios de fabricacion de plantas industriales o maquinaria especiales
+73161508,Servicios de fabricacion de maquinaria o equipos para impresion de papel
+73161511,Servicios de fabricacion de maquinaria o equipo para plantas de cemento
+73161514,Servicios de fabricacion
+73161518,Servicios de fabricacion y mantenimiento de electrodomesticos
+73161601,Servicios de construccion
+73161607,Servicios de fabricacion
+73171601,Servicio de fabricacion/reparacion/mantenimiento: instrumentos cientificos/equipos medicion
+73171602,Servicios de fabricacion
+73171605,Servicios de fabricacion
+73181001,Servicios de torneria
+73181908,Servicios de soldar
+76101501,Servicios de saneamiento hospitalarios y laboratoriales
+76111501,Servicios de limpieza de edificios
+76111504,Servicios de limpieza de ventanas o contraventanas
+76111505,Servicios de limpieza de telas y muebles
+76111602,Limpieza de conductos de aire y de agua
+76111603,Limpieza de chimeneas  y parrillas
+76111701,Servicios de limpieza de terrenos 
+76111702,Servicios de retirada de materiales de zonas en obras
+76111801,Limpieza de embarcaciones o vehiculos
+76121501,Recogida
+76121503,Servicios de limpieza de calles
+76121601,Vertedero de basuras
+76121701,Servicios de tratamiento de aguas residuales
+76121901,Eliminacion de residuos medicos
+76131501,Tratamiento de material radioactivo
+77101503,Analisis de indicadores medioambientales
+77101504,Servicios de evaluacion de impacto medioambiental (EIA)
+77101701,Servicios de asesoria de ciencias medioambientales
+77101702,Servicios de asesoria de quimica medioambiental
+77109999,Saneamiento ambiental
+77111506,Servicios de proteccion de la radiacion
+77121608,Evaluacion de la contaminacion por pesticidas
+77121702,Servicios de rehabilitacion de la contaminacion de aguas superficiales
+77121703,Control de contaminacion de aguas residuales
+77121704,Servicios de tratamiento de aguas residuales
+77121706,Servicios de control de la contaminacion del agua potable
+78101502,Transporte aereo internacional de carga
+78101603,Transporte de ganado
+78101604,Servicios de transporte de vehiculos
+78101702,Servicios de transporte internacional por buques
+78101703,Servicios de transporte interior por barcazas
+78101802,Servicios de transporte regional o nacional en camion
+78102101,Transporte de productos petroliferos
+78102203,Servicios de entrega o recogida de correo
+78102205,Servicios de entrega local de cartas o pequenos paquetes
+78111501,Servicios de helicoptero
+78111502,Viajes en aviones comerciales
+78111503,Viajes en vuelos personales
+78111601,Servicios de transporte de pasajeros
+78111802,Servicios de autobuses regulares
+78111803,Servicios de autobuses contratados
+78111804,Servicios de taxi
+78111807,Honorarios del estacionamiento
+78111808,Alquiler de vehiculos
+78121502,Servicios de embalar en cajas esqueletas
+78121601,De flete y/o manipulación de carga
+78131602,Almacenaje del archivo de carpetas
+78131603,Almacenamiento de muebles y/o equipos
+78131803,Almacenaje de materias peligrosas
+78131804,Servicios de clasificacion de documentos
+78141502,Servicios de agencia aduanera
+78180101,Servicios de reparacion
+78180103,Servicios de cambio de fluidos de aceite 
+78180201,Servicio de chaperia y pintura
+78180303,Servicios de remolque de vehiculos
+80101504,Servicios de asesoramiento de planificacion estrategica
+80101506,Asesoramiento de estructuras organizativas
+80101507,Servicios de consultoria
+80101601,Estudios de viabilidad o seleccion de ideas de proyectos
+80101604,Administracion o planificacion de proyectos
+80101701,Servicios de gestion de fabricas
+80111504,Formacion o desarrollo laboral
+80111617,Servicios de arquitectura 
+80111619,Servicios profesionales varios
+80111701,Servicios de contratacion de personal y servicios
+80111707,Personal tecnico 
+80111714,Conductores permanentes
+80111715,Personal profesional
+80121604,Leyes de patentes
+80121610,Servicios de derecho sobre recaudacion de la deuda
+80121703,Servicios legales de propiedades o notariado
+80131501,Alquiler de viviendas
+80131502,Alquiler de instalaciones comerciales
+80131503,Arrendamiento de tierras
+80131801,Gestion de la propiedad
+80131802,Servicios de valoracion inmobiliaria
+80141511,Encuestas escritas de investigacion de mercado u otros
+80141513,Entrevistas personales e investigacion de mercado
+80141615,Vehiculo usado
+80141618,Agencias de marketing de ventas
+80141705,Servicios de subasta
+80151503,Servicios de informacion comercial
+80151504,Servicios de promocion comercial
+80161501,Servicios de administracion de oficinas o secretariado
+80161504,Servicios administrativos
+80161507,Servicios Audio Visuales
+80161602,Servicios de inventariado o recepcion
+81101502,Dibujo tecnico
+81101508,Ingenieria arquitectonica
+81101510,Ingenieria de carreteras
+81101512,Servicios de sistemas de informacion geografica (GIS)
+81101513,Gestion y/o supervicion de construccion de edificios
+81101701,Servicios de ingenieria electrica
+81101902,Ingenieria de productos para petroleo y gas
+81111503,Diseno de integracion de sistemas
+81111504,Servicios de programacion de aplicaciones
+81111506,Servicios de programacion y mantenimiento de servidores
+81111508,Servicios de ejecucion de aplicaciones
+81111602,Programacion - Java
+81111704,Diseno de base de datos
+81111801,Seguridad de computadores
+81111803,Soporte o mantenimiento de red de area local (LAN)
+81111804,Soporte o mantenimiento de red extensa (WAN)
+81111805,Mantenimiento o apoyo de sistemas informaticos
+81111806,Analisis de base de datos
+81111810,Codificacion o desarrollo de software
+81111811,Soporte tecnico o servicios de ayuda
+81111812,Mantenimiento del hardware de equipos informaticos y relacionados 
+81112001,Proceso de datos online
+81112002,Servicios de proceso o preparacion de datos
+81112003,Centro de servicios de datos
+81112102,Proveedores de servicio de correo electronico
+81112103,Servicios sobre plataforma Web
+81112105,Servicios de alojamiento de funcionamiento de sitio
+81112107,Servicios de Instalación de Internet y relacionados
+81121501,Analisis macroeconomicos
+81141501,Procesamiento de Productos
+81141503,Inspeccion de productos o materiales o Sistemas de Gestion
+81141504,Ensayo o calibrado de equipos
+81141601,Logistica
+81141602,Analisis de transito
+81141801,Analisis de seguridad o riesgos
+81141804,Servicio de inspeccion y mantenimiento e instalacion de equipos
+81141805,Servicios de inspeccion de edificios
+81141806,Servicios de instalación e inspección de línea eléctrica
+81141807,Servicio de fontaneria o alcantarillado
+81151604,Topografia
+81151703,Estudios geologicos
+81151804,Estudios hidrologicos
+82101502,Publicidad en carteles o carteles de indicación
+82101503,Publicidad en revistas
+82101504,Publicidad o publicacion en periodicos
+82101506,Publicidad en transportes
+82101601,Publicidad y publicacion en radio
+82101602,Publicidad y publicacion en television
+82101603,Publicidad en Internet
+82101604,Publicidad en los cines
+82101699,Publicidad callejera
+82101701,Servicios de publicidad en pancartas (pasacalles)
+82101801,Servicios de agencia publicitaria
+82111502,Servicios de redaccion de manuales
+82111604,Servicios de trascripcion
+82111801,Servicios de edicion
+82111803,Servicios de correccion de pruebas
+82111804,Servicios de traduccion escrita
+82111902,Servicios de boletines informativos de especial interes
+82111903,Servicios telegraficos de agencia de noticias
+82111904,Servicios de entrega de periodicos o material publicitario
+82121501,Servicio de etiquetado
+82121503,Impresion digital
+82121504,Impresion tipografica o impresion por serigrafia
+82121505,Impresion promocional o de informacion
+82121506,Impresion de publicaciones
+82121507,Impresion de papeleria
+82121508,Impresion de envoltorios
+82121509,Impresion o catalogacion de valores o instrumentos financieros
+82121510,Impresion textil
+82121511,Impresion de hoja de instrucciones o manual tecnico
+82121602,Grabado de cd
+82121603,Grabado de planchas metalicas
+82121701,Servicios de copias en blanco y negro o de cotejo
+82121903,Encuadernacion
+82131501,Elaboracion o reproduccion de pelicula fija
+82131503,Servicios de microficha
+82131504,Separacion del color
+82131603,Servicios de produccion de video
+82131604,Servicios de estudio fotografico (fotos fijas)
+82141501,Servicios de redaccion de graficas y planes y trazados
+82141502,Diseno o graficos artisticos
+82141504,Servicios de diseno de graficos y graficas
+82141505,Servicios de diseno por computador
+82141507,Servicios de diseno de serigrafia
+82141601,Servicios fotograficos
+82151501,Servicios de pintores
+82151504,Servicios de escultores
+83101501,Abastecimiento de agua
+83101504,Gestion de distribucion del agua
+83101601,Suministro de gas natural
+83101801,Suministro de electricidad monofasica
+83101803,Suministro de electricidad trifasica
+83101804,Servicios de transmision de energia electrica
+83101807,Distribucion de energia electrica urbana
+83102001,Servicios funerarios
+83111501,Servicio telefonico básico
+83111507,Servicios de centro de llamadas
+83111602,Servicios de sistemas de comunicacion por satelite o terrestre
+83111603,Servicios de telefonia
+83111604,Servicios de radio busqueda
+83111801,Servicios de television por cable
+83111802,Servicios de television por circuito cerrado
+83111901,Gestion de emisoras de radio
+83111902,Servicios o redes de radioaficionados y comerciales
+83111904,Servicios de estudios o equipos de radio
+83112203,Servicios de redes gestionadas de redes virtuales privadas (VPN)
+83112304,Servicios de transmision optica (Ocx)
+83121701,Servicios relacionados con la television
+83121703,Servicios relacionados con Internet
+84111505,Servicios de Asesoramiento contable
+84111601,Auditorias de cierre del ejercicio
+84111603,Peritajes y auditorias internas
+84111703,Servicios de preparacion o revision de presupuestos
+84121604,Servicios de transaccion de divisas al contado
+84121703,Analisis de inversiones
+84121806,Servicios de custodia de valores
+84131501,Seguros de edificios o del contenido de edificios
+84131503,Seguro de vehiculos
+84131504,Seguros de carga
+84131505,Seguros maritimos y aviación
+84131509,Seguro de caucion
+84131511,Seguro de deterioro de valores
+84131512,Seguro de equipo electronico e informatico
+84131514,Seguro de garantia de fidelidad
+84131601,Seguros de vida
+84131602,Seguros de enfermedad y hospitalizacion
+84131603,Seguros de danos personales
+84131607,Seguro de responsabilidad civil
+84131609,Programas de asistencia de empleados
+84141602,Proveedores de servicios de tarjetas de credito / debito
+85101501,Servicios hospitalarios de emergencia o quirurgicos
+85101509,Servicios hospitalarios ginecologicos u obstetricos
+85101601,Servicios de enfermeria
+85101705,Administracion de salud publica
+85111506,Servicios de prevencion o control de enfermedades bacteriologicas
+85111601,Servicios de prevencion o control de enfermedades oseas
+85111602,Servicios de prevencion o control de cancer o leucemia
+85111603,Servicios de prevencion o control de enfermedades endocrinas
+85111604,Servicios de prevencion o control de enfermedades cardiovasculares
+85111607,Servicios de prevencion o control de alteraciones neurologicas
+85111609,Servicios de prevencion o control de radiopatias
+85111610,Servicios de prevencion o control de enfermedades del sistema digestivo
+85111612,Servicios de prevencion o control de enfermedades respiratorias
+85111614,Servicios de prevencion o control de enfermedades infantiles
+85121502,Servicios en consultas medicas
+85121503,Servicios de control de medicos de atencion primaria
+85121504,Servicios medicos varios
+85121601,Servicios ginecologicos y de obstetricia
+85121602,Servicios de nefrologia
+85121603,Servicios de cardiologia
+85121604,Servicios de especialistas de pulmon
+85121605,Servicios de gastroenterologos
+85121607,Servicios psiquiatricos
+85121608,Servicios psicologicos
+85121609,Servicios quirurgicos
+85121610,Servicios oftalmologicos
+85121612,Servicios ortopedicos y de traumatologia
+85121613,Servicios de especialidades medicas
+85121614,Servicios de especialista del sistema nervioso
+85121801,Servicios de laboratorios de analisis sanguineos
+85121802,Servicios de laboratorios bacteriologicos
+85121803,Servicios de laboratorios biologicos
+85121805,Servicios de laboratorios de analisis de orina
+85121807,Servicios de laboratorios de ultrasonidos
+85121808,Servicios de diagnostico
+85121809,Servicios de bancos de sangre
+85121810,Servicios de deteccion de drogas o alcohol
+85122003,Servicios de personal odontologico
+85122101,Servicios de fisioterapia
+85122102,Servicios de terapia ocupacional
+85122106,Servicios de lesiones cerebrales o de la medula espinal - Sist. Nervioso
+85122108,Logopedia y foniatria
+85122109,Servicios de rehabilitacion para gente con discapacidades cronicas
+85131501,Servicios de transplante de organos
+85131705,Servicios de investigacion anatomica
+85131709,Servicios de investigacion genetica
+85131712,Servicios de investigacion toxicologica
+85151601,Servicios de programacion de la nutricion
+86101501,Formacion profesional de industria agropecuaria
+86101502,Formacion profesional para la industria lactea
+86101503,Formacion profesional para la industria carnica
+86101504,Servicios de formacion profesional agricola
+86101506,Servicios de formacion profesional forestal
+86101508,Servicios de formacion profesional medioambiental
+86101509,Servicios de formacion profesional de procesamiento de alimentos
+86101601,Servicios de formacion profesional de informatica
+86101603,Servicios de formacion profesional quimica
+86101606,Servicios de formacion profesional de electronica
+86101609,Servicios de formacion profesional industrial
+86101610,Servicios de formacion profesional de ingenieria
+86101701,Servicios de formacion profesional de comunicaciones
+86101702,Formacion relacionada con el turismo y hoteleria
+86101705,Formacion administrativa
+86101706,Servicios de formacion profesional de asistencia sanitaria
+86101707,Servicios de formacion profesional de cuidado personal
+86101709,Servicios de formacion para la seguridad
+86101711,Servicios de formacion de lucha contra incendios
+86101712,Servicios de formacion profesional de artesania
+86101713,Servicios de formacion profesional de derecho
+86101716,Servicios de formacion profesional sobre transportes
+86101802,Servicios de formacion de adiestramiento profesional varios
+86101804,Desarrollo de recursos humanos en el sector comercial
+86101805,Desarrollo de recursos humanos en el sector industrial
+86111701,Ensenanza conversacional de idiomas extranjeros
+86121601,Organizaciones de Formacion y Educacion
+86121701,Programas de grado
+86121702,Programas de postgrado
+86121802,Seminarios teologicos
+86131503,Escultura
+86131702,Capacitacion sobre aeronautica
+86131703,Servicios de escuelas de manejo de botes o yates
+86131803,Formacion de policia militar
+86131903,Escuelas especializadas para personas discapacitadas
+86141501,Servicios de asesoramiento educativo
+86141502,Servicios de orientacion de cooperacion universitaria
+86141704,Servicios de biblioteca y documentacion
+90101501,Restaurantes
+90101603,Servicios de catering
+90101604,Servicios de catering en la obra o lugar de trabajo
+90111501,Hoteles
+90111603,Salas de reuniones o banquetes
+90121501,Servicios de planificacion de excursiones
+90121502,Agencias de viajes 
+90121503,Servicios de fletamento
+90121602,Servicios de documentos auxiliares o visados
+90131501,Actuaciones u obras teatrales
+90141701,Ligas deportivas de competiciones juveniles
+90151702,Colonias de vacaciones
+90151802,Servicios de organizacion y gestion de eventos
+90151803,Construccion o creacion de stands de feria
+91111502,Servicios de lavanderia
+91111602,Servicios de mantenimiento de patios y piscinas
+91111703,Servicios de compra de vestuario
+91111901,Servicios de guarderia para bebes y ninos
+92101603,Servicios de prevencion de incendios
+92101701,Servicios de carcel
+92101804,Honorarios de casos judiciales
+92101901,Servicio de Buzo
+92101902,Servicios de ambulancia
+92121504,Servicios de guardias de seguridad
+92121701,Vigilancia o mantenimiento o control de alarmas
+92121702,Instalacion y mantenimiento de sistemas de alarmas y equipos contra incendios
+92121703,Instalación y Mantenimiento de Blindajes 
+92121704,Mantenimiento o control de sistemas de vigilancia de reclusion
+93101703,Servicios de redaccion de proyectos de ley
+93131609,Politicas o programas de ayuda alimentaria
+93141503,Servicios de planificacion social
+93141513,Servicios de justicia o legislacion social
+93141909,Servicios de administracion de la tierra
+93151501,Servicios de gestion o financieros de empresas publicas
+93151502,Servicios de sistemas de informacion o control de empresas publicas
+93151505,Servicios de agencias administrativas
+93151508,Servicios de departamentos gubernamentales
+93151603,Gestion de inversiones presupuestarias o publicas
+93151606,Servicios gubernamentales
+93151607,Servicios de auditoria gubernamentales
+93151608,Servicios bancarios 
+93151701,Monedas o acuñacion
+93151702,Billetes de

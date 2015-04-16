@@ -1,0 +1,202 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="py.gov.contrataciones.reikuaa.view.BusquedaActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"
+        />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:id="@+id/scrollView" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginRight="20dp"
+            android:paddingTop="15dp"
+            >
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/idNombreEdit"
+                android:singleLine="true"
+                android:hint="ID de llamado"
+                android:layout_alignParentTop="true"
+                app:floatingLabel="normal"
+                android:inputType="number" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/idNombreEdit"
+                android:layout_marginTop="15dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Categoria:"
+                android:id="@+id/textView3" />
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/categoriaSpinner"
+                android:spinnerMode="dialog"
+                android:layout_alignTop="@+id/textView3"
+                android:layout_toRightOf="@+id/textView4"
+                android:layout_toEndOf="@+id/textView4"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_marginTop="15dp"
+                android:text="Tipo de Procedimiento:"
+                android:id="@+id/textView4"
+                android:layout_below="@+id/categoriaSpinner"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_toStartOf="@+id/textView6"
+                android:layout_toLeftOf="@+id/textView6" />
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/modalidadSpinner"
+                android:spinnerMode="dialog"
+                android:layout_alignTop="@+id/textView4"
+                android:layout_alignLeft="@+id/categoriaSpinner"
+                android:layout_alignStart="@+id/categoriaSpinner" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Apertura de llamado:"
+                android:id="@+id/textView5"
+                android:layout_below="@+id/modalidadSpinner"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTextDesde"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000"
+                android:layout_below="@id/textView5"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="(Fecha inicial)"
+                android:editable="false" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="a"
+                android:id="@+id/textView6"
+                android:layout_below="@+id/textView5"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000"
+                android:id="@+id/editTextHasta"
+                android:layout_alignTop="@+id/editTextDesde"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:text="(Fecha final)"
+                android:editable="false" />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/codigoContratacion"
+                android:id="@+id/editContratacionText"
+                app:floatingLabel="normal"
+                android:layout_below="@+id/editTextDesde"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="10dp"
+                android:layout_alignParentStart="true"
+                 />
+
+
+
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:id="@+id/convocanteText"
+                android:layout_below="@id/editContratacionText"
+                style="?android:editTextStyle"
+                android:hint="Convocante"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_marginTop="15dp"
+                android:text="Etapa:"
+                android:id="@+id/estadoSpinnerLabel"
+                android:layout_below="@+id/convocanteText"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/estadoSpinner"
+                android:layout_alignTop="@id/estadoSpinnerLabel"
+                android:layout_toRightOf="@id/estadoSpinnerLabel"
+                android:layout_toEndOf="@id/estadoSpinnerLabel"
+                android:layout_alignLeft="@id/modalidadSpinner"
+                android:layout_alignStart="@id/modalidadSpinner"/>
+
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:hint="Producto"
+                style="?android:editTextStyle"
+                android:id="@+id/productoText"
+                android:layout_below="@+id/estadoSpinner"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/productoText"
+                android:layout_marginTop="5dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:paddingLeft="50dp"
+                android:paddingStart="50dp"
+                android:paddingRight="50dp"
+                android:paddingEnd="50dp"
+                android:background="#fad505"
+                android:src="@drawable/ic_action_search"
+                android:id="@+id/button"
+                android:onClick="buscar"
+                android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

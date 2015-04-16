@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="py.gov.contrataciones.reikuaa" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <permission
+        android:name="py.gov.contrataciones.reikuaa.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="py.gov.contrataciones.reikuaa.permission.C2D_MESSAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <receiver
+            android:name=".util.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="py.gov.contrataciones.reikuaa" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".util.GcmIntentService" />
+
+        <activity
+            android:name=".view.ListaLicitacionesActivity"
+            android:label="@string/licitaciones" >
+        </activity>
+
+        <activity
+            android:name=".view.LicitacionActivity"
+            android:label="@string/title_activity_licitacion"
+            android:launchMode="singleTop"
+            android:parentActivityName=".view.ListaLicitacionesActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.ListaLicitacionesActivity" />
+        </activity>
+        <activity
+            android:name=".view.BusquedaActivity"
+            android:label="@string/title_activity_busqueda"
+            android:parentActivityName=".view.ListaLicitacionesActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.ListaLicitacionesActivity" />
+        </activity>
+        <activity
+            android:name=".view.AdjudicacionesActivity"
+            android:label="@string/title_activity_adjudicaciones"
+            android:launchMode="singleTop"
+            android:parentActivityName=".view.LicitacionActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="py.gov.contrataciones.reikuaa.view.LicitacionActivity" />
+        </activity>
+        <activity
+            android:name=".view.ResultadosActivity"
+            android:label="@string/title_activity_resultados"
+            android:parentActivityName=".view.BusquedaActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="py.gov.contrataciones.reikuaa.view.BusquedaActivity" />
+        </activity>
+        <activity
+            android:name=".view.ConfiguracionActivity"
+            android:label="@string/title_activity_configuracion"
+            android:parentActivityName=".view.ListaLicitacionesActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.ListaLicitacionesActivity" />
+        </activity>
+        <activity
+            android:name=".view.MisLicitacionesActivity"
+            android:label="@string/title_activity_mis_licitaciones"
+            android:parentActivityName=".view.ListaLicitacionesActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="py.gov.contrataciones.reikuaa.view.ListaLicitacionesActivity" />
+        </activity>
+        <activity
+            android:name=".view.SplashActivity"
+            android:label="@string/title_activity_splash" >
+            <intent-filter android:label="@string/app_name" >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
